@@ -1074,7 +1074,7 @@ aby byl jeho krví uzdraven
 od prvního jedu.
 ```
 
-### Confitebor tibi Domine (Ž 138)
+### Confitebor tibi Domine (Ž 111)
 
 ```
 Confitebor tibi, Domine, in toto corde meo, quoniam audisti verba oris mei.
