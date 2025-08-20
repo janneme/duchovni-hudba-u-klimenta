@@ -2444,16 +2444,22 @@ Amen.
 25. **64) Drauf beugten sie aus Spott vor ihm die Knie** (Rec., 0:10)
 26. **66) Ja, scheueten sich nicht** (Rec., 0:10)
 27. **68) Worauf sie mit dem Rohr, das seine Hände trugen** (Rec., 0:15)
+28. **72) Wie man ihm nun genug Verspottung** (Rec., 0:30)
+29. **76) Und er trug selbst sein Kreuz** (Rec., 0:10)
+30. **78) Wie sie nun an die Stätte** (Rec., 0:20)
 
 ##### Gläubige Seele (B)
 
 1. **40) Erwäg, ergrimmte Natterbrut** (Aria, 2:00)
+2. **79) Hier erstarrt mein Herz und Blut** (Aria, 1:30)
+3. **80) O Anblick! O entsetzliches Gesicht!** (Rec., 1:30)
 
 ##### Gläubige Seele (S)
 
 1. **55) Ich seh’ an einen Stein gebunden** (Aria, 1:30)
 2. **56) Drum, Seele, schau mit ängstlichem Vergnügen** (Rec., 1:30)
 3. **57) Dem Himmel gleicht sein blutgefärbter Rücken** (Aria, 3:00)
+
 
 ##### Chor
 
@@ -2469,6 +2475,8 @@ Amen.
 10. **51) Weg! Laß ihn kreuzigen!** (Chor, 0:10)
 11. **51) Weg! Laß ihn kreuzigen!** (Chor, 0:10)
 12. **65) Ein jeder sei ihm untertänig!** (Chor, 0:20)
+13. **72) Wohin** (Aria, Chor, 1:50)
+14. **81) O Menschenkind** (Choral, 1:00)
 
 ##### Jacobus (T)
 7. **17) Erwachet doch!** (Aria, 1:00)
@@ -2489,6 +2497,7 @@ Amen.
 10. **38) Ich bin’s! Von nun an werdet ihr** (Rec., 0:15)
 11. **47) Du hast’s gesagt** (Rec., 0:05)
 12. **50) Nein, ich will euch jetzo zeigen** (Duetto, 2:10)
+75. **75) Soll mein Kind, mein Leben sterben** (Duetto, 1:00)
 
 ##### Johannes (B)
 
@@ -2510,6 +2519,12 @@ Amen.
 ##### Ein Kriegsknecht (T)
 
 1. **28) Du Ketzer willst dich unterstehn** (Rec., 0:15)
+
+##### Maria (S)
+
+73. **73) Ach Gott, ach Gott! Mein Sohn** (Rec., 0:30)
+74. **74) Wie schwer ist meines Jammers Last!** (Accompagnato, 1:00)
+75. **75) Soll mein Kind, mein Leben sterben** (Duetto, 1:00)
 
 ##### Petrus (T)
 
@@ -2553,10 +2568,14 @@ Amen.
 17. **67) Schäumest du, du Schaum der Welt** (Aria, 1:00)
 18. **69) Bestürtzter Sünder, nimm in acht** (Rec, 1:00)
 19. **70) Heil der Welt, dein schmerzlich Leiden (Aria, 5:30)
+20. **72) Eilt, ihr angefochten Seelen (Aria, 1:50)
+21. **76) Ach herbe Plagen, ach Marter** (Rec., 0:20)
+22. **77) Es scheint, da den zerkerbten Rücken** (Aria, 1:40)
 
 ##### Zweite Magd (S)
 
 1. **Soviel ich mich erinnern kann** (Rec., 0:15)
+
 #### Části
 
 1. 3:40 Chor: **Mich vom Stricke meiner Sünden** (2ob, 2vn, vla, bc)
@@ -2630,6 +2649,17 @@ Amen.
 68. 0:15 Evangelista: **Worauf sie mit dem Rohr, das seine Hände trugen** (Rec.)
 69. 1:00 Tochter Zion: **Bestürtzter Sünder, nimm in acht** (Rec.)
 70. 5:30 Tochter Zion: **Heil der Welt, dein schmerzlich Leiden** (Aria, fl, vl, bc)
+71. 0:30 Evangelista: **Wie man ihm nun genug Verspottung** (Rec.)
+72. 1:50 Tochter Zion: **Eilt, ihr angefochten Seelen** / **Wohin** (Aria, Chor, 2ob, 2vn, vla, bc)
+73. 0:30 Maria: **Ach Gott, ach Gott! Mein Sohn** (Rec.)
+74. 1:00 Maria: **Wie schwer ist meines Jammers Last!** (Accompagnato, 2vn, vla, bc)
+75. 1:00 Maria, Jesus: **Soll mein Kind, mein Leben sterben** (Duetto, bc)
+76. 0:10 Evangelista: **Und er trug selbst sein Kreuz** (Rec.)<br>0:20 Tochter Zion: **Ach herbe Plagen, ach Marter** (Rec.)
+77. 1:40 Tochter Zion: **Es scheint, da den zerkerbten Rücken** (Aria, bc)
+78. 0:20 Evangelista: **Wie sie nun an die Stätte** (Rec.)
+79. 1:30 Glaubige Seele: **Hier erstarrt mein Herz und Blut** (Aria, 2ob, 2vn, bc)
+80. 1:30 Glaubige Seele: **O Anblick! O entsetzliches Gesicht!** (Rec.)
+81. 1:00 Chor: **O Menschenkind** (Chor, 2ob, 2vn, vla, bc)
 
 #### Text
 
@@ -3378,6 +3408,7 @@ Wo führt ihr ihn, verruchte Mörder, hin?
 Zum Tode, wie mir scheinet.
 Hab’ ich denn seinen Tod erleben müßen,
 Gekränkte Mutter, die ich bin?
+
 Wie schwer ist meines Jammers Last!
 Es dringt ein Schwert durch meine Seele,
 Mein Kind, mein Herr, mein Gott erblaßt!
@@ -3427,6 +3458,7 @@ Dürft ihr denn, ihr Teufel, wagen,
 Gottes Sohn ans Kreuz zu schlagen?
 
 Eine gläubige Seele:
+O Anblick! O entsetzliches Gesicht!
 Wie scheußlich wird mein Seelen-Bräutigam,
 Von diesen Bütteln zugericht!
 Itzt reissen sie das unbefleckte Lamm,
@@ -3436,8 +3468,8 @@ Ihm Hand und Fuß, ihm Arm und Sehnen
 Erbärmlich auszudehnen,
 Mit Stricken auszuzerrn, mit Nägeln anzupflöcken;
 Daß man an Ihm fast alle Beine zehlt.
-Ach Gott! Ich sterbe schier vor Schrecken,
-Und werde fast, durchs blosse seh’n, entseelt!
+Ach GOtt! Ich sterbe schier vor Schrecken,
+Und werde fast, durchs blosse seh'n, entseelt!
 
 Chor:
 O Menschenkind,
