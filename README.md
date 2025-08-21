@@ -10,41 +10,6 @@
 
 ## Návrhy
 
-### 19.10.2025 nebo 26.10.2025
-
-#### 1) Graupner, Christoph (1683-1760): Erbarm dich mein o Herre Gott, GWV 1163/24
-
-- 16:30, fl, 2vn, vla, bc, SATB
-- [partitura na IMSLP](https://imslp.org/wiki/Erbarm_dich_mein_o_Herre_Gott%2C_GWV_1163%2F24_(Graupner%2C_Christoph)), [text](#user-content-graupner-erbarm-dich-mein-o-herre-gott)
-
-#### 2) Bach, Johann Sebastian (1685-1750): Der Herr denket an uns, BWV 196
-
-- 12:00, 2vn, vla, vc, bc, SATB
-- [nahrávka](https://www.youtube.com/watch?v=YNjAHgMMsFs&ab_channel=NetherlandsBachSociety), [partitura a party na IMSLP](https://imslp.org/wiki/Der_Herr_denket_an_uns%2C_BWV_196_(Bach%2C_Johann_Sebastian)), [text](#bach-der-herr-denket-an-uns)
-
-#### 3) Buxtehude, Dietrich (1637-1707) - Gott hilf mir, BuxWV 34
-
-- 14:30, 2vn, vla, vlne, bc, SATB
-- [nahrávka](https://www.youtube.com/watch?v=IvYUfeAmP6M), [partitura a party na IMSLP](https://imslp.org/wiki/Gott_hilf_mir%2C_BuxWV_34_(Buxtehude%2C_Dietrich)), [text](#user-content-buxtehude-gott-hilf-mir)
-
-#### 4) Buxtehude, Dietrich (1637-1707) - Nimm von uns, Herr, BuxWV 78
-
-- 13:00, 2vn, 2vla, (bn), bc, SATB
-- [nahrávka](https://www.youtube.com/watch?v=I7f81kf0MGc), [partitura a party na IMSLP](https://imslp.org/wiki/Gott_hilf_mir%2C_BuxWV_34_(Buxtehude%2C_Dietrich)), [text](#user-content-buxtehude-nimm-von-uns-herr)
-
-#### 5) Bernardino, Azzolino della Ciaja (1671-1755): Lauda Jerusalem Dominum
-
-- 10:30 (2:00 + 2:00 + 2:00 + 2:30 + 2:00), 2vn, vla, bc, SSATB
-- [rukopis na IMSLP](https://imslp.org/wiki/Lauda_Jerusalem_Dominum_(Della_Ciaja%2C_Azzolino_Bernardino)), [text](#user-content-lauda-jerusalem-dominum)
-
-#### 6) Caldara, Antonio (1670-1736): Confitebor tibi Domine
-
-(pokud seženeme hoboj)
-
-- 21:00, ob, 2vl, bc, SATB
-- [nahrávka](https://www.youtube.com/watch?v=LUnbqlM4xP4&t=1060s), [partitura](https://archive.org/details/ybimslp00052/page/44/mode/2up), [text](#user-content-confitebor-tibi-domine-ž-138)
-
-
 ### 7.12.2025 nebo 14.12.2025
 
 ### 8.1.2026
@@ -54,6 +19,10 @@ Večer věnovaný Edvardu Schiffauerovi a Ivanu Binarovi.
 ### 18.2.2026 v 19:00 – Popeleční středa
 
 ## Seznam vystoupení
+
+### 2025 – 2026
+
+- **[XX.10.2025](#XX02025)**: **Rosenmuller, Johann** (1619-1684): **Confitebor tibi Domine**
 
 ### 2024 – 2025
 
@@ -270,6 +239,14 @@ Provedení se účastnili klimentští Anglikáni.
 
 - **Urio, Francesco Antonio** (1631-1719): **Dominus regit me**
 
+### XX.10.2025
+
+#### Hudba před bohoslužbami
+
+#### Hudba při bohoslužbách
+
+- **Rosenmuller, Johann** (1619-1684): [**Confitebor tibi Domine**](#user-content-rosenmuller-confitebor-tibi-domine-ž-138)
+
 ## Plánované skladby
 
 ### Bach, Johann Sebastian (1685-1750): Christ lag in Todesbanden, BWV 4
@@ -310,7 +287,7 @@ Provedení se účastnili klimentští Anglikáni.
 ### Caldara, Antonio (1670-1736): Confitebor tibi Domine
 
 - 21:00, ob, 2vl, bc, SATB
-- [nahrávka](https://www.youtube.com/watch?v=LUnbqlM4xP4&t=1060s), [partitura](https://archive.org/details/ybimslp00052/page/44/mode/2up), [text](#user-content-confitebor-tibi-domine)
+- [nahrávka](https://www.youtube.com/watch?v=LUnbqlM4xP4&t=1060s), [partitura](https://archive.org/details/ybimslp00052/page/44/mode/2up), [text](#user-content-confitebor-tibi-domine-ž-111)
 
 ### Delalande, Michel-Richard (1657-1726): Super flumina Babylonis S. 13
 
@@ -346,6 +323,11 @@ Provedení se účastnili klimentští Anglikáni.
 
 - 8:30, 2vn, vla, bc, SSATB
 - [nahrávka](https://www.youtube.com/watch?v=hBgytRyGJaE), [partitura na IMSLP](https://imslp.org/wiki/I_will_give_thanks_unto_thee%2C_O_Lord%2C_Z.20_(Purcell%2C_Henry))
+
+### Rosenmuller, Johann (1619-1684): Confitebor tibi Domine
+
+- 11:00, 2vl, vla, bc, SATB
+- [rukopis](https://digital.staatsbibliothek-berlin.de/werkansicht?PPN=PPN642201323&PHYSID=PHYS_0091&DMDID=DMDLOG_0005&view=picture-download) (str. 91-105), [text](#user-content-rosenmuller-confitebor-tibi-domine-ž-138)
 
 ### Scarlatti, Alessandro (1660-1725): Cain, ovvero il primo omicidio (výběr)
 
@@ -1075,6 +1057,34 @@ od prvního jedu.
 ```
 
 ### Confitebor tibi Domine (Ž 111)
+
+```
+Confitebor tibi, Domine, in toto corde meo, in consilio justorum, et congregatione.
+
+Magna opera Domini: exquisita in omnes voluntates ejus.
+
+Confessio et magnificentia opus ejus, et justitia ejus manet in saeculum saeculi.
+
+Memoriam fecit mirabilium suorum, misericors et miserator Dominus.
+
+Escam dedit timentibus se; memor erit in saeculum testamenti sui.
+
+Virtutem operum suorum annuntiabit populo suo,
+
+ut det illis haereditatem gentium.
+Opera manuum ejus veritas et judicium.
+
+Fidelia omnia mandata ejus,
+onfirmata in saeculum saeculi, facta in veritate et aequitate.
+
+Redemptionem misit populo suo; mandavit in aeternum testamentum suum.
+Sanctum et terribile nomen ejus.
+
+Initium sapientiae timor Domini; intellectus bonus omnibus
+facientibus eum: laudatio ejus manet in saeculum saeculi.
+```
+
+### Confitebor tibi Domine (Ž 138)
 
 ```
 Confitebor tibi, Domine, in toto corde meo, quoniam audisti verba oris mei.
