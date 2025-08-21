@@ -299,10 +299,6 @@ Provedení se účastnili klimentští Anglikáni.
 - 16:30, fl, 2vn, vla, bc, SATB
 - [partitura na IMSLP](https://imslp.org/wiki/Erbarm_dich_mein_o_Herre_Gott%2C_GWV_1163%2F24_(Graupner%2C_Christoph)), [text](#user-content-graupner-erbarm-dich-mein-o-herre-gott)
 
-### Keiser, Rheinhard (1674-1739): Brockes Passion
-
-- text
-
 ### Charpentier, Marc-Antoine (1643-1704): De profundis, H. 189
 
 - 14:30, 2vn, 2fl, 2vla, vc, SSAT(T)BB
