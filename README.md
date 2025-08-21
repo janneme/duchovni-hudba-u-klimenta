@@ -2453,19 +2453,42 @@ Amen.
 28. **72) Wie man ihm nun genug Verspottung** (Rec., 0:30)
 29. **76) Und er trug selbst sein Kreuz** (Rec., 0:10)
 30. **78) Wie sie nun an die Stätte** (Rec., 0:20)
-
-##### Gläubige Seele (B)
-
-1. **40) Erwäg, ergrimmte Natterbrut** (Aria, 2:00)
-2. **79) Hier erstarrt mein Herz und Blut** (Aria, 1:30)
-3. **80) O Anblick! O entsetzliches Gesicht!** (Rec., 1:30)
+31. **82) Sobald er nun gekreuzigt war** (Rec., 0:40)
+32. **84) Und eine dichte Finsternis** (Rec., 0:10)
+33. **86) Dies war zur neunten Stund’** (Rec., 0:10)
+34. **88) Das ist, in unsrer Sprach’ zu fassen:** (Rec., 0:10)
+35. **90) Darnach, wie ihm bewußt, daß alles schon vorbei** (Rec., 0:15)
+36. **92) Drauf lief ein Kriegsknecht hin** (Rec., 0:30)
+37. **95) Drauf neiget er sein Haupt** (Rec., 0:10)
+38. **97) Und er verschied** (Rec., 0:10)
 
 ##### Gläubige Seele (S)
 
 1. **55) Ich seh’ an einen Stein gebunden** (Aria, 1:30)
 2. **56) Drum, Seele, schau mit ängstlichem Vergnügen** (Rec., 1:30)
 3. **57) Dem Himmel gleicht sein blutgefärbter Rücken** (Aria, 3:00)
+4. **104) Wisch ab der Tränen bittre Ströme** (Aria, 2:40)
 
+##### Gläubige Seele (T)
+
+1. **91) Mein Heiland, Herr und Fürst!** (Aria, 1:10)
+2. **96) Dies sind der Tochter Zions Fragen** (Aria, 0:45)
+3. **102) Bei Jesu Tod und Leiden leidet** (Aria, 2:40)
+
+##### Gläubige Seele (B)
+
+1. **40) Erwäg, ergrimmte Natterbrut** (Aria, 2:00)
+2. **79) Hier erstarrt mein Herz und Blut** (Aria, 1:30)
+3. **80) O Anblick! O entsetzliches Gesicht!** (Rec., 1:30)
+4. **85) Was Wunder, daß der Sonnen Pracht** (Aria, 0:40)
+5. **98) Brich brüllender Abgrund, zertrümre, zerspalte!** (Aria, 2:45)
+6. **99) Ja, ja, es brüllet schon in unterird’schen Grüften** (Aria, 0:30)
+7. **101) Wie kömmt’s, daß, da der Himmel weint** (Aria, 1:20)
+3. **102) Bei Jesu Tod und Leiden leidet** (Aria, 2:40)
+
+##### Hauptmann (B)
+
+1. **100) Hilf Himmel, was ist dies?** (Rec., 1:20)
 
 ##### Chor
 
@@ -2483,6 +2506,11 @@ Amen.
 12. **65) Ein jeder sei ihm untertänig!** (Chor, 0:20)
 13. **72) Wohin** (Aria, Chor, 1:50)
 14. **81) O Menschenkind** (Choral, 1:00)
+15. **83) Pfui, seht mir doch den neuen König an!** (Chor der Juden und Mörder, 1:00)
+16. **93) O Donnerwort! O schrecklich Schreien!** (Drei Gläubige Seele, TTT, SSS, 1:40)
+17. **94) O selig, wer dies glaubt** (Drei Gläubige Seele, SSS, 0:30)
+18. **103) Mein’ Sünd’ mich werden kränken sehr** (Choral, 0:45)
+19. **105) Ich bin ein Glied an deinem Leib** (Choral, 0:45)
 
 ##### Jacobus (T)
 7. **17) Erwachet doch!** (Aria, 1:00)
@@ -2503,7 +2531,11 @@ Amen.
 10. **38) Ich bin’s! Von nun an werdet ihr** (Rec., 0:15)
 11. **47) Du hast’s gesagt** (Rec., 0:05)
 12. **50) Nein, ich will euch jetzo zeigen** (Duetto, 2:10)
-75. **75) Soll mein Kind, mein Leben sterben** (Duetto, 1:00)
+13. **75) Soll mein Kind, mein Leben sterben** (Duetto, 1:00)
+14. **87) Eli! Lama Asaphtani!** (Aria, 0:20)
+15. **89) Mein Gott, wie hast du mich verlassen!** (Aria, 0:15)
+16. **90) Mich dürstet!** (Rec., 0:05)
+17. **92) Es ist vollbracht!** (Aria, 0:15)
 
 ##### Johannes (B)
 
@@ -2577,6 +2609,8 @@ Amen.
 20. **72) Eilt, ihr angefochten Seelen (Aria, 1:50)
 21. **76) Ach herbe Plagen, ach Marter** (Rec., 0:20)
 22. **77) Es scheint, da den zerkerbten Rücken** (Aria, 1:40)
+23. **96) Sind meiner Seelen tiefe Wunden** (Aria, 0:45)
+24. **97) O Großmut! O erbarmendes Gemüt!** (Rec., 0:10)
 
 ##### Zweite Magd (S)
 
@@ -2666,6 +2700,30 @@ Amen.
 79. 1:30 Glaubige Seele: **Hier erstarrt mein Herz und Blut** (Aria, 2ob, 2vn, bc)
 80. 1:30 Glaubige Seele: **O Anblick! O entsetzliches Gesicht!** (Rec.)
 81. 1:00 Chor: **O Menschenkind** (Chor, 2ob, 2vn, vla, bc)
+82. 0:40 Evangelista: **Sobald er nun gekreuzigt war** (Rec.)
+83. 1:00 Chor: **Pfui, seht mir doch den neuen König an!** (Chor, 2vn, vla, bc)
+84. 0:10 Evangelista: **Und eine dichte Finsternis** (Rec.)
+85. 0:40 Glaubige Seele: **Was Wunder, daß der Sonnen Pracht** (Aria, 2vn, bc)
+86. 0:10 Evangelista: **Dies war zur neunten Stund’** (Rec.)
+87. 0:20 Jesus: **Eli! Lama Asaphtani!** (Aria, 2vn, vla, bc)
+88. 0:10 Evangelista: **Das ist, in unsrer Sprach’ zu fassen:** (Rec.)
+89. 0:15 Jesus: **Mein Gott, wie hast du mich verlassen!** (Aria, 2vn, vla, bc)
+90. 0:15 Evangelista: **Darnach, wie ihm bewußt, daß alles schon vorbei** (Rec.)<br>0:05 Jesus: **Mich dürstet!** (Rec.)
+91. 1:10 Gläubige Seele: **Mein Heiland, Herr und Fürst!** (Aria, bc)
+92. 0:30 Evangelista: **Drauf lief ein Kriegsknecht hin** (Rec.)<br>0:15 Jesus: **Es ist vollbracht** (Aria, bc)
+93. 1:40 Drei Gläubige Seelen: **O Donnerwort! O schrecklich Schreien!** (Terzetto, bc)
+94. 0:30 Drei Gläubige Seelen: **O selig, wer dies glaubt** (Terzetto, bc)
+95. 0:10 Evangelista: **Drauf neiget er sein Haupt** (Rec.)
+96. 0:45 Tochter Zion: **Sind meiner Seelen tiefe Wunden** (Aria, vn, bc)<br>0:45 Glaubige Seele: **Dies sind der Tochter Zions Fragen** (Aria, vn, bc)
+97. 0:10 Tochter Zion: **O Großmut! O erbarmendes Gemüt!** (Rec.)<br>0:10 Evangelista: **Und er verschied** (Rec.)
+98. 2:45 Gläubige Seele: **Brich brüllender Abgrund, zertrümre, zerspalte!** (Aria, 2vn, vla, bc)
+99. 0:30 Gläubige Seele: **Ja, ja, es brüllet schon in unterird’schen Grüften** (Aria, bc)
+100. 1:20 Hauptmann: **Hilf Himmel, was ist dies?** (Rec.)
+101. 1:20 Gläubige Seele: **Wie kömmt’s, daß, da der Himmel weint** (Aria, 2vn, vla, bc)
+102. 2:40 Gläubige Seele: **Bei Jesu Tod und Leiden leidet** (Aria, fl, vn, vla, bc)
+103. 0:45 Chor: **Mein’ Sünd’ mich werden kränken sehr** (Choral, 2vn, vla, bc)
+104. 2:40 Gläubige Seele: **Wisch ab der Tränen bittre Ströme** (Aria, 2bn, bc)
+105. 0:45 Chor: **Ich bin ein Glied an deinem Leib** (Choral, 2vn, vla, bc)
 
 #### Text
 
@@ -3563,15 +3621,7 @@ Wovor der Teufel bebt und heulet,
 Wovor der düst’re Abgrund kracht!
 Es ist vollbracht, es ist vollbracht!
  
-Eine gläubige Seele:
-O selig’s Wort, o heilsam Schreien!
-Nun darfst Du, Sünder, nicht mehr scheuen
-Des Teufels und der Höllen Macht!
-O Schall, der unsren Schaden heilet,
-Der uns die Seeligkeit erteilet,
-Die Gott uns längst hat zugedacht.
-
-Eine gläubige Seele:
+Drei gläubige Seelen:
 O selig, wer dies glaubt,
 Und wer, wenn seine Not am größten,
 Sich dieser Worte kann getrösten!
