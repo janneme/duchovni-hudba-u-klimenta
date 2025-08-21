@@ -22,7 +22,7 @@ Večer věnovaný Edvardu Schiffauerovi a Ivanu Binarovi.
 
 ### 2025 – 2026
 
-- **[XX.10.2025](#XX02025)**: **Rosenmuller, Johann** (1619-1684): **Confitebor tibi Domine**
+- **[XX.10.2025](#xx102025)**: **Rosenmuller, Johann** (1619-1684): **Confitebor tibi Domine**
 
 ### 2024 – 2025
 
@@ -287,7 +287,7 @@ Provedení se účastnili klimentští Anglikáni.
 ### Caldara, Antonio (1670-1736): Confitebor tibi Domine
 
 - 21:00, ob, 2vl, bc, SATB
-- [nahrávka](https://www.youtube.com/watch?v=LUnbqlM4xP4&t=1060s), [partitura](https://archive.org/details/ybimslp00052/page/44/mode/2up), [text](#user-content-confitebor-tibi-domine-ž-111)
+- [nahrávka](https://www.youtube.com/watch?v=LUnbqlM4xP4&t=1060s), [partitura](https://archive.org/details/ybimslp00052/page/44/mode/2up), [text](#confitebor-tibi-domine-ž-111)
 
 ### Delalande, Michel-Richard (1657-1726): Super flumina Babylonis S. 13
 
