@@ -245,7 +245,7 @@ Provedení se účastnili klimentští Anglikáni.
 
 #### Hudba při bohoslužbách
 
-- **Rosenmuller, Johann** (1619-1684): [**Confitebor tibi Domine**](#user-content-rosenmuller-confitebor-tibi-domine-ž-138)
+- **Rosenmuller, Johann** (1619-1684): [**Confitebor tibi Domine**](#rosenmuller-johann-1619-1684-confitebor-tibi-domine)
 
 ## Plánované skladby
 
@@ -327,7 +327,7 @@ Provedení se účastnili klimentští Anglikáni.
 ### Rosenmuller, Johann (1619-1684): Confitebor tibi Domine
 
 - 11:00, 2vl, vla, bc, SATB
-- [rukopis](https://digital.staatsbibliothek-berlin.de/werkansicht?PPN=PPN642201323&PHYSID=PHYS_0091&DMDID=DMDLOG_0005&view=picture-download) (str. 91-105), [text](#user-content-rosenmuller-confitebor-tibi-domine-ž-138)
+- [rukopis](https://digital.staatsbibliothek-berlin.de/werkansicht?PPN=PPN642201323&PHYSID=PHYS_0091&DMDID=DMDLOG_0005&view=picture-download) (str. 91-105), [text](#confitebor-tibi-domine-ž-138)
 
 ### Scarlatti, Alessandro (1660-1725): Cain, ovvero il primo omicidio (výběr)
 
