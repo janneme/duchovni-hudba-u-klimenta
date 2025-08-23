@@ -2413,6 +2413,31 @@ Amen.
 
 #### Postavy
 
+#### Přehled
+
+1. Tochter Zion – Sopran, Aria 32:40, Rec. 4:20
+1. Gläubige Seele – Sopran, Aria 7:10, Rec. 1:30
+1. Erste Magd – Sopran, Rec. 0:10
+1. Zweite Magd – Sopran, Rec. 0:15
+1. Dritte Magd – Sopran, Rec. 0:20
+1. Maria – Sopran, Aria 2:00, Rec. 0:30
+
+1. Evangelista – Tenor, Rec. 12:30
+1. Gläubige Seele – Tenor, Aria 4:30
+1. Judas – Tenor, Aria 1:45, Rec. 1:10
+1. Jacobus – Tenor, Aria 1:00
+1. Ein Kriegsknecht – Tenor, Rec. 0:15
+1. Petrus – Tenor, Aria 8:30, Rec. 2:00
+
+1. Jesus – Bass, Aria 9:00, Rec. 1:30
+1. Gläubige Seele – Bass, Aria 8:00, Rec. 1:30
+1. Johannes – Bass, Aria 1:00
+1. Kaiphas – Bass, Rec., 0:50
+1. Pilatus – Bass, Rec. 0:15
+1. Hauptmann – Bass, Rec. 1:20
+
+1. Chorus - 17:10
+
 #### Dritte Magd (S)
 
 1. **30) Du bist fürwahr von seinen Leuten** (Rec, 0:20)
