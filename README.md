@@ -2422,14 +2422,14 @@ Amen.
 1. Dritte Magd – Sopran, Rec. 0:20
 1. Maria – Sopran, Aria 2:00, Rec. 0:30
 
-1. Evangelista – Tenor, Rec. 12:30
+1. Evangelista – Tenor, Rec. 11:00
 1. Gläubige Seele – Tenor, Aria 4:30
 1. Judas – Tenor, Aria 1:45, Rec. 1:10
 1. Jacobus – Tenor, Aria 1:00
 1. Ein Kriegsknecht – Tenor, Rec. 0:15
 1. Petrus – Tenor, Aria 8:30, Rec. 2:00
 
-1. Jesus – Bass, Aria 9:00, Rec. 1:30
+1. Jesus – Bass, Aria 9:00, Rec. 3:00
 1. Gläubige Seele – Bass, Aria 8:00, Rec. 1:30
 1. Johannes – Bass, Aria 1:00
 1. Kaiphas – Bass, Rec., 0:50
@@ -2480,24 +2480,24 @@ Amen.
 31. **83) Sobald er nun gekreuzigt war** (Rec., 0:40)
 32. **85) Und eine dichte Finsternis** (Rec., 0:10)
 33. **87) Dies war zur neunten Stund’** (Rec., 0:10)
-34. **89) Das ist, in unsrer Sprach’ zu fassen:** (Rec., 0:10)
-35. **91) Darnach, wie ihm bewußt, daß alles schon vorbei** (Rec., 0:15)
-36. **93) Drauf lief ein Kriegsknecht hin** (Rec., 0:30)
-37. **96) Drauf neiget er sein Haupt** (Rec., 0:10)
-38. **98) Und er verschied** (Rec., 0:10)
+34. **87) Das ist, in unsrer Sprach’ zu fassen:** (Rec., 0:10)
+35. **87) Darnach, wie ihm bewußt, daß alles schon vorbei** (Rec., 0:15)
+36. **89) Drauf lief ein Kriegsknecht hin** (Rec., 0:30)
+37. **92) Drauf neiget er sein Haupt** (Rec., 0:10)
+38. **94) Und er verschied** (Rec., 0:10)
 
 ##### Gläubige Seele (S)
 
 1. **56) Ich seh’ an einen Stein gebunden** (Aria, 1:30)
 2. **57) Drum, Seele, schau mit ängstlichem Vergnügen** (Rec., 1:30)
 3. **58) Dem Himmel gleicht sein blutgefärbter Rücken** (Aria, 3:00)
-4. **105) Wisch ab der Tränen bittre Ströme** (Aria, 2:40)
+4. **101) Wisch ab der Tränen bittre Ströme** (Aria, 2:40)
 
 ##### Gläubige Seele (T)
 
-1. **92) Mein Heiland, Herr und Fürst!** (Aria, 1:10)
-2. **97) Dies sind der Tochter Zions Fragen** (Aria, 0:45)
-3. **103) Bei Jesu Tod und Leiden leidet** (Aria, 2:40)
+1. **91) Mein Heiland, Herr und Fürst!** (Aria, 1:10)
+2. **93) Dies sind der Tochter Zions Fragen** (Aria, 0:45)
+3. **99) Bei Jesu Tod und Leiden leidet** (Aria, 2:40)
 
 ##### Gläubige Seele (B)
 
@@ -2505,14 +2505,14 @@ Amen.
 2. **80) Hier erstarrt mein Herz und Blut** (Aria, 1:30)
 3. **81) O Anblick! O entsetzliches Gesicht!** (Rec., 1:30)
 4. **86) Was Wunder, daß der Sonnen Pracht** (Aria, 0:40)
-5. **99) Brich brüllender Abgrund, zertrümre, zerspalte!** (Aria, 2:45)
-6. **100) Ja, ja, es brüllet schon in unterird’schen Grüften** (Aria, 0:30)
-7. **102) Wie kömmt’s, daß, da der Himmel weint** (Aria, 1:20)
-3. **103) Bei Jesu Tod und Leiden leidet** (Aria, 2:40)
+5. **95) Brich brüllender Abgrund, zertrümre, zerspalte!** (Aria, 2:45)
+6. **96) Ja, ja, es brüllet schon in unterird’schen Grüften** (Aria, 0:30)
+7. **98) Wie kömmt’s, daß, da der Himmel weint** (Aria, 1:20)
+3. **99) Bei Jesu Tod und Leiden leidet** (Aria, 2:40)
 
 ##### Hauptmann (B)
 
-1. **101) Hilf Himmel, was ist dies?** (Rec., 1:20)
+1. **97) Hilf Himmel, was ist dies?** (Rec., 1:20)
 
 ##### Chor
 
@@ -2531,10 +2531,10 @@ Amen.
 13. **73) Wohin** (Aria, Chor, 1:50)
 14. **82) O Menschenkind** (Choral, 1:00)
 15. **84) Pfui, seht mir doch den neuen König an!** (Chor der Juden und Mörder, 1:00)
-16. **94) O Donnerwort! O schrecklich Schreien!** (Drei Gläubige Seele, TTT, SSS, 1:40)
-17. **95) O selig, wer dies glaubt** (Drei Gläubige Seele, SSS, 0:30)
-18. **104) Mein’ Sünd’ mich werden kränken sehr** (Choral, 0:45)
-19. **106) Ich bin ein Glied an deinem Leib** (Choral, 0:45)
+16. **90) O Donnerwort! O schrecklich Schreien!** (Drei Gläubige Seele, TTT, SSS, 1:40)
+17. **91) O selig, wer dies glaubt** (Drei Gläubige Seele, SSS, 0:30)
+18. **100) Mein’ Sünd’ mich werden kränken sehr** (Choral, 0:45)
+19. **102) Ich bin ein Glied an deinem Leib** (Choral, 0:45)
 
 ##### Jacobus (T)
 7. **18) Erwachet doch!** (Aria, 1:00)
@@ -2557,10 +2557,10 @@ Amen.
 11. **48) Du hast’s gesagt** (Rec., 0:05)
 12. **51) Nein, ich will euch jetzo zeigen** (Duetto, 2:10)
 13. **76) Soll mein Kind, mein Leben sterben** (Duetto, 1:00)
-14. **88) Eli! Lama Asaphtani!** (Aria, 0:20)
-15. **90) Mein Gott, wie hast du mich verlassen!** (Aria, 0:15)
-16. **91) Mich dürstet!** (Rec., 0:05)
-17. **93) Es ist vollbracht!** (Aria, 0:15)
+14. **87) Eli! Lama Asaphtani!** (Aria, 0:20)
+15. **87) Mein Gott, wie hast du mich verlassen!** (Aria, 0:15)
+16. **87) Mich dürstet!** (Rec., 0:05)
+17. **89) Es ist vollbracht!** (Aria, 0:15)
 
 ##### Johannes (B)
 
@@ -2602,7 +2602,7 @@ Amen.
 9. **32) Ich will versinken und vergehn** (Aria, 0:30)
 10. **34) Welch ungeheurer Schmerz** (Aria, 1:00)**
 11. **35) Heul, du Fluch der Menschenkinder** (Aria, 2:50)
-12. **36) ???** (Rec., 0:20)
+12. **36) Doch wie, will ich verzweifelnd untergehn?** (Rec., 0:20)
 13. **37) Schau, ich fall’ in strenger Buße** (Aria, 1:30)
 
 ##### Pilatus (B)
@@ -2634,8 +2634,8 @@ Amen.
 20. **73) Eilt, ihr angefochten Seelen (Aria, 1:50)
 21. **77) Ach herbe Plagen, ach Marter** (Rec., 0:20)
 22. **78) Es scheint, da den zerkerbten Rücken** (Aria, 1:40)
-23. **97) Sind meiner Seelen tiefe Wunden** (Aria, 0:45)
-24. **98) O Großmut! O erbarmendes Gemüt!** (Rec., 0:10)
+23. **93) Sind meiner Seelen tiefe Wunden** (Aria, 0:45)
+24. **94) O Großmut! O erbarmendes Gemüt!** (Rec., 0:10)
 
 ##### Zweite Magd (S)
 
@@ -2678,7 +2678,7 @@ Amen.
 33. 0:30 Evangelista: **Drauf krähete der Hahn** (Rec.)
 34. 1:00 Petrus: **Welch ungeheurer Schmerz** (Aria, 2vn, vla, bc)
 35. 2:50 Petrus: **Heul, du Fluch der Menschenkinder** (Aria, tutti)
-36. 0:20 Petrus: **???** (Rec.)
+36. 0:20 Petrus: **Doch wie, will ich verzweifelnd untergehn?** (Rec.)
 37. 1:30 Petrus: **Schau, ich fall’ in strenger Buße** (Aria, bc.)
 38. 1:10 Chor: **Ach, Gott und Herr, wie groß und schwer** (Choral, tutti)
 39. 0:15 Evangelista: **Als Jesus nun, wie hart man ihn verklage** (Rec.)<br>0:20 Kaiphas: **Weil man nichts aus dir bringen kann** (Rec.)<br>0:15 Jesus: **Ich bin’s! Von nun an werdet ihr** (Rec.)<br>0:20 Kaiphas: **O Lästerer! Was dürfen wir nun weiter Zeugnis führen?** (Rec.)<br>0:05 Evangelista: **Drauf rief der ganze Hauf sogleich** (Rec.)
@@ -2729,26 +2729,22 @@ Amen.
 84. 1:00 Chor: **Pfui, seht mir doch den neuen König an!** (Chor, 2vn, vla, bc)
 85. 0:10 Evangelista: **Und eine dichte Finsternis** (Rec.)
 86. 0:40 Glaubige Seele: **Was Wunder, daß der Sonnen Pracht** (Aria, 2vn, bc)
-87. 0:10 Evangelista: **Dies war zur neunten Stund’** (Rec.)
-88. 0:20 Jesus: **Eli! Lama Asaphtani!** (Aria, 2vn, vla, bc)
-89. 0:10 Evangelista: **Das ist, in unsrer Sprach’ zu fassen:** (Rec.)
-90. 0:15 Jesus: **Mein Gott, wie hast du mich verlassen!** (Aria, 2vn, vla, bc)
-91. 0:15 Evangelista: **Darnach, wie ihm bewußt, daß alles schon vorbei** (Rec.)<br>0:05 Jesus: **Mich dürstet!** (Rec.)
-92. 1:10 Gläubige Seele: **Mein Heiland, Herr und Fürst!** (Aria, bc)
-93. 0:30 Evangelista: **Drauf lief ein Kriegsknecht hin** (Rec.)<br>0:15 Jesus: **Es ist vollbracht** (Aria, bc)
-94. 1:40 Drei Gläubige Seelen: **O Donnerwort! O schrecklich Schreien!** (Terzetto, bc)
-95. 0:30 Drei Gläubige Seelen: **O selig, wer dies glaubt** (Terzetto, bc)
-96. 0:10 Evangelista: **Drauf neiget er sein Haupt** (Rec.)
-97. 0:45 Tochter Zion: **Sind meiner Seelen tiefe Wunden** (Aria, vn, bc)<br>0:45 Glaubige Seele: **Dies sind der Tochter Zions Fragen** (Aria, vn, bc)
-98. 0:10 Tochter Zion: **O Großmut! O erbarmendes Gemüt!** (Rec.)<br>0:10 Evangelista: **Und er verschied** (Rec.)
-99. 2:45 Gläubige Seele: **Brich brüllender Abgrund, zertrümre, zerspalte!** (Aria, 2vn, vla, bc)
-100. 0:30 Gläubige Seele: **Ja, ja, es brüllet schon in unterird’schen Grüften** (Aria, bc)
-101. 1:20 Hauptmann: **Hilf Himmel, was ist dies?** (Rec.)
-102. 1:20 Gläubige Seele: **Wie kömmt’s, daß, da der Himmel weint** (Aria, 2vn, vla, bc)
-103. 2:40 Gläubige Seele: **Bei Jesu Tod und Leiden leidet** (Aria, fl, vn, vla, bc)
-104. 0:45 Chor: **Mein’ Sünd’ mich werden kränken sehr** (Choral, 2vn, vla, bc)
-105. 2:40 Gläubige Seele: **Wisch ab der Tränen bittre Ströme** (Aria, 2bn, bc)
-106. 0:45 Chor: **Ich bin ein Glied an deinem Leib** (Choral, 2vn, vla, bc)
+87. 0:10 Evangelista: **Dies war zur neunten Stund’** (Rec.)<br>Jesus: **Eli! Lama Asaphtani!** (Aria, 2vn, vla, bc)<br>Evangelista: **Das ist, in unsrer Sprach’ zu fassen:** (Rec.)<br>Jesus: **Mein Gott, wie hast du mich verlassen!** (Aria, 2vn, vla, bc)<br>0:15 Evangelista: **Darnach, wie ihm bewußt, daß alles schon vorbei** (Rec.)<br>0:05 Jesus: **Mich dürstet!** (Rec.)
+88. 1:10 Gläubige Seele: **Mein Heiland, Herr und Fürst!** (Aria, bc)
+89. 0:30 Evangelista: **Drauf lief ein Kriegsknecht hin** (Rec.)<br>0:15 Jesus: **Es ist vollbracht** (Aria, bc)
+90. 1:40 Drei Gläubige Seelen: **O Donnerwort! O schrecklich Schreien!** (Terzetto, bc)
+91. 0:30 Drei Gläubige Seelen: **O selig, wer dies glaubt** (Terzetto, bc)
+92. 0:10 Evangelista: **Drauf neiget er sein Haupt** (Rec.)
+93. 0:45 Tochter Zion: **Sind meiner Seelen tiefe Wunden** (Aria, vn, bc)<br>0:45 Glaubige Seele: **Dies sind der Tochter Zions Fragen** (Aria, vn, bc)
+94. 0:10 Tochter Zion: **O Großmut! O erbarmendes Gemüt!** (Rec.)<br>0:10 Evangelista: **Und er verschied** (Rec.)
+95. 2:45 Gläubige Seele: **Brich brüllender Abgrund, zertrümre, zerspalte!** (Aria, 2vn, vla, bc)
+96. 0:30 Gläubige Seele: **Ja, ja, es brüllet schon in unterird’schen Grüften** (Aria, bc)
+97. 1:20 Hauptmann: **Hilf Himmel, was ist dies?** (Rec.)
+98. 1:20 Gläubige Seele: **Wie kömmt’s, daß, da der Himmel weint** (Aria, 2vn, vla, bc)
+99. 2:40 Gläubige Seele: **Bei Jesu Tod und Leiden leidet** (Aria, fl, vn, vla, bc)
+100. 0:45 Chor: **Mein’ Sünd’ mich werden kränken sehr** (Choral, 2vn, vla, bc)
+101. 2:40 Gläubige Seele: **Wisch ab der Tränen bittre Ströme** (Aria, 2bn, bc)
+102. 0:45 Chor: **Ich bin ein Glied an deinem Leib** (Choral, 2vn, vla, bc)
 
 #### Text
 
