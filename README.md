@@ -2440,11 +2440,11 @@ Amen.
 
 #### Dritte Magd (S)
 
-1. **30) Du bist fürwahr von seinen Leuten** (Rec, 0:20)
+1. **31) Du bist fürwahr von seinen Leuten** (Rec, 0:20)
 
 #### Erste Magd (S)
 
-1. **30) Ich schwöre hoch und teuer** (Rec., 0:10)
+1. **31) Ich schwöre hoch und teuer** (Rec., 0:10)
 
 ##### Evangelista (T)
 
@@ -2456,7 +2456,6 @@ Amen.
 6. **19) Und eh’ die Rede noch geendigt war** (Rec., 0:40)
 7. **21) Und der Vorsteher der Kriegsknechte** (Rec., 0:15)
 8. **22) Er soll uns nicht entlaufen** (Rec., 0:15)
-9. **25) Steck nur das Schwert an seinen Ort** (Rec., 1:30)
 10. **29) Und als sie ihn gefangen hatten** (Rec., 0:30)
 11. **31) Dies sahe Petrus an, der draußen bei dem Feuer** (Rec., 0:15)
 12: **31) Nicht lang hernach fing noch ein’ andre an** (Rec., 0:10)
@@ -2552,6 +2551,7 @@ Amen.
 8. **13) Ist es möglich, daß dein Zorn sich stille** (Aria, 1:40)
 7. **18) Erwachet doch!** (Aria, 1:00)
 8. **23) Mein Freund, warum kommst du?** (Rec., 0:10)
+9. **25) Steck nur das Schwert an seinen Ort** (Rec., 1:30)
 9. **29) Was ich gelehrt, ist öffentlich geschehn** (Rec., 0:20)
 10. **39) Ich bin’s! Von nun an werdet ihr** (Rec., 0:15)
 11. **48) Du hast’s gesagt** (Rec., 0:05)
@@ -2577,7 +2577,7 @@ Amen.
 
 1. **29) Wir wollen hier von dem, was du begangen** (Rec., 0:10)
 2. **39) Weil man nichts aus dir bringen kann** (Rec., 0:20)
-3. **39) O Lästerer! Was dürfen wir nun weiter Zeugnis führen?** (Rec., 0:20)
+3. **39) Kaiphas: **O Lästerer! Was dürfen wir nun weiter Zeugnis führen?** (Rec., 0:20)
 
 ##### Ein Kriegsknecht (T)
 
@@ -2602,7 +2602,7 @@ Amen.
 9. **32) Ich will versinken und vergehn** (Aria, 0:30)
 10. **34) Welch ungeheurer Schmerz** (Aria, 1:00)**
 11. **35) Heul, du Fluch der Menschenkinder** (Aria, 2:50)
-12. **36) ???** (Rec., 0:20)
+12. **36) Doch wie, will ich verzweifelnd untergehn?** (Rec., 0:20)
 13. **37) Schau, ich fall’ in strenger Buße** (Aria, 1:30)
 
 ##### Pilatus (B)
@@ -2667,7 +2667,7 @@ Amen.
 22. 0:15 Chor: **Er soll uns nicht entlaufen** (2vn, vla, bc)
 23. 0:10 Judas: **Nimm, Rabbi, diesen Kuß von mir** (Rec.)<br>0:10 Jesus: **Mein Freund, warum kommst du?** (Rec.)
 24. 0:50 Petrus: **Gift und Glut, Strahl und Flut** (Aria, vn, vla, bc)
-25. 1:30 Evangelista: **Steck nur das Schwert an seinen Ort** (Rec.)
+25. 1:30 Evangelista: **Steck nur das Schwert an seinen Ort** (Rec.)<br>1:30 Jesus: **Steck nur das Schwert an seinen Ort** (Rec.)
 26. 0:30 Chor: **O weh, sie binden ihn** (2ob, 2vn, vla, bc)
 27: 0:50 Petrus: **Wo flieht ihr hin? Verzagte, bleibt!** (Rec.)
 28. 1:45 Petrus: **Nehmt mich mit, verzagte Scharen** (Aria, bc.)
@@ -2678,7 +2678,7 @@ Amen.
 33. 0:30 Evangelista: **Drauf krähete der Hahn** (Rec.)
 34. 1:00 Petrus: **Welch ungeheurer Schmerz** (Aria, 2vn, vla, bc)
 35. 2:50 Petrus: **Heul, du Fluch der Menschenkinder** (Aria, tutti)
-36. 0:20 Petrus: **???** (Rec.)
+36. 0:20 Petrus: **Doch wie, will ich verzweifelnd untergehn?** (Rec.)
 37. 1:30 Petrus: **Schau, ich fall’ in strenger Buße** (Aria, bc.)
 38. 1:10 Chor: **Ach, Gott und Herr, wie groß und schwer** (Choral, tutti)
 39. 0:15 Evangelista: **Als Jesus nun, wie hart man ihn verklage** (Rec.)<br>0:20 Kaiphas: **Weil man nichts aus dir bringen kann** (Rec.)<br>0:15 Jesus: **Ich bin’s! Von nun an werdet ihr** (Rec.)<br>0:20 Kaiphas: **O Lästerer! Was dürfen wir nun weiter Zeugnis führen?** (Rec.)<br>0:05 Evangelista: **Drauf rief der ganze Hauf sogleich** (Rec.)
