@@ -2415,26 +2415,26 @@ Amen.
 
 #### Přehled
 
-1. Tochter Zion – Sopran (d1-h2), Aria 32:40, Rec. 4:20
-1. Gläubige Seele – Sopran (d1-a2), Aria 7:10, Rec. 1:30
-1. Erste Magd – Sopran (a1-a2), Rec. 0:10
-1. Zweite Magd – Sopran (fis1-a2), Rec. 0:15
-1. Dritte Magd – Sopran (g1-g2), Rec. 0:20
-1. Maria – Sopran (g1-b2), Aria 2:00, Rec. 0:30
+1. Tochter Zion – Sopran (d1-h2), Aria 32:40, Rec. 4:20 IP
+1. Gläubige Seele – Sopran (d1-a2), Aria 7:10, Rec. 1:30 LČ
+1. Maria – Sopran (g1-b2), Aria 2:00, Rec. 0:30 EV
+1. Erste Magd – Sopran (a1-a2), Rec. 0:10 MŠ
+1. Zweite Magd – Sopran (fis1-a2), Rec. 0:15 PJ
+1. Dritte Magd – Sopran (g1-g2), Rec. 0:20 VH
 
-1. Evangelista – Tenor (e-a1), Rec. 12:30
-1. Gläubige Seele – Tenor (d-as1), Aria 4:30
-1. Judas – Tenor (d-as1), Aria 1:45, Rec. 1:10
-1. Jacobus – Tenor (g-fis1), Aria 1:00
-1. Ein Kriegsknecht – Tenor (g-g1), Rec. 0:15
-1. Petrus – Tenor (d-a1), Aria 8:30, Rec. 2:00
+1. Evangelista – Tenor (e-a1), Rec. 12:30 OŠ
+1. Petrus – Tenor (d-a1), Aria 8:30, Rec. 2:00 PA
+1. Gläubige Seele – Tenor (d-as1), Aria 4:30 JJ
+1. Judas – Tenor (d-as1), Aria 1:45, Rec. 1:10 VN
+1. Jacobus – Tenor (g-fis1), Quarteto 1:00 JV
+1. Ein Kriegsknecht – Tenor (g-g1), Rec. 0:15 JV
 
-1. Jesus – Bass (A-f1), Aria 9:00, Rec. 1:30
-1. Gläubige Seele – Bass (A-g1), Aria 8:00, Rec. 1:30
-1. Johannes – Bass (c-es1), Aria 1:00
-1. Kaiphas – Bass (c-e1), Rec., 0:50
-1. Pilatus – Bass (d-e1), Rec. 0:15
-1. Hauptmann – Bass (d-f1), Rec. 1:20
+1. Jesus – Bass (A-f1), Aria 9:00, Rec. 1:30 TV
+1. Gläubige Seele – Bass (A-g1), Aria 8:00, Rec. 1:30 JN
+1. Johannes – Bass (c-es1), Aria 1:00 JH
+1. Kaiphas – Bass (c-e1), Rec., 0:50 JH
+1. Pilatus – Bass (d-e1), Rec. 0:15 JH
+1. Hauptmann – Bass (d-f1), Rec. 1:20 JH
 
 1. Chorus - 17:10
 
@@ -2496,7 +2496,7 @@ Amen.
 ##### Gläubige Seele (T)
 
 1. **88) Mein Heiland, Herr und Fürst!** (Aria, 1:10)
-2. **93) Dies sind der Tochter Zions Fragen** (Aria, 0:45)
+2. **93) Dies sind der Tochter Zions Fragen** (Duetto, 0:45)
 3. **99) Bei Jesu Tod und Leiden leidet** (Aria, 2:40)
 
 ##### Gläubige Seele (B)
@@ -2537,7 +2537,8 @@ Amen.
 19. **102) Ich bin ein Glied an deinem Leib** (Choral, 0:45)
 
 ##### Jacobus (T)
-7. **18) Erwachet doch!** (Aria, 1:00)
+
+7. **18) Erwachet doch!** (quarteto, 1:00)
 
 ##### Jesus (B)
 
