@@ -22,7 +22,7 @@ Večer věnovaný Edvardu Schiffauerovi a Ivanu Binarovi.
 
 ### 2025 – 2026
 
-- **[XX.10.2025](#xx102025)**: **Rosenmuller, Johann** (1619-1684): **Confitebor tibi Domine**
+- **[19.10.2025](#19102025)**: **Rosenmuller, Johann** (1619-1684): **Confitebor tibi Domine**
 
 ### 2024 – 2025
 
@@ -239,7 +239,7 @@ Provedení se účastnili klimentští Anglikáni.
 
 - **Urio, Francesco Antonio** (1631-1719): **Dominus regit me**
 
-### XX.10.2025
+### 19.10.2025
 
 #### Hudba před bohoslužbami
 
