@@ -243,9 +243,14 @@ Provedení se účastnili klimentští Anglikáni.
 
 #### Hudba před bohoslužbami
 
+#### Hudba před bohoslužbami
+
+- **Rosenmuller, Johann** (1619-1684): [**Confitebor tibi Domine (Ž 111)**](#rosenmuller-johann-1619-1684-confitebor-tibi-domine)
+- **Rosenmuller, Johann** (1619-1684): [**Warlich, warlich ich sage euch**](#rosenmuller-johann-1619-1684-confitebor-tibi-domine)
+
 #### Hudba při bohoslužbách
 
-- **Rosenmuller, Johann** (1619-1684): [**Confitebor tibi Domine**](#rosenmuller-johann-1619-1684-confitebor-tibi-domine)
+- **Rosenmuller, Johann** (1619-1684): [**Confitebor tibi Domine (Ž 138)**](#rosenmuller-johann-1619-1684-confitebor-tibi-domine)
 
 ## Plánované skladby
 
@@ -2289,6 +2294,15 @@ který jsi Duchem Otce i Syna.
 i jednorozenému, který vstal z mrtvých,
 i Duchu Svatému
 na věky věků.
+```
+
+### Warlich, warlich ich sage euch
+
+```
+Warlich, warlich ich sage euch:
+wer mein Wort höret und gläubet dem, der mich gesand hat,
+der hat das Ewige Leben, und kompt nicht in das Gerichte,
+sondern er ist vom Tode zum Leben hindurch gedrungen.
 ```
 
 ### We praise Thee, O God
