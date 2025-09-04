@@ -245,8 +245,8 @@ Provedení se účastnili klimentští Anglikáni.
 
 #### Hudba před bohoslužbami
 
-- **Rosenmuller, Johann** (1619-1684): [**Confitebor tibi Domine (Ž 111)**](#rosenmuller-johann-1619-1684-confitebor-tibi-domine)
-- **Rosenmuller, Johann** (1619-1684): [**Warlich, warlich ich sage euch**](#rosenmuller-johann-1619-1684-confitebor-tibi-domine)
+- **Rosenmuller, Johann** (1619-1684): [**Confitebor tibi Domine (Ž 111)**](#confitebor-tibi-domine-ž-111)
+- **Rosenmuller, Johann** (1619-1684): [**Warlich, warlich ich sage euch**](#warlich-warlich-ich-sage-euch)
 
 #### Hudba při bohoslužbách
 
