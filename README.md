@@ -1076,7 +1076,7 @@ ut det illis haereditatem gentium.
 Opera manuum ejus veritas et judicium.
 Fidelia omnia mandata ejus,
 
-onfirmata in saeculum saeculi, facta in veritate et aequitate.
+confirmata in saeculum saeculi, facta in veritate et aequitate.
 
 Redemptionem misit populo suo,
 mandavit in aeternum testamentum suum.
@@ -1084,9 +1084,35 @@ Sanctum et terribile nomen ejus.
 
 Initium sapientiae timor Domini; intellectus bonus omnibus
 facientibus eum: laudatio ejus manet in saeculum saeculi.
+
 ```
 
 ```
+Budu tě, Pane, vyznávat celým svým srdcem, v radě spravedlivých a v shromáždění.
+
+Velká jsou Hospodinova díla: vyhledávanná všemi, kdo v nich mají zalíbení.
+
+Velebnost a velikost je jeho dílo a jeho spravedlnost trvá na věky věků.
+
+Svými podivuhdnými činy se vryl do paměti, milostivý a slitovný je Hospodin.
+
+Dal pokrm těm, kdo se ho bovjí; navěky pamatuje na svou smlouvu.
+
+Svému lidu ohlásil své mocné činy, všechny jeho příkazy jsou spolehlivé,
+
+ustavnovené na věky věků, konané v pravdě a spravedlnosti.
+
+Svému lidu seslal vykoupení,
+navěky ustanovil svou smlouvu.
+Svaté a hrozné je jeho jméno.
+
+Počátek moudrosti je bázeň před Hospodinem; rozumní jsou všichni,
+kdo tak činí: jeho chvála trvá na věky věků.
+```
+
+```
+(ekumenický překlad)
+
 Chválu vzdávám Hospodinu celým srdcem, v kruhu přímých, v shromáždění.
 
 Činy Hospodinovy jsou velké, vyhledávané všemi, kdo zálibu v nich našli.
@@ -1119,7 +1145,7 @@ In conspectu angelorum psallam tibi;
 
 adorabo ad templum sanctum tuum, et confitebor nomini tuo:
 super misericordia tua et veritate tua;
-quoniam magnificasti super omne, nomen sanctum tuum.
+quoniam magnificasti super omne nomen sanctum tuum.
 
 In quacumque die invocavero te, exaudi me; multiplicabis in anima mea virtutem.
 
@@ -1138,6 +1164,32 @@ opera manuum tuarum ne despicias.
 ```
 
 ```
+Budu tě, Pane, vyznávat celým svým srdcem, neboť jsi naslouchal slovům mých úst.
+Budu tě chválit před zraky andělů;
+
+budu se ti klanět ve tvém svatém chrámu a vyznávat tvé jméno:
+pro tvé milosrdenství a tvou pravdu,
+neboť tvé svaté jméno je ceněné nade vše.
+
+Kdykoliv jsem se k tobě modlil, vyslyšel jsi mě; sílu mé duše jsi znásobil.
+
+Všichni králové země tě vyznají, Pane, neboť slyšeli všechna slova tvých úst.
+
+Ať zpívají o Hospodinových cestách, neboť sláva P8ně je veliká;
+
+nebot Hospodin je vyvýšený, pohlíží na ponížené a pyšné pozná zdálky.
+
+Když budu kráčet uprostřed soužení, dodáš mi života;
+a svou ruku vztáhneš nad hněvem mých nepřátel
+a tvá pravice mě zachrání.
+
+Hospodin za mě zaplatí výkupné. Pane, tvé milosrdenství je navěky;
+nezavrhuj dílo svých rukou!
+```
+
+```
+(ekumenický překlad)
+
 Celým svým srdcem ti vzdávám chválu, přímo před bohy ti zpívám žalmy,
 
 klaním se ti před tvým svatým chrámem, tvému jménu vzdávám chválu
@@ -2344,7 +2396,7 @@ i Duchu Svatému
 na věky věků.
 ```
 
-### Warlich, warlich ich sage euch (J 5,24)
+### Warhlich, wahrlich ich sage euch (J 5,24)
 
 ```
 Warlich, warlich ich sage euch:
