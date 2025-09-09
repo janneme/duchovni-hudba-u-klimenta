@@ -1071,18 +1071,44 @@ Memoriam fecit mirabilium suorum, misericors et miserator Dominus.
 Escam dedit timentibus se; memor erit in saeculum testamenti sui.
 
 Virtutem operum suorum annuntiabit populo suo,
-
 ut det illis haereditatem gentium.
-Opera manuum ejus veritas et judicium.
 
+Opera manuum ejus veritas et judicium.
 Fidelia omnia mandata ejus,
+
 onfirmata in saeculum saeculi, facta in veritate et aequitate.
 
-Redemptionem misit populo suo; mandavit in aeternum testamentum suum.
+Redemptionem misit populo suo,
+mandavit in aeternum testamentum suum.
 Sanctum et terribile nomen ejus.
 
 Initium sapientiae timor Domini; intellectus bonus omnibus
 facientibus eum: laudatio ejus manet in saeculum saeculi.
+```
+
+```
+Chválu vzdávám Hospodinu celým srdcem, v kruhu přímých, v shromáždění.
+
+Činy Hospodinovy jsou velké, vyhledávané všemi, kdo zálibu v nich našli.
+
+Velebné a důstojné je jeho dílo, jeho spravedlnost trvá navždy.
+
+On zajistil památku svým divům; Hospodin je milostivý, plný slitování.
+
+Dal potravu těm, kdo se ho bojí, navěky je pamětliv své smlouvy.
+
+Svému lidu ohlásil své mocné činy, že mu dá dědictví pronárodů.
+
+Činy jeho rukou jsou pravda a právo, všechna jeho ustanovení jsou věrná,
+
+spolehlivá navěky a navždy, pravdou a přímostí vytvořená.
+
+Seslal svému lidu vykoupení,
+ustanovil navěky svou smlouvu,
+svaté, bázeň budící je jeho jméno.
+
+Počátek moudrosti je bát se Hospodina; velice jsou prozíraví všichni,
+kdo tak činí. Jeho chvála trvá navždy!
 ```
 
 ### Confitebor tibi Domine (Ž 138)
@@ -1109,6 +1135,28 @@ et salvum me fecit dextera tua.
 
 Dominus retribuet pro me. Domine, misericordia tua in saeculum;
 opera manuum tuarum ne despicias.
+```
+
+```
+Celým svým srdcem ti vzdávám chválu, přímo před bohy ti zpívám žalmy,
+
+klaním se ti před tvým svatým chrámem, tvému jménu vzdávám chválu
+za tvé milosrdenství a za tvou věrnost; svou řeč jsi vyvýšil nad každé své jméno.
+
+Odpověděl jsi mi v den, kdy jsem tě volal, dodal jsi mé duši sílu.
+
+Hospodine, všichni králové země ti vzdají chválu, až uslyší, co jsi vyřkl.
+
+Budou zpívat o Hospodinových cestách, neboť sláva Hospodinova je velká.
+
+Hospodin je vyvýšený, ale hledí na poníženého, zdálky pozná domýšlivce.
+
+I když jsem v soužení, ty mi zachováš život,
+vztáhneš ruku proti hněvu mých nepřátel
+a tvá pravice mě spasí.
+
+Hospodin za mě dokončí zápas. Hospodine, tvoje milosrdenství je věčné,
+neopouštěj dílo vlastních rukou!
 ```
 
 ### De profundis (Ž 130)
@@ -2296,13 +2344,20 @@ i Duchu Svatému
 na věky věků.
 ```
 
-### Warlich, warlich ich sage euch
+### Warlich, warlich ich sage euch (J 5,24)
 
 ```
 Warlich, warlich ich sage euch:
 wer mein Wort höret und gläubet dem, der mich gesand hat,
 der hat das Ewige Leben, und kompt nicht in das Gerichte,
 sondern er ist vom Tode zum Leben hindurch gedrungen.
+```
+
+```
+Amen, amen, pravím vám,
+kdo slyší mé slovo a věří tomu, který mě poslal,
+má život věčný a nepodléhá soudu,
+ale přešel již ze smrti do života.
 ```
 
 ### We praise Thee, O God
