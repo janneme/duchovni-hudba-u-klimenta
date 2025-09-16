@@ -1090,17 +1090,21 @@ facientibus eum: laudatio ejus manet in saeculum saeculi.
 ```
 Budu tě, Pane, vyznávat celým svým srdcem, v radě spravedlivých a v shromáždění.
 
-Velká jsou Hospodinova díla: vyhledávanná všemi, kdo v nich mají zalíbení.
+Velká jsou Hospodinova díla: vyhledávaná všemi, kdo v nich mají zalíbení.
 
 Velebnost a velikost je jeho dílo a jeho spravedlnost trvá na věky věků.
 
-Svými podivuhdnými činy se vryl do paměti, milostivý a slitovný je Hospodin.
+Svými podivuhodnými činy se vryl do paměti, milostivý a slitovný je Hospodin.
 
-Dal pokrm těm, kdo se ho bovjí; navěky pamatuje na svou smlouvu.
+Dal pokrm těm, kdo se ho bojí; navěky pamatuje na svou smlouvu.
 
-Svému lidu ohlásil své mocné činy, všechny jeho příkazy jsou spolehlivé,
+Svému lidu ohlásil své mocné činy,
+aby jim dal dědictví národů.
 
-ustavnovené na věky věků, konané v pravdě a spravedlnosti.
+Díla jeho rukou jsou pravda a soud,
+všechny jeho příkazy jsou spolehlivé,
+
+ustanovené na věky věků, konané v pravdě a spravedlnosti.
 
 Svému lidu seslal vykoupení,
 navěky ustanovil svou smlouvu.
@@ -1175,7 +1179,7 @@ Kdykoliv jsem se k tobě modlil, vyslyšel jsi mě; sílu mé duše jsi znásob
 
 Všichni králové země tě vyznají, Pane, neboť slyšeli všechna slova tvých úst.
 
-Ať zpívají o Hospodinových cestách, neboť sláva P8ně je veliká;
+Ať zpívají o Hospodinových cestách, neboť sláva Páně je veliká;
 
 nebot Hospodin je vyvýšený, pohlíží na ponížené a pyšné pozná zdálky.
 
