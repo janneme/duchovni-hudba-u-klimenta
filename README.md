@@ -12,7 +12,7 @@
 
 ### 7.12.2025
 
-**Graupner, Christoph** (1683-1760): [**Heulet, denn des Herrn Tag ist nahe**](#graupner-christoph-1683-1760-heulet-denn-des-herrn-tag-ist-nahe-gwv-110226)
+1. **Graupner, Christoph** (1683-1760): [**Heulet, denn des Herrn Tag ist nahe**](#graupner-christoph-1683-1760-heulet-denn-des-herrn-tag-ist-nahe-gwv-110226)
 
 ### 8.1.2026
 
@@ -310,6 +310,11 @@ Provedení se účastnili klimentští Anglikáni.
 
 - 15:00, 2fl, 2vn, vla, bc, SATB
 - [nahrávka](https://www.youtube.com/watch?v=DHVcGEE7m3Q&list=OLAK5uy_kO96OJ0vPEqYd3wll4wan8XGFcY5oHYKw&index=8), [partitura a party na IMSLP](https://imslp.org/wiki/Heulet_denn_des_Herrn_Tag_ist_nahe%2C_GWV_1102%2F26_(Graupner%2C_Christoph)), [text](#graupner-heulet-denn-des-herrn-tag-ist-nahe)
+
+### Graupner, Christoph (1683-1760): Wer da glaubet dass Jesus sei der Christ, GWV 1103/40
+
+- 16:30, 2ob, 2vn, vla, bc, SATB
+- [nahrávka](https://www.youtube.com/watch?v=KExbkMOV-AQ&list=OLAK5uy_kO96OJ0vPEqYd3wll4wan8XGFcY5oHYKw&index=15), [partitura a paryt na IMSLP](https://imslp.org/wiki/Wer_da_glaubet_dass_Jesus_sei_der_Christ,_GWV_1103/40_(Graupner,_Christoph))
 
 ### Charpentier, Marc-Antoine (1643-1704): De profundis, H. 189
 
@@ -1433,6 +1438,76 @@ Hallelujah!
 Macht euch bereit
 zu der Hochzeit,
 ihr müsset ihm entgegen geh’n.“
+```
+
+### Graupner: Wer da glaubet dass Jesus sei der Christ
+
+```
+Chorus:
+Wer da glaubet, dass Jesus sei der Christ,
+der ist von Gott geboren; und wer da liebet
+den, der Ihn geboren hat, der liebet auch den,
+der von Ihm geboren ist. 
+
+Rezitativ (S):
+Dass Jesus der Messias sei,
+das kann der Mund gar leicht bekennen,
+doch darf man sich hierbei
+nicht alsobald16 von Gott geboren nennen.
+Ein solcher liebt den Herrn,
+sein Herz klebt nicht an Eitelkeiten
+und schickt ihm Gott ein Leiden,
+so trägt er’s gern,
+er bleibt bis in den Tod getreu.
+Du, der du glaubst, dass Jesus sei der Christ,
+sieh zu, wie du gesinnet bist.
+Liebst du die Welt, hinkst du auf beiden Seiten,
+so ist gewiss dein Glaube Heuchelei. 
+
+Aria (S):
+Wer Jesum kennt, wankt nicht im Glauben,
+er steht fest, wenn Satan tobt.
+Er weiß, er ist von Gott geboren,
+und was er hofft, ist nicht verloren.
+Kommt Angst und Not,
+kommt gar der Tod,
+so spricht er doch: „Gott sei gelobt!“ 
+
+Rezitativ (B):
+Die Treue hat auch ihren Lohn:
+„Der erstgeborne Sohn“.
+Der den vollkommen liebt und ehrt,
+der Ihn von Ewigkeit geboren,
+der kehrt
+sein Herz auch Gottes Kindern zu,
+die sich zum Dienst des Herrn verschworen.
+Er spricht für sie, wenn sie ein Läst’rer schmäht,
+Er schützt sie, wenn ein Sturm entsteht,
+und endlich bringt Er sie zur stolzen Himmelsruh’. 
+
+Arie (B):
+Mein Jesus ist mein Freund!
+Wer will, wer kann mir schaden?
+Bin ich bei Ihm in Gnaden,
+so trutz ich jedem Feind. 
+Kein Sturm, kein Streit,
+kein Kreuz, kein Leid,
+nichts soll mich von Ihm trennen;
+mein Mund soll Ihn bekennen,
+auch in der Todespein
+soll dies mein Trostwort sein:
+„Mein Jesus ist mein Freund!“
+
+Choral:
+Kein Engel, keine Freuden,
+kein Thron, kein’ Herrlichkeit,
+kein Fliehen und kein Leiden,
+kein’ Angst und Fährlichkeit25,
+was man nur kann erdenken,
+es sei klein oder groß,
+der’ Keines26 soll mich lenken
+aus Deinem Arm und Schoß. 
+```
 
 ### Gib uns heut unser täglich Brot
 
