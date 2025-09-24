@@ -12,7 +12,7 @@
 
 ### 7.12.2025
 
-1. **Graupner, Christoph** (1683-1760): [**Auf Zion auf nimm Schmuck für Asche**](#graupner-auf-zion-auf-nimm-schmuck-für-asche)
+1. **Graupner, Christoph** (1683-1760): [**Auf Zion auf nimm Schmuck für Asche**](#graupner-christoph-1683-1760-auf-zion-auf-nimm-schmuck-für-asche-gwv-110141)
 2. **Graupner, Christoph** (1683-1760): [**Heulet, denn des Herrn Tag ist nahe**](#graupner-christoph-1683-1760-heulet-denn-des-herrn-tag-ist-nahe-gwv-110226)
 3. **Graupner, Christoph** (1683-1760): [**Mache dich, mein Geist, bereit**](#graupner-christoph-1683-1760-mache-dich-mein-geist-bereit-gwv-110241)
 4. **Graupner, Christoph** (1683-1760): [**Wer da glaubet dass Jesus sei der Christ**](#graupner-christoph-1683-1760-wer-da-glaubet-dass-jesus-sei-der-christ-gwv-110340)
