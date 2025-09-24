@@ -16,7 +16,7 @@
 2. **Graupner, Christoph** (1683-1760): [**Heulet, denn des Herrn Tag ist nahe**](#graupner-christoph-1683-1760-heulet-denn-des-herrn-tag-ist-nahe-gwv-110226)
 3. **Graupner, Christoph** (1683-1760): [**Mache dich, mein Geist, bereit**](#graupner-christoph-1683-1760-mache-dich-mein-geist-bereit-gwv-110241)
 4. **Graupner, Christoph** (1683-1760): [**Wer da glaubet dass Jesus sei der Christ**](#graupner-christoph-1683-1760-wer-da-glaubet-dass-jesus-sei-der-christ-gwv-110340)
-5. **Bach, Johann Sebastian** (1685-1750): [**Nun komm, der Heiden Heiland**, BWV 62]()
+5. **Bach, Johann Sebastian** (1685-1750): [**Nun komm, der Heiden Heiland**, BWV 62](#bach-johann-sebastian-1685-1750-nun-komm-der-heiden-heiland-bwv-62)
 
 ### 8.1.2026
 
@@ -278,7 +278,7 @@ Provedení se účastnili klimentští Anglikáni.
 ### Bach, Johann Sebastian (1685-1750): Nun komm, der Heiden Heiland, BWV 62
 
 - 23:00, 2ob, 2vn, vla, bc, SATB
-- [nahrávka](https://www.youtube.com/watch?v=3_RKlsydSwE), [partitura a party na IMSLP](https://imslp.org/wiki/Nun_komm,_der_Heiden_Heiland,_BWV_62_(Bach,_Johann_Sebastian), [text]()
+- [nahrávka](https://www.youtube.com/watch?v=3_RKlsydSwE), [partitura a party na IMSLP](https://imslp.org/wiki/Nun_komm,_der_Heiden_Heiland,_BWV_62_(Bach,_Johann_Sebastian), [text](#bach-nun-komm-der-heiden-heiland-bwv-62)
 
 ### Bernardino, Azzolino della Ciaja (1671-1755): Lauda Jerusalem Dominum
 
