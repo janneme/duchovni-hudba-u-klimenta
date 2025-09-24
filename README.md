@@ -12,9 +12,10 @@
 
 ### 7.12.2025
 
-1. **Graupner, Christoph** (1683-1760): [**Heulet, denn des Herrn Tag ist nahe**](#graupner-christoph-1683-1760-heulet-denn-des-herrn-tag-ist-nahe-gwv-110226)
-2. **Graupner, Christoph** (1683-1760): [**Mache dich, mein Geist, bereit**]()
-3. **Graupner, Christoph** (1683-1760): [**Wer da glaubet dass Jesus sei der Christ**](#graupner-christoph-1683-1760-wer-da-glaubet-dass-jesus-sei-der-christ-gwv-110340)
+1. **Graupner, Christoph** (1683-1760): [**Auf Zion auf nimm Schmuck für Asche**]()
+2. **Graupner, Christoph** (1683-1760): [**Heulet, denn des Herrn Tag ist nahe**](#graupner-christoph-1683-1760-heulet-denn-des-herrn-tag-ist-nahe-gwv-110226)
+3. **Graupner, Christoph** (1683-1760): [**Mache dich, mein Geist, bereit**](#graupner-christoph-1683-1760-mache-dich-mein-geist-bereit-gwv-110241)
+4. **Graupner, Christoph** (1683-1760): [**Wer da glaubet dass Jesus sei der Christ**](#graupner-christoph-1683-1760-wer-da-glaubet-dass-jesus-sei-der-christ-gwv-110340)
 
 ### 8.1.2026
 
@@ -303,6 +304,11 @@ Provedení se účastnili klimentští Anglikáni.
 - 16:30, 4viol, fl, bc, SATTB
 - [nahrávka](https://www.youtube.com/watch?v=9mllRRWrlfI), [sborové noty na CPDL](https://www.cpdl.org/wiki/index.php/Super_flumina_Babilonis,_S.13_(Michel-Richard_de_Lalande)), [rukopis partitury na IMSLP](https://imslp.org/wiki/Super_flumina_Babylonis%2C_S.13_(Lalande%2C_Michel_Richard_de)) (ten druhý)
 
+### Graupner, Christoph (1683-1760): Auf Zion auf nimm Schmuck für Asche, GWV 1101/41
+
+- ??:??, 2ob, 2vn, vla, bc, SATB
+- [partitura na IMSLP](https://imslp.org/wiki/Auf_Zion_auf_nimm_Schmuck_f%C3%BCr_Asche%2C_GWV_1101%2F41_(Graupner%2C_Christoph)), [text]()
+
 ### Graupner, Christoph (1683-1760): Erbarm dich mein o Herre Gott, GWV 1163/24
 
 - 16:30, fl, 2vn, vla, bc, SATB
@@ -316,7 +322,7 @@ Provedení se účastnili klimentští Anglikáni.
 ### Graupner, Christoph (1683-1760): Mache dich, mein Geist, bereit, GWV 1102/41
 
 - ??:??, 2vn, vla, bc, SATB
-- [partitura a party na IMSLP](https://imslp.org/wiki/Mache_dich_mein_Geist_bereit,_GWV_1102/41_(Graupner,_Christoph)), [text]()
+- [partitura a party na IMSLP](https://imslp.org/wiki/Mache_dich_mein_Geist_bereit,_GWV_1102/41_(Graupner,_Christoph)), [text](#graupner-christoph-1683-1760-mache-dich-mein-geist-bereit-gwv-110241)
 
 ### Graupner, Christoph (1683-1760): Wer da glaubet dass Jesus sei der Christ, GWV 1103/40
 
@@ -1294,6 +1300,69 @@ Der Herr segne euch je mehr und mehr, euch und eure Kinder.
 Chorus
 
 Ihr seid die Gesegneten des Herrn, der Himmel und Erde gemacht hat. Amen.
+```
+
+### Graupner: Auf Zion auf nimm Schmuck für Asche
+
+```
+Chor:
+Auf, Zion, auf! Nimm Schmuck für Asche
+und Freuden-Öl vor Traurigkeit.
+Auf, wasche
+den Tränen-Unrat von den Wangen.
+Jetzt ist der Tag des Heils,
+jetzt ist die angenehme Zeit,
+dein König kommt zu deinem Heil gegangen.
+Auf, mache deine Tore weit.
+Er kommt, nimm Ihn in Ehrfurcht an
+Er ist’s, der dich erretten will und kann. 
+
+Arie (S):
+Weicht ihr traurigen Gedanken,
+heut’ zieht Jesus bei mir ein.
+Mein Verlangen und mein Hoffen
+ist gesegnet eingetroffen.
+Jesus, Gott und Davids Sohn
+kommt zu mir: Sein Königsthron
+soll in meinem Herzen sein. 
+
+Rezitativ (B):
+Wie kann, wie soll ich Dir,
+mein Herr, mein Heil, entgegen steh’n?
+Du kommst zu mir
+voll Sanftmut, voll Erbarmen,
+Du kommst, mir Sünder beizusteh’n.
+Immanuel, erwünschtes Rettungslicht!
+Ach, darf ich Dich gebeugt umarmen?
+Mein blödes Herz spricht ‚nein’,
+jedoch Dein holdes Angesicht
+räumt mir dazu die Freiheit ein.
+Drum wirft mein Herz sich hie40,
+o Davids Sohn, zu Füßen,
+in Ehrfurcht Dich zu küssen.
+Mein Glaube schwöret Dir die Treu’,
+ich will Dein Knecht, Du sollst mein König sein. 
+Vollführe nur Dein Gnadenwerk in mir,
+dass ich wie Du gesinnt und einst dort seelig sei.
+
+Arie (B):
+Mein Herz ist ganz verwirrt in42 Freude,
+ Sich mein Heiland zu mir naht.
+Kein Jammerstand,
+kein Druck von Satans Hand,
+noch Tod kann mich versehren,
+weil mich der große Herr der Ehren
+in Seinen Schutz genommen hat. 
+
+Choral:
+Aller Trost und alle Freude
+ruht in Dir, Herr Jesu Christ.
+Dein Erfreuen ist die Weide,
+da man sich recht frölich isst.
+Leuchte mir, o Freuden Licht,
+ehe mir mein Herze bricht.
+Lass mich Herr an Dir erquicken,
+Jesu, komm, lass Dich erblicken. 
 ```
 
 ### Graupner: Erbarm dich mein, o Herre Gott
