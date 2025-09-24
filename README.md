@@ -307,7 +307,7 @@ Provedení se účastnili klimentští Anglikáni.
 ### Graupner, Christoph (1683-1760): Auf Zion auf nimm Schmuck für Asche, GWV 1101/41
 
 - ??:??, 2ob, 2vn, vla, bc, SATB
-- [partitura na IMSLP](https://imslp.org/wiki/Auf_Zion_auf_nimm_Schmuck_f%C3%BCr_Asche%2C_GWV_1101%2F41_(Graupner%2C_Christoph)), [text]()
+- [partitura na IMSLP](https://imslp.org/wiki/Auf_Zion_auf_nimm_Schmuck_f%C3%BCr_Asche%2C_GWV_1101%2F41_(Graupner%2C_Christoph)), [text](#graupner-auf-zion-auf-nimm-schmuck-für-asche)
 
 ### Graupner, Christoph (1683-1760): Erbarm dich mein o Herre Gott, GWV 1163/24
 
