@@ -13,6 +13,7 @@
 ### 7.12.2025
 
 1. **Graupner, Christoph** (1683-1760): [**Heulet, denn des Herrn Tag ist nahe**](#graupner-christoph-1683-1760-heulet-denn-des-herrn-tag-ist-nahe-gwv-110226)
+2. **Graupner, Christoph** (1683-1760): [**Wer da glaubet dass Jesus sei der Christ**](#graupner-wer-da-glaubet-dass-jesus-sei-der-christ)
 
 ### 8.1.2026
 
@@ -314,7 +315,7 @@ Provedení se účastnili klimentští Anglikáni.
 ### Graupner, Christoph (1683-1760): Wer da glaubet dass Jesus sei der Christ, GWV 1103/40
 
 - 16:30, 2ob, 2vn, vla, bc, SATB
-- [nahrávka](https://www.youtube.com/watch?v=KExbkMOV-AQ&list=OLAK5uy_kO96OJ0vPEqYd3wll4wan8XGFcY5oHYKw&index=15), [partitura a paryt na IMSLP](https://imslp.org/wiki/Wer_da_glaubet_dass_Jesus_sei_der_Christ,_GWV_1103/40_(Graupner,_Christoph))
+- [nahrávka](https://www.youtube.com/watch?v=KExbkMOV-AQ&list=OLAK5uy_kO96OJ0vPEqYd3wll4wan8XGFcY5oHYKw&index=15), [partitura a paryt na IMSLP](https://imslp.org/wiki/Wer_da_glaubet_dass_Jesus_sei_der_Christ,_GWV_1103/40_(Graupner,_Christoph)), [text](#graupner-wer-da-glaubet-dass-jesus-sei-der-christ)
 
 ### Charpentier, Marc-Antoine (1643-1704): De profundis, H. 189
 
