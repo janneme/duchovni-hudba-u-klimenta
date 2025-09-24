@@ -10,7 +10,9 @@
 
 ## Návrhy
 
-### 7.12.2025 nebo 14.12.2025
+### 7.12.2025
+
+
 
 ### 8.1.2026
 
@@ -303,6 +305,11 @@ Provedení se účastnili klimentští Anglikáni.
 
 - 16:30, fl, 2vn, vla, bc, SATB
 - [partitura na IMSLP](https://imslp.org/wiki/Erbarm_dich_mein_o_Herre_Gott%2C_GWV_1163%2F24_(Graupner%2C_Christoph)), [text](#user-content-graupner-erbarm-dich-mein-o-herre-gott)
+
+### Graupner, Christoph (1683-1760): Heulet, denn des Herrn Tag ist nahe, GWV 1102/26
+
+- 15:00, 2fl, 2vn, vla, bc, SATB
+- [nahrávka](https://www.youtube.com/watch?v=DHVcGEE7m3Q&list=OLAK5uy_kO96OJ0vPEqYd3wll4wan8XGFcY5oHYKw&index=8), [partitura a party na IMSLP](https://imslp.org/wiki/Heulet_denn_des_Herrn_Tag_ist_nahe%2C_GWV_1102%2F26_(Graupner%2C_Christoph)
 
 ### Charpentier, Marc-Antoine (1643-1704): De profundis, H. 189
 
@@ -1354,6 +1361,78 @@ für dem Urteil durchs Blut bedeut
 mein Zung verkünd'ge dein recht's G'bott,
 schaff daß mein Mund dein Lob ausbreit.
 ```
+
+### Graupner: Heulet, denn des Herrn Tag ist nahe
+
+```
+Chorus:
+Heulet, denn des Herrn Tag ist nahe. Er kommt
+wie eine Verwüstung vom Allmächtigen.
+
+Rezitativ (Bass):
+Du sichres Volk, lass deinen Spott,
+der Gottes Wort und Wahrheit schändet:
+der Tag ist nah, der deine Bosheit endet.
+Doch ach! gerechter Gott,
+wer achtet Deine Drohungen?
+Drum komm nur bald zur Rache
+und rette Dein’ und Deiner Kinder Sache.
+Obgleich das Weltgebäude bricht,
+mein Geist erschrickt18 drum nicht,
+dein großer Tag wird ihn verherrlichen. 
+
+Arie (Bass):
+Erblasst nur, große Himmelslichter,
+die Unschuld scheuet keinen Richter,
+der ein gerechtes Urteil fällt.
+Ja, bebt ihr starke19 Himmelskräfte,
+verkündet Gottes Rach-Geschäfte.
+Zerfalle, großer Bau der Welt, 
+Ihr Wasserwogen braust und stoßt,
+mein Herz bleibt doch in Gott getrost
+
+Rezitativ (S)
+Des Richters große Majestät
+wird fromme Seelen nicht erschrecken.
+Wenn alles untergeht,
+so blühet ihre Hoffnung schön.
+Ihr Glaubensarm darf sich nach Jesu strecken,
+der sie von tausend Not befreit.
+Sein Mund heißt sie in jene Wohnung geh’n,
+wo lauter Himmels-Sommer lacht.
+Brich an, o güldne Zeit,
+hier ist nur Leidenskampf, ach wär er nur vollbracht! 
+
+Aria (S)
+Eilt nur fort, ihr Jammertage,
+Plage endet meines Herzens Plage,
+zeige dich, mein Rettungslicht.
+Brich die Macht der bangen Sorgen,
+Morgen gönne mir den schönen Morgen,
+der mir Himmels Trost verspricht. 
+
+Rezitativ (T)
+Mein Herz, ermüde nicht im Beten,
+ihr Glaubensaugen, schlaft nicht ein.
+Hört! Jesus heißt euch wacker21 sein,
+so kann mich keine Not berücken22,
+ich darf getrost vor seinen Richtstuhl treten.
+Mein Geist, ach säume nicht,
+dich wachsam drauf zu schicken.
+
+Choral:
+„Wacht auf!“ ruft uns die Stimme
+der Zinne der Wächter sehr hoch auf der Zinne,
+„Wach auf, du Stadt Jerusalem!
+Mitt’rnacht heißt diese Stunde,
+Munde sie rufet uns mit hellem Munde:
+wo seid ihr klugen Jungfrauen?
+Wohl auf, der Bräut’gam kommt,
+steht auf, die Lampen nehmt!
+Hallelujah!
+Macht euch bereit
+zu der Hochzeit,
+ihr müsset ihm entgegen geh’n.“
 
 ### Gib uns heut unser täglich Brot
 
