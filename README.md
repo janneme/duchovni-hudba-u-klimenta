@@ -13,7 +13,8 @@
 ### 7.12.2025
 
 1. **Graupner, Christoph** (1683-1760): [**Heulet, denn des Herrn Tag ist nahe**](#graupner-christoph-1683-1760-heulet-denn-des-herrn-tag-ist-nahe-gwv-110226)
-2. **Graupner, Christoph** (1683-1760): [**Wer da glaubet dass Jesus sei der Christ**](#graupner-christoph-1683-1760-wer-da-glaubet-dass-jesus-sei-der-christ-gwv-110340)
+2. **Graupner, Christoph** (1683-1760): [**Mache dich, mein Geist, bereit**]()
+3. **Graupner, Christoph** (1683-1760): [**Wer da glaubet dass Jesus sei der Christ**](#graupner-christoph-1683-1760-wer-da-glaubet-dass-jesus-sei-der-christ-gwv-110340)
 
 ### 8.1.2026
 
@@ -311,6 +312,11 @@ Provedení se účastnili klimentští Anglikáni.
 
 - 15:00, 2fl, 2vn, vla, bc, SATB
 - [nahrávka](https://www.youtube.com/watch?v=DHVcGEE7m3Q&list=OLAK5uy_kO96OJ0vPEqYd3wll4wan8XGFcY5oHYKw&index=8), [partitura a party na IMSLP](https://imslp.org/wiki/Heulet_denn_des_Herrn_Tag_ist_nahe%2C_GWV_1102%2F26_(Graupner%2C_Christoph)), [text](#graupner-heulet-denn-des-herrn-tag-ist-nahe)
+
+### Graupner, Christoph (1683-1760): Mache dich, mein Geist, bereit, GWV 1102/41
+
+- ??:??, 2vn, vla, bc, SATB
+- [partitura a party na IMSLP](https://imslp.org/wiki/Mache_dich_mein_Geist_bereit,_GWV_1102/41_(Graupner,_Christoph)), [text]()
 
 ### Graupner, Christoph (1683-1760): Wer da glaubet dass Jesus sei der Christ, GWV 1103/40
 
@@ -1371,7 +1377,7 @@ schaff daß mein Mund dein Lob ausbreit.
 ### Graupner: Heulet, denn des Herrn Tag ist nahe
 
 ```
-Chorus:
+Chor:
 Heulet, denn des Herrn Tag ist nahe. Er kommt
 wie eine Verwüstung vom Allmächtigen.
 
@@ -1397,7 +1403,7 @@ Zerfalle, großer Bau der Welt,
 Ihr Wasserwogen braust und stoßt,
 mein Herz bleibt doch in Gott getrost
 
-Rezitativ (S)
+Rezitativ (S):
 Des Richters große Majestät
 wird fromme Seelen nicht erschrecken.
 Wenn alles untergeht,
@@ -1409,7 +1415,7 @@ wo lauter Himmels-Sommer lacht.
 Brich an, o güldne Zeit,
 hier ist nur Leidenskampf, ach wär er nur vollbracht! 
 
-Aria (S)
+Arie (S):
 Eilt nur fort, ihr Jammertage,
 Plage endet meines Herzens Plage,
 zeige dich, mein Rettungslicht.
@@ -1417,7 +1423,7 @@ Brich die Macht der bangen Sorgen,
 Morgen gönne mir den schönen Morgen,
 der mir Himmels Trost verspricht. 
 
-Rezitativ (T)
+Rezitativ (T):
 Mein Herz, ermüde nicht im Beten,
 ihr Glaubensaugen, schlaft nicht ein.
 Hört! Jesus heißt euch wacker21 sein,
@@ -1441,10 +1447,88 @@ zu der Hochzeit,
 ihr müsset ihm entgegen geh’n.“
 ```
 
+### Graupner: Mache dich, mein Geist, bereit!
+
+```
+Choral:
+Mache dich, mein Geist, bereit!
+Wache, fleh’ und bete,
+dass dich nicht die böse Zeit
+unverhofft betrete,
+denn es ist
+Satans List,
+über viele Frommen
+zur Versuchung kommen.
+
+Rezitativ (T):
+Wacht auf, wacht auf, ihr sich’ren Herzen!
+Der Herr der Herrn
+hat etwas Großes vor.
+Hemmt euren Spott, lasst euer Scherzen,
+der Tag der Rache ist nicht fern.
+Hebt Geist und Haupt empor,
+seht an die Zeichen dieser Zeiten!
+Die großen Lichter scheinen schlecht,
+die Wasser wüten auf der Erde,
+die Welt hält nichts vom Recht.
+Was mag doch das bedeuten?
+Ach glaubt’s, das Ende ist sehr nah!
+Der Mund der Wahrheit sagt es ja,
+dass Er, wenn’s so ergeht,
+gar bald erscheinen werde.
+
+Arie (T):
+Die Welt ist reif zum Untergehen,
+doch lachen Freche der Gefahr.
+Ach Jesu, bleibe nicht so lange!
+Ach, denen deinen ist sehr bange,
+komm, rette deine fromme Schar
+
+Rezitativ (B):
+Die Zeiten sind - ach - sehr betrübt,
+die Tugend wird für nichts gehalten,
+die Laster werden frech verübt.
+Bei Jung’ und Alten
+ist keine Furcht des Herrn.
+Die Nahrungslast, die Sauf- und andre Lust
+legt ihren Herzen Fesseln an,
+dass sie nicht in die Höhe sehen.
+Sie lassen Gott auch seinen Himmel gern,
+wenn ihr verstockter Sinn den Wust
+der Wollust haben kann.
+Was Jesus dräut und spricht,
+das achtet ihre Frechheit nicht.
+Wie? Soll nicht eine Schwefelglut
+das Sodom solches Volks verzehren,
+das solche Gräuel tut!
+Ach Gott, sieh drein:
+Wie lange soll’s noch währen
+
+Arie (B):
+Arge Welt, sei immer böse!
+Ach, gewiss, du wirst die Größe
+deines Gräu’ls zu spat bereu’n.
+Jesus wird zum Trost der Frommen
+bald kommen,
+dass dein Tun gerochen werde.
+Aber Seine fromme Herde
+wird Er denn recht sehr erfreu’n.
+
+Choral:
+D’rum, so lasst uns immerdar
+wachen, flehen, beten,
+weil die Angst, Not und Gefahr
+immer näher treten,
+dann die Zeit
+ist nicht weit,
+da uns Gott wird richten
+und die Welt vernichte.
+```
+
 ### Graupner: Wer da glaubet dass Jesus sei der Christ
 
 ```
-Chorus:
+Chor:
 Wer da glaubet, dass Jesus sei der Christ,
 der ist von Gott geboren; und wer da liebet
 den, der Ihn geboren hat, der liebet auch den,
@@ -1465,7 +1549,7 @@ sieh zu, wie du gesinnet bist.
 Liebst du die Welt, hinkst du auf beiden Seiten,
 so ist gewiss dein Glaube Heuchelei. 
 
-Aria (S):
+Arie (S):
 Wer Jesum kennt, wankt nicht im Glauben,
 er steht fest, wenn Satan tobt.
 Er weiß, er ist von Gott geboren,
