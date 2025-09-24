@@ -13,7 +13,7 @@
 ### 7.12.2025
 
 1. **Graupner, Christoph** (1683-1760): [**Heulet, denn des Herrn Tag ist nahe**](#graupner-christoph-1683-1760-heulet-denn-des-herrn-tag-ist-nahe-gwv-110226)
-2. **Graupner, Christoph** (1683-1760): [**Wer da glaubet dass Jesus sei der Christ**](#graupner-wer-da-glaubet-dass-jesus-sei-der-christ)
+2. **Graupner, Christoph** (1683-1760): [**Wer da glaubet dass Jesus sei der Christ**](#graupner-christoph-1683-1760-wer-da-glaubet-dass-jesus-sei-der-christ-gwv-110340)
 
 ### 8.1.2026
 
