@@ -16,6 +16,7 @@
 2. **Graupner, Christoph** (1683-1760): [**Heulet, denn des Herrn Tag ist nahe**](#graupner-christoph-1683-1760-heulet-denn-des-herrn-tag-ist-nahe-gwv-110226)
 3. **Graupner, Christoph** (1683-1760): [**Mache dich, mein Geist, bereit**](#graupner-christoph-1683-1760-mache-dich-mein-geist-bereit-gwv-110241)
 4. **Graupner, Christoph** (1683-1760): [**Wer da glaubet dass Jesus sei der Christ**](#graupner-christoph-1683-1760-wer-da-glaubet-dass-jesus-sei-der-christ-gwv-110340)
+5. **Bach, Johann Sebastian** (1685-1750): [**Nun komm, der Heiden Heiland**, BWV 62]()
 
 ### 8.1.2026
 
@@ -274,6 +275,11 @@ Provedení se účastnili klimentští Anglikáni.
 - 20:00, 2fl, 2viol, bc, SATB
 - [nahrávka](https://www.youtube.com/watch?v=XVxBFtvNlmg), [partitura a party na IMSLP](https://imslp.org/wiki/Gottes_Zeit_ist_die_allerbeste_Zeit%2C_BWV_106_(Bach%2C_Johann_Sebastian))
 
+### Bach, Johann Sebastian (1685-1750): Nun komm, der Heiden Heiland, BWV 62
+
+- 23:00, 2ob, 2vn, vla, bc, SATB
+- [nahrávka](https://www.youtube.com/watch?v=3_RKlsydSwE), [partitura a party na IMSLP](https://imslp.org/wiki/Nun_komm,_der_Heiden_Heiland,_BWV_62_(Bach,_Johann_Sebastian), [text]()
+
 ### Bernardino, Azzolino della Ciaja (1671-1755): Lauda Jerusalem Dominum
 
 - 10:30 (2:00 + 2:00 + 2:00 + 2:30 + 2:00), 2vn, vla, bc, SSATB
@@ -307,7 +313,7 @@ Provedení se účastnili klimentští Anglikáni.
 ### Graupner, Christoph (1683-1760): Auf Zion auf nimm Schmuck für Asche, GWV 1101/41
 
 - ??:??, 2ob, 2vn, vla, bc, SATB
-- [partitura na IMSLP](https://imslp.org/wiki/Auf_Zion_auf_nimm_Schmuck_f%C3%BCr_Asche%2C_GWV_1101%2F41_(Graupner%2C_Christoph)), [text](#graupner-auf-zion-auf-nimm-schmuck-für-asche)
+- [partitura a party na IMSLP](https://imslp.org/wiki/Auf_Zion_auf_nimm_Schmuck_f%C3%BCr_Asche%2C_GWV_1101%2F41_(Graupner%2C_Christoph)), [text](#graupner-auf-zion-auf-nimm-schmuck-für-asche)
 
 ### Graupner, Christoph (1683-1760): Erbarm dich mein o Herre Gott, GWV 1163/24
 
@@ -1300,6 +1306,52 @@ Der Herr segne euch je mehr und mehr, euch und eure Kinder.
 Chorus
 
 Ihr seid die Gesegneten des Herrn, der Himmel und Erde gemacht hat. Amen.
+```
+
+### Bach: Nun komm, der Heiden Heiland, BWV 62
+
+```
+Chor:
+Nun komm, der Heiden Heiland,
+Der Jungfrauen Kind erkannt,
+Des sich wundert alle Welt,
+Gott solch Geburt ihm bestellt.
+
+Arie (T):
+Bewundert, o Menschen, dies große Geheimnis:
+Der höchste Beherrscher erscheinet der Welt.
+Hier werden die Schätze des Himmels entdecket,
+Hier wird uns ein göttliches Manna bestellt,
+O Wunder! die Keuschheit wird gar nicht beflecket.
+
+Rezitativ (B):
+So geht aus Gottes Herrlichkeit und Thron
+Sein eingeborner Sohn.
+Der Held aus Juda bricht herein,
+Den Weg mit Freudigkeit zu laufen
+Und uns Gefallne zu erkaufen.
+O heller Glanz, o wunderbarer Segensschein!
+
+Arie (B):
+Streite, siege, starker Held!
+Sei vor uns im Fleische kräftig!
+Sei geschäftig,
+Das Vermögen in uns Schwachen
+Stark zu machen!
+
+Rezitativ (SA):
+Wir ehren diese Herrlichkeit
+Und nahen nun zu deiner Krippen
+Und preisen mit erfreuten Lippen,
+Was du uns zubereit';
+Die Dunkelheit verstört' uns nicht
+Und sahen dein unendlich Licht.
+
+Choral:
+Lob sei Gott, dem Vater, g'ton,
+Lob sei Gott, sein'm eingen Sohn,
+Lob sei Gott, dem Heilgen Geist,
+Immer und in Ewigkeit!
 ```
 
 ### Graupner: Auf Zion auf nimm Schmuck für Asche
