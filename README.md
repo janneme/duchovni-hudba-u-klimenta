@@ -29,6 +29,7 @@ Večer věnovaný Edvardu Schiffauerovi a Ivanu Binarovi.
 ### 2025 – 2026
 
 - **[19.10.2025](#19102025)**: **Rosenmuller, Johann** (1619-1684): **Confitebor tibi Domine**
+- **[7.12.2025](#7122025): **Graupner, Christoph** (1683-1760): **Auf Zion auf nimm Schmuck für Asche**
 
 ### 2024 – 2025
 
@@ -249,14 +250,20 @@ Provedení se účastnili klimentští Anglikáni.
 
 #### Hudba před bohoslužbami
 
-#### Hudba před bohoslužbami
-
 - **Rosenmuller, Johann** (1619-1684): [**Confitebor tibi Domine (Ž 111)**](#confitebor-tibi-domine-ž-111)
 - **Rosenmuller, Johann** (1619-1684): [**Warlich, warlich ich sage euch**](#warlich-warlich-ich-sage-euch)
 
 #### Hudba při bohoslužbách
 
 - **Rosenmuller, Johann** (1619-1684): [**Confitebor tibi Domine (Ž 138)**](#rosenmuller-johann-1619-1684-confitebor-tibi-domine)
+
+### 7.12.2025
+
+#### Hudba před bohoslužbami
+
+#### Hudba při bohoslužbách
+
+**Graupner, Christoph** (1683-1760): [**Auf Zion auf nimm Schmuck für Asche**](#graupner-christoph-1683-1760-auf-zion-auf-nimm-schmuck-für-asche-gwv-110141)
 
 ## Plánované skladby
 
@@ -312,7 +319,8 @@ Provedení se účastnili klimentští Anglikáni.
 
 ### Graupner, Christoph (1683-1760): Auf Zion auf nimm Schmuck für Asche, GWV 1101/41
 
-- ??:??, 2ob, 2vn, vla, bc, SATB
+- 21:00 (4:30 + 6:30 + 1:40 + 7:00 + 1:30), 2ob, 2vn, vla, bc, SATB
+
 - [partitura a party na IMSLP](https://imslp.org/wiki/Auf_Zion_auf_nimm_Schmuck_f%C3%BCr_Asche%2C_GWV_1101%2F41_(Graupner%2C_Christoph)), [text](#graupner-auf-zion-auf-nimm-schmuck-für-asche)
 
 ### Graupner, Christoph (1683-1760): Erbarm dich mein o Herre Gott, GWV 1163/24
@@ -3297,7 +3305,7 @@ Wünsche stets, daß mein Gebeine
 Sich durch Gott mit Gott vereine!
 
 Evangelista:
-Drauf sagten er dem Höchsten Dank,
+Drauf sagte er dem Höchsten Dank,
 Und nach gesprochenem Lobgesang
 Ging Jesus über Kidrons Bach
 Zum Öhlberg, da er dann zu seinen Jüngern sprach:
