@@ -3431,9 +3431,11 @@ Und der Verräter hatte dieses ihnen
 zum Zeichen lassen dienen:
  
 Judas:
-Daß ihr, wer Jesus sei, recht möget wissen,
-Will ich ihn küssen;
-Und dann dringt auf ihn in hellen Haufen!
+Daß ihr, wer Jesus sei,
+recht möget wissen,
+will ich ihn küssen;
+und dann dringt auf
+ihn in hellen Haufen!
 
 Chor der Kriegsknechte:
 Er soll uns nicht entlaufen.
@@ -3447,74 +3449,72 @@ Mein Freund, sag, warum kommst du hier?
 Petrus:
 Gift und Glut, Strahl und Flut
 erstikke verbrenne, zerschmettre, versenke
-Den falschen Verräter voll mördrischer Ränke.
-Man fesselt Jesum jämmerlich,
-Und keine Wetter regensich?
+den falschen Verräter der mördrischer Ränke.
+Man feßelt Jesum jämmerlich,
+und keine Wetter regen sich?
 Auf denn, mein unverzagter Mut,
-Vergrieß das frevelhafte Blut,
-Weil es nicht tut Gift und Glut,
-Strahl und Flut!
+vergrieß das frevelhafte Blut, weil es nicht tut
+Gift und Glut, Strahl und Flut!
 
 Jesus:
 Steck nur das Schwert an seinen Ort;
-Denn wer das Schwert ergreift,
-Wird durch das Schwert erkalten.
-Wie, oder glaubst du nicht, daß ich sofort
-Von meinem Vater in der Höhe
-Der Engel Hülfe könn’ erhalten?
-Allein, es will die Schrift, daß er also geschehe.
-Ihr kommt mit Schwerten und mit Stangen,
-Als einen Mörder mich zu fangen,
-Da ihr doch, wie ich euch gelehrt,
-Im Tempel täglich angehört;
-Und keiner hat sich je gelüsten lassen,
-Mich anzufassen.
-Allein, es muß nunmehr geschehn,
-Was die Propheten längst vorhergesehn.
+wer's Schwert ergreift,
+fällt durch das Schwert ins Grab.
+Wie, oder glaubst du nicht, daß also fort
+von meinem Vater in der Höhe
+der Engel Hülf ich könn’ erwerben?
+Allein, die Schrift verlangt, daß es also geschehe.
+Ihr kommt mit Schwerdern und mit Stangen,
+als einen Mörder mich zu fangen,
+da ihr doch, wie ich euch gelehrt,
+im Tempel täglich angehört;
+und keiner hat sich mich anzufassen,
+sich je gelüsten laßen.
+Doch ja, diß alles muß geschehn,
+was die Propheten längst vorhergesehn.
 
 Chor der Jünger:
-O weh, sie binden ihn
-Mit Strick und mit Ketten!
+O weh, sie binden ihn mit Strick und mit Ketten!
 Auf, laßt uns fliehn und unser Leben retten!
 
 Petrus:
-Wo flieht ihr hin? Verzagte, bleibt!
-Doch ach, sie sind schon fort!
+Wo flieht ihr hin, Verzagte?
+Bleibt doch, ach, sie sind schon fort!
 Was fang’ ich an? Folg’ ich den andern nach,
-Weil ich allein ihm doch nicht helfen kann?
-Nein, nein, mein Herz, nein, nein!
-Ich laß’ ihn nicht allein,
-Und sollt’ ich auch mein Leben gleich verlieren,
+weil ich allein ihm doch nicht helfen kann?
+Mein feiges Herz, nein, nein,
+ach laße Jesum nicht allein,
+und soll ich auch mein Leben gleich verlieren,
+will ich doch sehn wohin sie Jesum führen.
 
 Petrus:
 Nehmt mich mit, verzagte Scharen,
 Hier ist Petrus ohne Schwert!
 Laßt, was Jesus widerfährt,
-Mir auch widerfahren.
+Mir auch wiederfahren.
 
 Evangelista:
 Und Jesus ward zum Palast Kaiphas’,
-Woselbst der Priesterrat versammelt saß,
-Mehr hingerissen als geführet;
-Und Petrus, bald von Grimm
-Und bald von Furcht gerühret,
-Folgt’ ihm von Ferne nach.
-Indessen war der Rat doch nur umsonst geflissen,
-Durch falsche Zeugen ihn zu fangen;
-Derhalben Kaiphas also zu Jesus sprach:
+woselbst der Priesterrat versammelt saß,
+mehr hingerißen als geführet;
+und Petrus, bald von Grau,
+und bald von Furcht gerühret,
+indeßen war der Rat doch nur umsonst geflißen,
+durch falsche Zeugen ihn zu fangen,
+derhalben Kaiphas also zu Jesus sprach:
  
 Kaiphas:
-Wir wollen hier von dem, was du begangen,
-Und deiner Lehre Nachricht wissen.
+Wir wollen hier von dem, was fürgegangen,
+Und deiner Lehre Nachricht wißen.
  
 Jesus:
 Was ich gelehrt, ist öffentlich geschehn,
-Und darf ich es ja dir nicht hier erst sagen;
-Du kannst nur die, so mich gehöret, fragen.
+und darf ich es ja dir nicht hier erst sagen;
+du kannst nur die so mich gehöret fragen.
  
 Ein Kriegsknecht:
-Du Ketzer willst dich unterstehn,
-Zum Hohen Priester so zu sprechen!
+Du Ketzer! Willst dich unterstehn,
+zum Hohenpriester so zu sprechen?
 Wart, dieser Schlag soll deinen Frevel rächen!
 
 Tochter Zion:
@@ -3526,28 +3526,31 @@ Der wilden Wetter Blitz und Keile
 Dich Teufelswerkzeug nicht verbrannt!
 
 Evangelista:
-Dies sahe Petrus an, der draußen bei dem Feuer
-Sich heimlich hingesetzt. Indem kam eine Magd,
-Die gleich, sobald sie ihn erblickte, sagt:
+Dies sahe Petrus an,
+der draußen bei dem Feuer
+sich heimlich hingesetzt.
+Indem kam eine Magd, die gleich,
+sobald sie ihn erblickte, sagt:
  
 Erste Magd:
-Ich schwöre hoch und teuer,
-Daß dieser auch von Jesus’ Schar.
+Ich schwüre hoch und teuer,
+daß dieser auch von Jesus’ Schar.
  
 Petrus:
-Wer? Ich? Nein, wahrlich, nein, du irrest dich.
+Wer? Ich?
+Nein, wahrlich, nein, du irrest dich.
  
 Evangelista:
-Nicht lang hernach fing noch ein’ andre an:
+Nicht lang hernach fing eine andre an:
  
 Zweite Magd:
-Soviel ich mich erinnern kann,
-Bist du mit dem, der hier gefangen,
-Auch mitgegangen;
-Drum wundr’ ich mich, daß du dich hieher wagst.
+Soviel ich mich erinnern kann, Bist du mit dem,
+der hier gefangen, viel umgegangen,
+drum wundr’ ich mich, daß du dich hieher wagst.
  
 Petrus:
-Welch toll Geschwätz! Ich weiß nicht, was du sagst;
+Welch toll Geschwätz!
+Ich weiß nicht, was du sagest;
 Ich kenne wahrlich seiner nicht.
  
 Evangelista:
@@ -3555,41 +3558,39 @@ Gleich drauf sagt ihm ein’ andre ins Gesicht:
  
 Dritte Magd:
 Du bist fürwahr von seinen Leuten
-Und suchst umsonst dich reinzubrennen.
-Im Garten warst du ihm zur Seiten,
-Auch gibt die Sprach’ dich zu erkennen.
+unmöglich wirstus leugnen können,
+im Garten warst du ihm zur Seiten,
+auch gibts die Sprach’ dich zu erkennen.
 
 Petrus:
-Ich will versinken und vergehn,
-Mich stürtz’ des Wetters Blitz und Strahl,
-Wo ich auch nur ein einzig Mal
+Ich will versinken und vergehn!
+Mich stürtz’ des Wetters Blitz und Strahl!
+Wo ich auch nur ein einzig Mahl
 Hier diesen Menschen sonst gesehn!
 
 Evangelista:
 Drauf krähete der Hahn.
 Sobald der heis’re Klang
-Durch Petrus’ Ohren drang,
-Zersprang sein Felsenherz,
-Und lief,
-Wie Moses’ Fels dort Wasser gab,
-Ein Tränenbach die Wangen ab,
-Wobei er trostlos rief:
+durch Petrus’ Ohren drang,
+zersprang sein Felsenherz und lief,
+wie Moses’ Felß dort Wasser gab,
+ein Tränenbach die Wangen ab,
+wobei er trostloß rief:
  
 Petrus:
-Welch ungeheurer Schmerz
-Bestürmet mein Gemüt!
+Welch ungeheurer Schmerz bestürmet mein Gemüt!
 Ein kalter Schauder schreckt die Seele;
-Die wilde Glut der dunkeln Marterhöhle
-Entzündet schon mein zischendes Geblüt,
-Mein Eingeweide kreischt auf glimmen Kohlen!
+eie wilde Glut der dunkeln Marterhöhle
+entzündet schon mein zischendes Geblüt,
+mein Eingeweide kreischt auf glimmen Kohlen!
 Wer löschet diesen Brand,
-Wo soll ich Rettung holen?
+wo soll ich Rettung holen?
 
 Petrus:
-Heul, du Fluch der Menschenkinder!
-Winsle, wilder Sündenknecht!
-Zittre, denn Gott ist gerecht,
-Er vertilgt verstockte Sünder.
+Heul, du Schaum der Menschenkinder!
+Winßle wilder Sündenknecht!
+Thränen waßer ist zu schlecht,
+weine Blut, verstockter Sünder.
 
 Petrus:
 Doch wie, will ich verzweifelnd untergehn?
@@ -3601,7 +3602,7 @@ Und Gnad’ anflehn.
 Petrus:
 Schau, ich fall’ in strenger Buße,
 Sündentilger, dir zu Fuße,
-Laß mir deine Gnad’ erscheinen,
+Laß mir deine Gnade scheinen,
 Daß der Fürst der dunklen Nacht,
 Der, da ich gefehlt, gelacht,
 Mög’ ob meinen Tränen weinen!
@@ -3613,33 +3614,35 @@ Da ist niemand, der helfen kann,
 In dieser Welt zu finden.
 Zu dir flieh ich, verstoß mich nicht,
 Wie ich’s wohl hab’ verdienet.
-Ach, Gott, zürn nicht, geh nicht ins G’richt,
+Ach, Gott! zürn nicht, geh nicht ins Gericht,
 Dein Sohn hat mich versühnet.
 
 Evangelista:
-Als Jesus nun, wie hart man ihn verklage,
-Doch nichts zu allem sagte,
-Da fuhr ihn Kaiphas mit diesen Worten an:
+Wie Jesus nun zu allem was geschah
+und nach der Außag aller falschen Zeugen
+nichts that als schweigen, und nicht mehr sprach,
+da fuhr ihn Caiphas mit diesen Worten an:
  
 Kaiphas:
 Weil man nichts aus dir bringen kann
-Und du nur auf die Aussag’ aller Zeugen
-Antwortest mit verstocktem Schweigen,
-Beschwör ich dich bei Gott, uns zu gestehn,
-Ob du seist Christus, Gottes Sohn?
+und du zu dem da diese dich verklagen
+gar nichts willst sagen
+beschwer ich dich bei Gott uns zu gestehn,
+ob du seist Christus, Gottes Sohn?
  
 Jesus:
-Ich bin’s! Von nun an werdet ihr
-Zur rechten Hand der Kraft
+Ich bin’s!
+Von nun an werdet ihr zur rechten Hand der Kraft
 Und auf der Wolken Thron mich kommen sehn.
  
 Kaiphas:
-O Lästerer! Was dürfen wir nun weiter Zeugnis führen?
-Ihr könnt es jetzo selber spüren, was er sich hat erkühnt.
-Was dünket euch?
+O Lästerer!
+Was dürfen wir nun weiter Zeugnis führen?
+Ihr könnt es jetzo selber spüren,
+was er sich hat erkühnt. Was dünket euch?
  
 Evangelista:
-Drauf rief der ganze Hauf sogleich:
+Drauf rief der ganze Rath zugleich:
 
 Chor des hohen Rates:
 Er hat den Tod verdient!
@@ -3657,12 +3660,12 @@ Die Nacht war kaum vorbei;
 Die müde Welt lag noch im Schlaf versenkt,
 Als Jesus abermal, in Ketten eingeschränkt
 Und mit erschrecklichem Geschrei,
-Ward nach Pilatus hingerissen.
+Ward nach Pilatus hingerißen.
  
 Tochter Zion:
-Hat dies mein Heiland leiden müssen?
-Für wen, ach Gott, für wen?
-Für wessen Sünden läßt er sich binden?
+Hat dies mein Heiland leiden müßen?
+Für wen, ach Gott?
+Für weßen Sünden läßt er sich binden?
 Für welche Fehler, was für Schulden
 Muß er der Schergen Frevel dulden?
 Wer hat, was Jesus büßt, getan?
@@ -3673,14 +3676,15 @@ Meine Laster sind die Stricke,
 Seine Ketten meine Tücke,
 Meine Sünden binden ihn.
 Diese trägt er, mich zu retten,
-Damit ich der Höllen Ketten mög’ entfliehn.
+Damit ich der Höllen Ketten
+mög’ entfliehn.
 
 Judas:
 Oh, was hab’ ich verfluchter Mensch getan!
-Rührt mich kein Strahl,
+Rührt mich kein Strahl?
 Will mich kein Donner fällen?
 Brich, Abgrund, brich,
-Eröffne mir die Bahn zur Höllen!
+eröffne mir die düstre Bahn zur Hölle!
 Doch ach, die Höll’ erstaunt ob meiner Taten,
 Die Teufel selber schämen sich!
 Ich Hund hab’ meinen Gott verraten.
@@ -3690,8 +3694,8 @@ Laßt diese Tat nicht ungerochen!
 Zerreißt mein Fleisch,
 Zerquetscht die Knochen,
 Ihr Larven jener Marterhöhle!
-Straft mit Flammen, Pech und Schwefel
-Meinen Frevel,
+Straft mit Flammen, Pech
+und Schwefel Meinen Frevel,
 Daß ich die verdammte Seele ewig quäle!
 
 Unsäglich ist mein Schmerz,
@@ -3705,8 +3709,7 @@ Dem Körper schlägt die Erd’ ein Grab,
 Der Himmel meiner Seel’ den Wohnplatz ab.
 Was fang’ ich dann, verzweifelter,
 Verdammter Mörder an?
-Eh’ ich mich soll
-So unerträglich kränken,
+Eh’ ich mich soll So unerträglich kränken,
 Will ich mich henken!
 
 Tochter Zion:
@@ -3717,8 +3720,7 @@ Wann die Frucht der Sünden reift!
 
 Evangelista:
 Wie nun Pilatus Jesum fragt,
-Ob er der Juden König wär’,
-Sprach er:
+Ob er der Juden König wär’, sprach er:
  
 Jesus:
 Du hast’s gesagt.
@@ -3729,7 +3731,7 @@ Den Feind des Kaisers, den Verräter!
 
 Pilatus:
 Hast du denn kein Gehör?
-Vernimmst du nicht, wie hart sie dich verklagen,
+Vernimmst du nicht, wie hart sie dich verklagen?
 Und willst du nichts zu deiner Rettung sagen?
  
 Evangelista:
@@ -3738,11 +3740,12 @@ Er aber sagte nichts mehr.
 Tochter Zion; Jesus:
 Sprichst du denn auf dies Verklagen
 Und das spöttische Befragen,
-Ewig Wort, kein einzig Wort?
+Ewigs Wort, kein einzig Wort?
  
 Jesus:
+Nein, nein.
 Nein, ich will euch jetzo zeigen,
-Daß ich wiederbring’ durch Schweigen,
+wie ich wiederbring durch Schweigen,
 Was ihr durch Geschwätz verlort.
 
 Evangelista:
@@ -3759,8 +3762,8 @@ Chor der Juden:
 Nein, diesen nicht, den Barrabas gib frei!
 
 Pilatus:
-Was fang’ ich an
-Mit eurem sogenannten König?
+Was fang’ ich dann
+Mit eurem sogenannten König an?
 
 Chor der Juden:
 Weg! Laß ihn kreuzigen!
@@ -3773,7 +3776,7 @@ Weg! Laß ihn kreuzigen!
 
 Evangelista:
 Wie er nun sah,
-Daß der Tumult nicht war zu stillen,
+daß dies Getümmel nicht zu stillen,
 So rief er endlich “Ja”
 Und übergab ihn ihrem Willen.
 
@@ -3782,17 +3785,17 @@ Besinne dich, Pilatus, schweig, halt ein!
 Vermeide doch der Höllen Schwefelflammen!
 Soll Gottes Sohn von dir verurteilt sein?
 Willst du, Verdammter, Gott verdammen?
-Will deine große Grausamkeit
+Will deine freche Grausamkeit
 Der toten Welt ihr Leben,
 Der Engel Lust, den Herrn der Herrlichkeit
-Verworf’nen Schergen übergeben?
+Verworffnen Schergen übergeben?
 
-Dein Bärenherz ist felsenhart,
-Solch Urteil abzufassen!
+Dein Bähren Herz ist felsenhart
+solch Urteil abzufaßen.
 Soll Gott erblassen?
-Ich wund’re mich, du Frucht des Bösen,
-Daß dir in deinem teuflisch Wesen
-Die Seele nicht erkaltet und erstarrt.
+Ich wundre mich, du Zucht der Drachen
+daß nicht in dem verfluchten Rachen
+dir die erschwerte Zung erstarrt.
 
 Evangelista:
 Drauf zerreten ihn die Kriegsknecht’ hinein
@@ -3809,82 +3812,87 @@ Der ew’gen Liebe scheint zu sein;
 Denn aus den Ritzen seiner Wunden,
 Weil er die Glut im Busen trägt,
 Seh’ ich, sooft man auf ihn schlägt,
-Sooft mit Strick und Stahl die Schergen auf ihn dringen,
-Aus jedem Tropfen Blut der Liebe Funken springen.
+So oft mit Strick und Stahl
+die Schergen auf ihn dringen,
+der Liebe Funken springen.
 
 Drum, Seele, schau mit ängstlichem Vergnügen,
 Mit bittrer Lust und mit beklemmten Herzen,
-Dein höchstes Gut in Jesu Schmerzen,
+dein Himmelreich in seinen Schmerzen,
 Wie dir aus Dornen, die ihn stechen,
-Des Himmels Schlüsselblumen blühn!
+Des Himmels Schlüßelblumen blühn!
 Du kannst viel süße Frucht
 Von seiner Wermut brechen.
-Schau, wie die Mörder ihn auf seinen Rücken schlagen,
-Wie tief, wie grausam tief sie ihre Furchen ziehn,
+Schau, wie die Mörder ihm auf seinen Rücken pflügen,
+Wie tief, wie grausam tief
+sie ihre Furchen ziehn,
 Die er mit seinem Blut begießet,
-Woraus der toten Welt des Lebens Ernt’ entsprießet!
-Ja, ja, aus Jesus’ Wunden fließet
-Ein Balsam, dessen Wunderkraft
+Woraus der toten Welt
+des Lebens Ernt’ entsprießet!
+Ja, ja, aus Jesus Striemen fließet
+Ein Balsam, deßen Wunderkraft
 Von solcher seltnen Eigenschaft,
 Daß er sein’ eigne nicht,
 Nur fremde Wunden heilet,
-Uns Leben, Lust und Trost,
+uns Leben, Trost und Lust,
 Ihm selbst den Tod erteilet.
 
-Dem Himmel gleicht sein blutgefärbter Rücken,
+Dem Himmel gleicht
+sein buntgestriemter Rücken,
 Den Regenbögen ohne Zahl
 Als lauter Gnadenzeichen schmücken,
-Die, wo die Sündflut uns’rer Schuld versieget,
+die, da die Sündflut uns're Schuld versieget,
 Der holden Liebe Sonnenstrahl
-In seines Blutes Strömen zeiget.
+in seines Blutes Wolken zeiget.
 
 Evangelista:
 Wie nun das Blut in Strömen von ihm rann,
-Da zogen sie ihm einen Purpur an
-Und krönten ihn, zu desto größerem Hohn,
+Da zogen sie ihm einen Purpur an,
+Und krönten ihn, zu desto größerm Hohn,
 Mit einer Dornenkron’.
 
 Tochter Zion:
-Die Rosen krönen sonst der rauhen Dornen Spitzen,
-Wie kömts, daß hier ein Dorn die Sarons-Rose krönt?
-Da auf die Rosen sonst Aurora Perlen thränt,
+Die Rosen krönen sonst
+der rauhen Dornen Spitzen,
+Wie kömts, daß hier ein Dorn
+die Sarons-Rose krönt?
+Da auf die Rosen sonst Aurora Perlen tränt,
 Fängt hier die Rose selbst Rubinen an zu schwitzen.
 Ja wohl erbärmliche Rubinen!
-Die aus geronnen Blut auf JEsus Stirne stehn!
+Die aus geronnen Blut auf Jesus Stirne stehn.
 Ich weiß, ihr werdet mir zum Schmuck der Seelen dienen;
 Und dennoch kan ich euch nicht ohne Schrecken sehn.
 
-Verwegner Dorn, barbarsche Spitzen!
-Erwildert Mordgesträuch, halt ein!
+Verwegner Dorn, barbarsche Spitzen,
+verwildert Mordgesträuch, halt ein!
 Soll dieses Hauptes Elfenbein
 Dein spröder Stachel ganz zerritzen?
 Verwandelt euch vielmehr in Stahl und Klingen,
 Durch dieser Mörder Herz zu dringen,
 Die Tiger, keine Menschen sein!
 Doch der verfluchte Strauch ist taub;
-Hör, wie mit knirschendem Geräusch
+Hör, wie mit knirschenden Geräusch
 Sein Drachenzähnen gleiches Laub
 Durchdringet Sehnen, Adern, Fleisch.
 
 Laß doch diese herbe Schmertzen,
 Frecher Sünder, dir zu Hertzen,
-Ja durch Marck und Seele gehen.
-Selbst die Natur fühlt Schmertz u. Grauen,
+Ja durch Mark und Seele gehen.
+Selbst die Natur fühlt Schmertz und Grauen,
 Ja sie empfindet jeden Stich,
 Da sie der Dornen starre Klauen,
-So jämmerlich,
-In ihres Schöpffers Haupt sieht eingedrücket stehn.
+So jämmerlich in ihres Schöpffers Haupt,
+so jämmerlich sie eingedrücket stehn.
 
 Die zarten Schläffe sind biß ans Gehirne
 Durchlöchert und durchbohrt,
 Schau, Seele, schau,
 Wie von der Göttlich-schönen Stirne,
-Gleich einem Purpur=farbnen Thau,
-Der vom gestirnten Himmel sich ergiest,
-Ein lauer Bach von blutgem Purpur fliest.
+Gleich einem Purpurfarbnen Tau,
+Der vom gestirnten Himmel sich ergießt,
+Ein lauer Bach von blutgen Purpur fließt.
 
-Jesu! Jesu, dich mit unsern Seelen
-Zu vermählen,
+Jesu dich mit unsern Seelen zu vermählen
 Schmilzt dein liebend Herz vor Liebe;
 Ja, du gießest in die Glut,
 Statt des Öls, für heiße Triebe,
@@ -3899,8 +3907,8 @@ Ein jeder sei ihm untertänig!
 Gegrüßet seist du, Judenkönig!
 
 Evangelista:
-Ja, scheueten sich nicht,
-Ihm ins Gesicht zu speien.
+Auch scheuten sie sich nicht,
+ihm ins Gesicht zu speeen.
 
 Tochter Zion:
 Schäumest du, du Schaum der Welt,
@@ -3909,6 +3917,8 @@ Brut der Drachen,
 Dem, der alle Ding’ erhält,
 Seinen Geifer ins Gesicht,
 Und die Höll’ verschlingt dich nicht?
+Schleim und Geiffer ins Gesicht,
+und die Hell verschlingt dich nicht!
 
 Evangelista:
 Worauf sie mit dem Rohr, das seine Hände trugen,
