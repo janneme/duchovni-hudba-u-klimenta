@@ -3235,48 +3235,49 @@ Amen.
 #### Text
 
 ```
-Mich vom Stricke meiner Sünden
-Zu entbinden,
-Wird mein Gott gebunden.
-Von der Laster Eiterbeulen mich zu heilen,
-Läßt er sich verwunden. Es muß, meiner Sünden
-Flecken zu bedecken,
-Eignes Blut ihn färben,
-Ja es will, ein ewig Leben mir zu geben,
-Selbst das Leben sterben.
+Mich vom Stricke meiner Sünden Zu entbinden,
+wird mein Gott gebunden.
+von der Laster Eiterbeulen mich zu heilen,
+läßt er sich verwunden.
+
+Es muß, meiner Sünden Flecken zu bedecken,
+eignes Blut ihn färben;
+ja es will, ein ewig Leben mir zu geben,
+selbst das Leben sterben.
 
 Evangelista:
 Als Jesu nun zu Tische saße
-Und er das Osterlamm, das Bild von seinem Tod,
-Mit seinen Jüngern aße,
-Nahm er das Brot,
-Und wie er es, dem Höchsten dankend brach,
-Gab er es ihnen hin und sprach:
+und er das Osterlamm,
+das Bild von seinem Tod,
+mit seinen Jüngern aße,
+nahm er das Brot,
+und wie er es, dem Höchsten dankend brach,
+gab er es ihnen hin und sprach:
 
 Jesus:
-Das ist mein Leib: kommt, nehmet, esset,
-Damit ihr meiner nicht vergesset.
+Das ist mein Leib: kommt, nehmet, eßet,
+damit ihr meiner nicht vergeßet.
 
 Tochter Zion:
 Der Gott, dem alle Himmelskreise,
-Dem aller Raum zu klein,
-Ist hier auf unerforschte Weise
-In, mit und unter Brot und Wein
-Und will der Sünder Seelenspeise,
-O Lieb’, o Gnad’, o Wunder sein.
+dem aller Raum zu klein,
+ist hier auf unerforschte Weise
+in, mit und unter Brot und Wein
+und will der Sünder Seelenspeise,
+o Lieb’, o Gnad’, o Wunder sein.
 
 Evangelista:
-Und bald hernach nahm er den Kelch und dankte,
-Gab ihn ihnen und sprach:
+Und bald hernach nahm er den Kelch
+und dankte, gab ihn ihnen und sprach:
 
 Jesus:
-Das ist mein Blut im Neuen Testament,
-Das ich für euch und viele will vergießen.
-Es wird dem, der es wird genießen,
-Zu Tilgung seiner Sünden dienen.
-Damit ihr dieses oft erkennt,
-Will ich, daß jeder sich mit diesem Blute tränke,
-Auf daß er meiner stets gedenke.
+Diß ist mein Blut im Neuen Testament,
+das ich für euch und viele will vergießen.
+es wird dem, der es wird geniesen,
+zu Tilgung seiner Sünden dienen.
+damit ihr dieses oft erkennt, Will ich,
+daß jeder sich mit diesem Blute tränke,
+auf daß er meiner stets gedenke.
 
 Tochter Zion:
 Gott selbst, der Brunnquell alles Guten,
@@ -3290,112 +3291,111 @@ Chor:
 Ach, wie hungert mein Gemüte,
 Menschenfreund, nach deiner Güte!
 Ach, wie pfleg’ ich oft mit Tränen
-Mich nach dieser Kost zu sehnen!
+mich nach dieser Kost zu sehnen!
 Ach, wie pfleget mich zu dürsten
-Nach dem Trank des Lebensfürsten,
+nach dem Trank des Lebensfürsten,
 Wünsche stets, daß mein Gebeine
-Sich durch Gott mit Gott vereine!
+sich durch Gott mit Gott vereine!
 
 Evangelista:
 Drauf sagte er dem Höchsten Dank,
-Und nach gesprochenem Lobgesang
-Ging Jesus über Kidrons Bach
-Zum Öhlberg, da er dann zu seinen Jüngern sprach:
+und nach gesprochenem Lobgesang
+ging Jesus über Kidrons Bach
+und nach dem Öhlberg hinzugehn,
+woselbst er dann zu seinen Jüngern sprach:
 
 Jesus:
-Ihr werdet all' in dieser Nacht
-Euch an mir ärgern, ja mich gar verlassen.
+Bald werd ich mich von euch
+(wer hett' es denken sollen)
+verlaßen und verleugnet sehn.
 
 Chor der Jünger:
-Wir wollen alle eh’ erblassen
-Als durch solch Untreu’ dich betrüben.
+Wir alle, wir wollen dich nicht verlaßen,
+wir wollen dich ewig lieben.
 
 Jesus:
 Es ist gewiß, denn also steht geschrieben:
-Weil ich den Hirten schlagen werde,
-Zerstreuet sich die ganze Herde.
+weil ich den Hirten schlagen werde,
+zerstreuet sich die ganze Herde.
 
 Petrus:
 Aufs wenigste will ich,
-Trotz allen Unglücksfällen,
-Ja sollte durch die Macht der Höllen
-Die ganze Welt zu Trümmern gehn,
-Dir stets zur Seite stehn.
+trotz allen Unglücksfällen,
+ja sollte durch die Macht der Höllen
+die ganze Welt zu Trümmern gehn,
+dir stets zur Seiten stehn.
  
 Jesus:
 Dir sag’ ich:
 Eh noch der Hahn wird zweimal kräh’n,
-Wirst du schon dreimal mich verleugnet haben.
+wirst du schon dreimal mich verleügnet haben.
  
 Petrus:
 Eh’ soll man mich mit dir erwürgen und begraben,
-Ja zehnmal will ich eh’ erblassen,
-Eh’ ich dich will verleugnen und verlassen.
+ja zehnmal will ich eh’ erblaßen,
+eh’ ich dich will verleugnen und verlaßen.
  
 Jesus:
 Verziehet hier, ich will zu meinem Vater treten;
-Schlaft aber nicht, denn es ist Zeit zu beten.
+schlaft aber nicht, denn es ist Zeit zu beten.
 
 Jesus:
 Mein Vater! Schau, wie ich mich quäle,
-Erbarme dich, erbarme dich ob meiner Not!
-Mein Herze bricht, und meine Seele
-Betrübet sich bis an den Tod!
+erbarme dich, erbarme dich ob meiner Not!
+mein Herze bricht, und meine Seele
+betrübet sich biß an den Tod!
 
 Mich drückt der Sünden Zentnerlast,
-Mich ängstiget des Abgrunds Schrecken;
-Mich will ein schlammiger Morast,
-Der grundlos ist, bedecken;
-Mir presst der Höllen wilde Glut
-Aus Bein und Adern Mark und Blut.
-Und weil ich noch zu allen Plagen
-Muß deinen Grimm, o Vater, tragen,
-Vor welchem alle Marter leicht,
-So ist kein Schmerz, der meinem gleicht.
+mich ängstiget des Abgrunds Schrecken;
+mich will ein schlammigter Morast,
+der grundlos ist, bedecken;
+mir prest der Höllen wilde Glut
+aus Bein und Adern Mark und Blut.
+und weil ich noch zu allen Plagen
+muß deinen Grimm, o Vater, tragen,
+vor welchem alle Marter leicht,
+so ist kein Schmerz, der meinem gleicht.
 
 Ist’s möglich, daß dein Zorn sich stille,
-So laß den Kelch vorübergehn,
-Doch müße, Vater, nicht mein Wille,
-Dein Wille nur allein geschehn!
+so laß den Kelch vorübergehn,
+doch müße, Vater, nicht mein Wille,
+dein Wille nur allein geschehn!
 
 Tochter Zion:
 Sünder, schaut mit Furcht und Zagen
-Eurer Sünden Scheusal an,
-Da derselben Straf’ und Plagen
+eurer Sünden Scheusal an,
+da derselben Straf’ und Plagen
 Gottes Sohn kaum tragen kann.
 
 Evangelista:
 Die Pein vermehrte sich
-Mit grausamen Erschüttern,
-So daß er kaum vor Schmerzen weinen kunt’;
+mit grausamen Erschüttern,
+so daß er kaum vor Schmerzen röcheln kunt’;
 Man sah die schwachen Glieder zittern,
-Kaum atmete sein trockner Mund;
+kaum atmete sein trockner Mund;
 Das bange Herz fing an, so stark zu klopfen,
-Daß blut’ger Schweiß in ungezählten Tropfen
-Aus seinen Adern drang,
-Bis er zuletzt, bis auf den Tod gequält,
-Zerstückt, zermartert, halb entseelt,
-Fast mit dem Tode rang.
+daß blut’ger Schweiß in ungezählten Tropfen
+aus allen Adern drang,
+bis er zuletzt, bis auf den Tod gequält,
+zerstückt, zermartert, halb entseelt,
+fast mit dem Tode rang.
 
 Tochter Zion:
 Brich, mein Herz, zerfließ in Tränen,
 Jesu Leib zerfließt in Blut!
-Hör sein jammervolles Ächzen,
-Schau, wie Zung’ und Lippen lechzen,
+Hör sein jammerliches Ächzen,
+schau, wie Zung’ und Lippen lächzen,
 Hör sein Wimmern, Seufzen, Sehnen,
-Schau, wie ängstlich er tut!
+schau, wie ängstlich er tut!
 
 Evangelista:
 Ein Engel aber kam von den gestirnten Bühnen,
-In diesem Jammer ihm zu dienen,
-Und stärket ihn.
-Darauf ging er, wo die Schar
-Der müden Jünger war,
-Und fand sie insgesamt in süßer Ruh;
-Drum rief er ihnen ängstlich zu:
+in diesem Jammer ihm zu dienen und stärket ihn.
+darauf ging er, wo die Schar der müden Jünger war,
+und fand sie insgesamt in Schaffe ruhn.
 
 Jesus:
-Erwachet doch!
+So erwachet doch!
  
 Petrus:
 Wer ruft?
@@ -3407,32 +3407,28 @@ Johannes; Jakobus
 Ja, Herr, ja.
  
 Jesus:
-Erwacht!
 Könnt ihr in dieser Schreckensnacht,
-Da ich sink’ in des Todes Rachen,
-Nicht eine Stunde mit mir wachen?
-Ermuntert euch!
+da ich sink’ in des Todes Rachen,
+nicht eine Stunde mit mir wachen?
+ermuntert euch, ach steht doch auf,
+der mit verrät ist da.
  
 Johannes; Jakobus; Petrus
-Ja, ja!
+Ja, Herr, ja, ja!
  
-Jesus:
-Ach, steht doch auf!
-Der mich verrät, ist da.
-
 Evangelista:
 Und eh’ die Rede noch geendigt war,
-Kam Judas schon hinein,
-Und mit ihm eine große Schar
-Mit Schwertern und mit Stangen.
+kam Judas schon hinein,
+und mit ihm eine große Schar
+mit Schwerdern und mit Stangen.
 
 Chor der Kriegsknechte:
 Greift zu, schlagt tot! Doch nein!
 Ihr müßet ihn lebendig fangen.
 
 Evangelista:
-Und der Verräter hatte ihnen
-Zum Zeichen lassen dienen:
+Und der Verräter hatte dieses ihnen
+zum Zeichen lassen dienen:
  
 Judas:
 Daß ihr, wer Jesus sei, recht möget wissen,
