@@ -3921,19 +3921,20 @@ Schleim und Geiffer ins Gesicht,
 und die Hell verschlingt dich nicht!
 
 Evangelista:
-Worauf sie mit dem Rohr, das seine Hände trugen,
+Worauf sie mit dem Rohr,
+das seine Hände trugen,
 Sein schon blutrünstig Haupt zerschlugen.
 
 Tochter Zion:
-Bestürtzter Sünder, nimm in acht
-Des Heilands Schmertzen, komm, erwege!
-Wie durch die Hefftigkeit der Schläge
-Die Beulen=volle Scheitel kracht,
+Bestürtzter Sünder, nimm in Acht
+Des Heilands Schmerzen, komm, erwege,
+wie durch die Hefftigkeit der Schläge
+Die beulenvolle Scheitel kracht,
 Wie sie sein heilges Hirn erschellen,
-Wie seine Tauben=Augen schwellen,
+Wie seine Tauben Augen schwellen,
 Schau, sein zerraufftes Haar,
-Das vor mit Thau gesalbt und voller Locken war,
-Ist itzt von Eyter naß, und klebt von dickem Blut,
+Das vor mit Thau gesalbt, und voller Locken war,
+Ist jetzt von Eiter naß, und klebt von dickem Blut,
 Dieß alles duldet er, bloß dir zu gut.
 
 Tochter Zion:
@@ -3954,23 +3955,22 @@ Daß sie ihn kreuzigten, zur Schädelstätte hin.
 
 Eine gläubige Seele:
 Eilt, ihr angefochten Seelen,
-Geht aus Achsaphs Mörderhöhlen,
-Kommt!
+Geht aus Achsaphs Mörderhöhlen, Kommt!
  
 Chor der gläubigen Seelen:
 Wohin?
  
 Eine gläubige Seele:
 Nach Golgatha.
-Eilet auf des Glaubens Flügel, fliegt!
+Nehmt des Glaubens Tauben Flügel, fliegt,
+Kommt eilt und fliegt.
  
 Chor der gläubigen Seelen:
 Wohin?
  
 Eine gläubige Seele:
 Zum Schädelhügel,
-Eure Wohlfahrt blüht da.
-Kommt!
+Eure Wohlfarth blühet da. Kommt!
  
 Chor der gläubigen Seelen:
 Wohin?
@@ -3979,17 +3979,18 @@ Eine gläubige Seele:
 Nach Golgatha.
 
 Maria:
-Ach Gott, ach Gott! Mein Sohn
-Wird fortgeschleppt, wird weggerissen!
+Ach Gott, ach Gott! Mein Sohn wird fortgeschleppt,
+wird weggerissen!
 Wo führt ihr ihn, verruchte Mörder, hin?
-Zum Tode, wie mir scheinet.
+Zum Tode, wie ich merke.
 Hab’ ich denn seinen Tod erleben müßen,
 Gekränkte Mutter, die ich bin?
 
 Wie schwer ist meines Jammers Last!
+Erweg o Welt, wie ich mich quäle.
 Es dringt ein Schwert durch meine Seele,
 Mein Kind, mein Herr, mein Gott erblaßt!
-Ist denn für so viel Wunderwerke
+Ist denn für soviel Wunderwerke
 Nunmehr das Kreuz sein Lohn?
 Ach Gott, ach Gott, mein Sohn!
 
@@ -4005,25 +4006,25 @@ Evangelista:
 Und er trug selbst sein Kreuz.
  
 Tochter Zion:
-Ach herbe Plagen, ach Marter,
-Die man nicht erwägen kann!
-Mußt du, mein Heiland, denn
-Das Holz, das dich bald tragen soll, selbst tragen?
+Ach herbe Plagen,
+ach Marter, die man nicht erwägen kann!
+Mußt du, mein Heiland, dann
+Das Holz, das dich bald tragen soll,
+selbst tragen?
 Du trägst es, ja, und niemand hört dich klagen.
 
 Tochter Zion:
 Es scheint, da den zerkerbten Rücken
-Des Kreuzes Last,
-Der Schergen Ungestüm zu Boden drücken,
+Des Kreuzes Last, Der Schergen Ungestüm
+zu Boden drücken,
 Er danke mit gebeugten Knien
-Dem großen Vater,
-Daß er ihm das lang ersehnte Kreuz verlieh’n.
+Dem großen Vater, Daß er ihm
+das lang ersehnte Kreuz verliehen.
 
 Evangelista:
 Wie sie nun an die Stätte,
-Golgatha mit Namen,
-Mit Jesus kamen,
-Wurd er mit Gall’ und Wein getränkt,
+Golgatha mit Namen, Mit Jesus kamen,
+Ward er mit Gall’ und Wein getränkt,
 Und endlich gar ans Kreuz gehängt.
 
 Eine gläubige Seele:
@@ -4038,19 +4039,21 @@ Eine gläubige Seele:
 O Anblick! O entsetzliches Gesicht!
 Wie scheußlich wird mein Seelen-Bräutigam,
 Von diesen Bütteln zugericht!
-Itzt reissen sie das unbefleckte Lamm,
+Jetzt reißen sie das unbefleckte Lamm,
 Wie Tieger, voller Wuht, zur Erden.
-Ach schau! itzt fängt man an, mit greßlichen Gebehrden,
-Ihm Hand und Fuß, ihm Arm und Sehnen
+Ach schau! itzt fängt man an,
+mit greßlichen Geberden,
+Ihm Hand und Fuß,
+ihm Arm und Sehnen
 Erbärmlich auszudehnen,
-Mit Stricken auszuzerrn, mit Nägeln anzupflöcken;
+Mit Stricken auszuzerrn,
+mit Nägeln anzupflöcken;
 Daß man an Ihm fast alle Beine zehlt.
 Ach GOtt! Ich sterbe schier vor Schrecken,
-Und werde fast, durchs blosse seh'n, entseelt!
+Und werde fast, durchs bloße seh'n, entseelt!
 
 Chor:
-O Menschenkind,
-Nur deine Sünd’
+O Menschenkind, Nur deine Sünd’
 Hat dieses angerichtet,
 Da du durch die Missetat
 Warest ganz vernichtet.
@@ -4062,15 +4065,15 @@ Der Kriegsknecht’ um sein Gewand;
 Und über seinem Haupte stand
 “Der Juden König” angeschrieben;
 Und die vorübergingen,
-Die lästerten und trieben
-Gespött mit ihm, wie auch die bei ihm hingen:
+Die lästerten und trieben Gespött mit ihm,
+wie auch, die bei ihm hingen:
 
 Chor der Juden und Mörder:
-Pfui, seht mir doch den neuen König an!
-Bist du ein solcher Wundermann,
-So steig herab von Kreuz;
-Hilf dir selbst und uns;
-So wissen wir’s gewiss!
+Pfui. Seht mir doch den König an.
+Bist ein solcher Wundermann,
+So hilff dir selbst und uns,
+so steig herab vom Kreuz,
+so wißen wirs gewiß.
 
 Evangelista:
 Und eine dichte Finsternis,
@@ -4085,20 +4088,20 @@ Der Sonnen Sonne will verdunkeln!
 
 Evangelista:
 Dies war zur neunten Stund’
-Als dies geschah
-Rief Jesus laut und sprach:
+und bald hernach rief Jesus laut und sprach:
  
 Jesus:
-Eli! Lama Asaphtani!
+Eli, Eli! Lama Asaphtani!
  
 Evangelista:
-Das ist, in unsrer Sprach’ zu fassen:
+Das ist, in unsrer Sprach’ zu faßen:
  
 Evangelista:
-Mein Gott, wie hast du mich verlassen!
+Mein Gott, wie hast du mich verlaßen!
  
 Evangelista:
-Darnach, wie ihm bewußt, daß alles schon vorbei,
+Darnach, wie ihm bewußt,
+daß alles schon vorbei,
 Rief er, mit lechzendem Geschrei:
  
 Jesus:
@@ -4117,8 +4120,8 @@ Nach unsrer Seelen Seligkeit!
 
 Evangelista:
 Drauf lief ein Kriegsknecht hin,
-Der einen Schwamm, mit Essig angefüllet, nahm,
-Und steckt’ ihn auf ein Rohr
+Der einen Schwamm, mit Essig angefüllet,
+nahm, und steckt’ ihn auf ein Rohr
 Und hielt ihn ihm zu trinken vor.
 Hierauf rief Jesus laut mit ganzer Macht:
  
@@ -4132,12 +4135,18 @@ Der ihre Macht zu Schanden macht!
 O Schall, der Stein und Felsen teilet,
 Wovor der Teufel bebt und heulet,
 Wovor der düst’re Abgrund kracht!
-Es ist vollbracht, es ist vollbracht!
+Es ist vollbracht.
+
+O seeliges Wort! O heilsam Schreien.
+Nun darfs du Sünder nicht mehr scheuen
+des Teuffels und der Höllen Macht.
+O Schall! Der unsern Schaden heilet,
+der uns die Seeligkeit ertheilet,
+die Gott uns längst hat zugedacht,
+Es ist vollbracht.
  
 Drei gläubige Seelen:
 O selig, wer dies glaubt,
-Und wer, wenn seine Not am größten,
-Sich dieser Worte kann getrösten!
  
 Evangelista:
 Drauf neiget er sein Haupt.
@@ -4152,8 +4161,7 @@ Ist aller Welt Erlösung nah?
 Eine gläubige Seele
 Dies sind der Tochter Zions Fragen.
 Weil Jesus nun nichts kann vor Schmerzen sagen,
-So neiget er sein Haupt
-Und saget stillschweigend: Ja!
+so neiget er sein Haupt und wincket: Ja.
 
 Tochter Zion:
 O Großmut! O erbarmendes Gemüt!
