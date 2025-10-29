@@ -253,6 +253,11 @@ Provedení se účastnili klimentští Anglikáni.
 
 #### Hudba před bohoslužbami
 
+- **Graupner, Christoph** (1683-1760): [Ouverture in D major, GWV 418](https://www.youtube.com/watch?v=NlFfpp16FSs)
+- **Palestrina, Giovani Pierluigi** (1525-1594): [**Canite tuba**](https://www.youtube.com/watch?v=UalUykaQeg4)
+- **Gibbons, Orlando** (1583-1625): [**Lift up your heads**](https://www.youtube.com/watch?v=NLJFZyiKd0Y)
+- **Hammerschmidt, Andreas** (1611-1675): [**Machet die Tore weit**](https://www.youtube.com/watch?v=uwBuyK3M2HI)
+
 #### Hudba při bohoslužbách
 
 **Graupner, Christoph** (1683-1760): [**Auf Zion auf nimm Schmuck für Asche**](#graupner-christoph-1683-1760-auf-zion-auf-nimm-schmuck-für-asche-gwv-110141)
@@ -1389,7 +1394,7 @@ Ach, darf ich Dich gebeugt umarmen?
 Mein blödes Herz spricht ‚nein’,
 jedoch Dein holdes Angesicht
 räumt mir dazu die Freiheit ein.
-Drum wirft mein Herz sich hie40,
+Drum wirft mein Herz sich hie,
 o Davids Sohn, zu Füßen,
 in Ehrfurcht Dich zu küssen.
 Mein Glaube schwöret Dir die Treu’,
