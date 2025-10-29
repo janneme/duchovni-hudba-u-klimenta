@@ -3235,6 +3235,7 @@ Amen.
 #### Text
 
 ```
+Chor:
 Mich vom Stricke meiner Sünden Zu entbinden,
 wird mein Gott gebunden.
 von der Laster Eiterbeulen mich zu heilen,
