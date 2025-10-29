@@ -3333,7 +3333,7 @@ wirst du schon dreimal mich verleügnet haben.
 Petrus:
 Eh’ soll man mich mit dir erwürgen und begraben,
 ja zehnmal will ich eh’ erblaßen,
-eh’ ich dich will verleugnen und verlaßen.
+eh’ ich dich will verleǔgnen und verlaßen.
  
 Jesus:
 Verziehet hier, ich will zu meinem Vater treten;
@@ -3341,7 +3341,7 @@ schlaft aber nicht, denn es ist Zeit zu beten.
 
 Jesus:
 Mein Vater! Schau, wie ich mich quäle,
-erbarme dich, erbarme dich ob meiner Not!
+erbarme dich ob meiner Not!
 mein Herze bricht, und meine Seele
 betrübet sich biß an den Tod!
 
@@ -3350,7 +3350,7 @@ mich ängstiget des Abgrunds Schrecken;
 mich will ein schlammigter Morast,
 der grundlos ist, bedecken;
 mir prest der Höllen wilde Glut
-aus Bein und Adern Mark und Blut.
+aus Bein und Adern Mark und Blut,
 und weil ich noch zu allen Plagen
 muß deinen Grimm, o Vater, tragen,
 vor welchem alle Marter leicht,
