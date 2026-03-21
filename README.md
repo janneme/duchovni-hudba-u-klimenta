@@ -311,7 +311,8 @@ Provedení se účastnili klimentští Anglikáni.
 
 ### Graupner, Christoph (1683-1760): Auf Zion auf nimm Schmuck für Asche, GWV 1101/41
 
-- 21:00 (4:30 + 6:30 + 1:40 + 7:00 + 1:30), 2ob, 2vn, vla, bc, SATB
+- 20:30 (4:30 + 7:00 + 1:40 + 6:00 + 1:30), 2ob, 2vn, vla, bc, SATB (krácení: basová árie v DC konec před nástupem basu -2:00, soprán: DC až od taktu 63 -2:00)
+
 
 - [partitura a party na IMSLP](https://imslp.org/wiki/Auf_Zion_auf_nimm_Schmuck_f%C3%BCr_Asche%2C_GWV_1101%2F41_(Graupner%2C_Christoph)), [text](#graupner-auf-zion-auf-nimm-schmuck-für-asche)
 
@@ -2910,6 +2911,8 @@ Amen.
 1. Evangelista – Tenor (e-a1), Rec. 12:30 OŠ
 1. Petrus – Tenor (d-a1), Aria 8:30, Rec. 2:00 PA
 1. Gläubige Seele – Tenor (d-as1), Aria 4:30 JJ
+1. Gläubige Seele 2 – Tenor (f-as1), Trio - VJ
+1. Gläubige Seele 3 – Tenor (d-es1), Trio - JV
 1. Judas – Tenor (d-as1), Aria 1:45, Rec. 1:10 VN
 1. Jacobus – Tenor (g-fis1), Quarteto 1:00 JV
 1. Ein Kriegsknecht – Tenor (g-g1), Rec. 0:15 JV
@@ -3099,7 +3102,7 @@ Amen.
 ##### Tochter Zion (S)
 
 1. **3) Der Gott, dem alle Himmelskreise** (Aria, 1:20)
-2. **5) Ach, wie hungert mein Gemüte** (Aria, 1:20)
+2. **5) Gott selbst, der Brunnquell alles Guten** (Aria, 1:20)
 3. **14) Sünder, schaut mit Furcht und Zagen** (Aria, 0:45)
 4. **16) Brich, mein Herz, zerfließ in Tränen** (Aria, 1:50)
 5. **30) Was Bärentatzen, Löwenklauen** (Aria, 3:00)
@@ -3372,7 +3375,7 @@ Evangelista:
 Die Pein vermehrte sich
 mit grausamen Erschüttern,
 so daß er kaum vor Schmerzen röcheln kunt’;
-Man sah die schwachen Glieder zittern,
+man sah die schwachen Glieder zittern,
 kaum atmete sein trockner Mund;
 Das bange Herz fing an, so stark zu klopfen,
 daß blut’ger Schweiß in ungezählten Tropfen
@@ -3436,7 +3439,7 @@ Daß ihr, wer Jesus sei,
 recht möget wissen,
 will ich ihn küssen;
 und dann dringt auf
-ihn in hellen Haufen!
+ihn zu mit hellen Haufen!
 
 Chor der Kriegsknechte:
 Er soll uns nicht entlaufen.
@@ -3462,7 +3465,7 @@ Steck nur das Schwert an seinen Ort;
 wer's Schwert ergreift,
 fällt durch das Schwert ins Grab.
 Wie, oder glaubst du nicht, daß also fort
-von meinem Vater in der Höhe
+von meinem Vater in der Höhe,
 der Engel Hülf ich könn’ erwerben?
 Allein, die Schrift verlangt, daß es also geschehe.
 Ihr kommt mit Schwerdern und mit Stangen,
@@ -3521,10 +3524,10 @@ Wart, dieser Schlag soll deinen Frevel rächen!
 Tochter Zion:
 Was Bärentatzen, Löwenklauen
 trotz ihrer Wut sich nicht getrauen,
-Tust du, verruchte Menschenhand!
+tust du, verruchte Menschenhand!
 Was Wunder, daß, in höchster Eile,
 der wilden Wetter Blitz und Keile
-dich Teufelswerkzeug nicht verbrannt!
+dich nicht verbrant!
 
 Evangelista:
 Dies sahe Petrus an,
@@ -3558,7 +3561,7 @@ Evangelista:
 Gleich drauf sagt ihm ein’ andre ins Gesicht:
  
 Dritte Magd:
-Du bist fürwahr von seinen Leuten
+Du bist fürwahr von seinen Leuten,
 unmöglich wirstus leugnen können,
 im Garten warst du ihm zur Seiten,
 auch gibts die Sprach’ dich zu erkennen.
@@ -3581,7 +3584,7 @@ wobei er trostloß rief:
 Petrus:
 Welch ungeheurer Schmerz bestürmet mein Gemüt!
 Ein kalter Schauder schreckt die Seele;
-eie wilde Glut der dunkeln Marterhöhle
+ein wilde Glut der dunkeln Marterhöhle
 entzündet schon mein zischendes Geblüt,
 mein Eingeweide kreischt auf glimmen Kohlen!
 Wer löschet diesen Brand,
@@ -3815,6 +3818,7 @@ weil er die Glut im Busen trägt,
 seh’ ich, sooft man auf ihn schlägt,
 so oft mit Strick und Stahl
 die Schergen auf ihn dringen,
+aus jedem Tropfen Blut,
 der Liebe Funken springen.
 
 Drum, Seele, schau mit ängstlichem Vergnügen,
@@ -3909,15 +3913,13 @@ Gegrüßet seist du, Judenkönig!
 
 Evangelista:
 Auch scheuten sie sich nicht,
-ihm ins Gesicht zu speeen.
+ihm ins Gesicht zu speien.
 
 Tochter Zion:
 Schäumest du, du Schaum der Welt,
 speit dein Basiliskenrachen,
 brut der Drachen,
 dem, der alle Ding’ erhält,
-seinen Geifer ins Gesicht,
-und die Höll’ verschlingt dich nicht?
 Schleim und Geiffer ins Gesicht,
 und die Hell verschlingt dich nicht!
 
@@ -4050,11 +4052,11 @@ erbärmlich auszudehnen,
 mit Stricken auszuzerrn,
 mit Nägeln anzupflöcken;
 daß man an Ihm fast alle Beine zehlt.
-Ach GOtt! Ich sterbe schier vor Schrecken,
+Ach Gott! Ich sterbe schier vor Schrecken,
 und werde fast, durchs bloße seh'n, entseelt!
 
 Chor:
-O Menschenkind, Nur deine Sünd’
+O Menschenkind, nur deine Sünd’
 hat dieses angerichtet,
 da du durch die Missetat
 warest ganz vernichtet.
@@ -4070,7 +4072,7 @@ die lästerten und trieben Gespött mit ihm,
 wie auch, die bei ihm hingen:
 
 Chor der Juden und Mörder:
-pfui. Seht mir doch den König an.
+Pfui. Seht mir doch den König an.
 Bist ein solcher Wundermann,
 so hilf dir selbst und uns,
 so steig herab vom Kreuz,
@@ -4232,10 +4234,10 @@ Herr Jesu, deine Wunden rot,
 die werden mich erhalten.
 
 Tochter Zion:
-Wisch ab der Tränen bittre Ströme,
-steh, sel’ge Seele, nun in Ruh’!
+Wisch ab der Thränen scharffe Lauge,
+steh seelge Seele nun in Ruh.
 Sein ausgesperrter Arm
-und sein geschlossen Auge
+und sein geschloßen Auge
 sperrt dir den Himmel auf
 und schließt die Hölle zu.
 
