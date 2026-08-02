@@ -10,18 +10,27 @@
 
 ## Návrhy
 
-### 8.1.2026
+### Bernardino, Azzolino della Ciaja (1671-1755): Lauda Jerusalem Dominum
 
-Večer věnovaný Edvardu Schiffauerovi a Ivanu Binarovi.
+- 10:30 (2:00 + 2:00 + 2:00 + 2:30 + 2:00), 2vn, vla, bc, SSATB
+- [rukopis na IMSLP](https://imslp.org/wiki/Lauda_Jerusalem_Dominum_(Della_Ciaja%2C_Azzolino_Bernardino)) (spartováno), [text](#user-content-lauda-jerusalem-dominum)
 
-### 18.2.2026 v 19:00 – Popeleční středa
+### 4.10.2026
+
 
 ## Seznam vystoupení
 
 ### 2025 – 2026
 
-- **[19.10.2025](#19102025)**: **Rosenmuller, Johann** (1619-1684): **Confitebor tibi Domine**
+- **[19.10.2025](#19102025)**: **Rosenműller, Johann** (1619-1684): **Confitebor tibi Domine**
 - **[7.12.2025](#7122025)**: **Graupner, Christoph** (1683-1760): **Auf Zion auf nimm Schmuck für Asche**
+- **[8.1.2026](#812026)**: Komponovaný večer: **Edvard Schiffauer** a **Ivan Binar**
+- **[18.2.2026](#1822026)**: **Bach, Johann Sebastian** (1685-1750): **Actus tragicus**, BWV 106
+- **[1.3.2026](#132026)**: **Postní koncert v Poděbradech**
+- **[29.3.2026](#2932026)**: **Reinhard Keiser** (1674-1739): **Brockesovy pašije** v Lysé nad Labem
+- **[31.3.2026](#3132026)**: **Reinhard Keiser** (1674-1739): **Brockesovy pašije** u Klimenta
+- **[12.4.2026](#1242026)**: **Cozzolani, Chiara Margarita** (1602-1676): **Dialogo fra Maria Magdalen**
+- **[24.5.2026](#2452026)**: **Brixi, Šimon** (1693-1735): **Missa ex D** (Kostel Nanebevzetí Panny Marie na Karlově)
 
 ### 2024 – 2025
 
@@ -262,6 +271,66 @@ Provedení se účastnili klimentští Anglikáni.
 
 **Graupner, Christoph** (1683-1760): [**Auf Zion auf nimm Schmuck für Asche**](#graupner-christoph-1683-1760-auf-zion-auf-nimm-schmuck-für-asche-gwv-110141)
 
+### 8.1.2026 19:00 – Koncert
+
+#### Komponovaný večer k poctě Edvarda Schiffauera a Ivana Binara
+
+- Pohlazení – skladba pro smyčcový orchestr a sólové housle
+- Za tylovskú stranú – mužský sbor, premiéra)
+- Píseň o spanilé zemi – smíšený sbor, premiéra
+- Cvrček – smíšený sbor
+- Mamulka – ženské trio s doprovodem klavíru a violy
+- Slezské písně – smíšené sbory, premiéra (Dyž sem něbyl doma, Dživča, Dživča)
+- Venkovská vánoční mše
+
+### 18.2.2026
+
+#### Hudba před bohoslužbami
+
+- **Bach, Johann** (1604-1673): **Unser Leben ist ein Schatten**
+- **Bach, Johann Ludwig** (1677-1731): **Unsere Trübsal**
+
+#### Hudba při bohoslužbách
+
+**Bach, Johann Sebastian** (1685-1750): **Gottes Zeit ist die allerbeste Zeit, BWV 106**
+
+### 1.3.2026 18:00 – Koncert
+
+- **Charpentier, Marc-Antoine** (1643-1704): **De profundis**, H.189
+- **Charpentier, Marc-Antoine** (1643-1704): **Concert pour 4 parties de violes**, H.545
+- **Bach, Johann** (1604-1673): **Unser Leben ist ein Schatten**
+- **Bach, Johann Ludwig** (1677-1731): **Unsere Trübsal**
+- **Bach, Johann Sebastian** (1685-1750): **Gottes Zeit ist die allerbeste Zeit**, BWV 106
+
+### 29.3.2026 19:00 – Pašije (Lysá nad Labem)
+
+**Reinhard Keiser** (1674-1739): **Brockesovy pašije*
+
+### 31.3.2026 19:00 – Pašije (Klimenta)
+
+**Reinhard Keiser** (1674-1739): **Brockesovy pašije*
+
+### 12.4.2026
+
+#### Hudba před bohoslužbami
+
+**Codex Franus** (14.-15. stol): **Christus surrexit**
+**Schütz, Heinrich** (1585-1672): **Das Blut Jesu Christi**, SWV 298
+**Carissimi, Giaccomo** (1605-1674): **Surrexit Pastor Bonus**
+**Viadana, Lodovico** (1560-1627): **Angelus Domini descendit de coelo**
+**Graziani, Bonifazio** (1605-1664): **Respondens autem angelus**
+
+#### Hudba při bohoslužbách
+
+**Ballione, Gerolamo** (1575-1608): **Maria Magdalena et altera Maria**
+**Cozzolani, Chiara Margarita** (1602-1676): **Dialogo fra Maria Magdalena**
+
+### 24.6.2026 – Výměna kůrů
+
+**Brixi, Šimon** (1693-1735): **Missa ex D**
+**Jommelli, Nicolò** (1714-1774): **Confirma hoc Deus**
+**Brixi, Šimon** (1693-1735): **Aria duplex de passione Domini nostri Jesu Christi**
+
 ## Plánované skladby
 
 ### Bach, Johann Sebastian (1685-1750): Christ lag in Todesbanden, BWV 4
@@ -273,11 +342,6 @@ Provedení se účastnili klimentští Anglikáni.
 
 - 12:00, 2vn, vla, vc, bc, SATB
 - [nahrávka](https://www.youtube.com/watch?v=YNjAHgMMsFs&ab_channel=NetherlandsBachSociety), [partitura a party na IMSLP](https://imslp.org/wiki/Der_Herr_denket_an_uns%2C_BWV_196_(Bach%2C_Johann_Sebastian)), [text](#bach-der-herr-denket-an-uns)
-
-### Bach, Johann Sebastian (1685-1750): Gottes Zeit ist die allerbeste Zeit (Actus Tragicus), BWV 106
-
-- 20:00, 2fl, 2viol, bc, SATB
-- [nahrávka](https://www.youtube.com/watch?v=XVxBFtvNlmg), [partitura a party na IMSLP](https://imslp.org/wiki/Gottes_Zeit_ist_die_allerbeste_Zeit%2C_BWV_106_(Bach%2C_Johann_Sebastian))
 
 ### Bach, Johann Sebastian (1685-1750): Nun komm, der Heiden Heiland, BWV 62
 
@@ -308,6 +372,11 @@ Provedení se účastnili klimentští Anglikáni.
 
 - 21:00, ob, 2vl, bc, SATB
 - [nahrávka](https://www.youtube.com/watch?v=LUnbqlM4xP4&t=1060s), [partitura](https://archive.org/details/ybimslp00052/page/44/mode/2up), [text](#confitebor-tibi-domine-ž-111)
+
+### Capricornus, Samuel (1628-1665): Venite ad me omnes
+
+- 5:20, 2vn, bc, SAT
+- [rukopis](https://imslp.org/wiki/Venite_ad_me_(Capricornus%2C_Samuel)), [text](#venite-ad-me-omnes)
 
 ### Delalande, Michel-Richard (1657-1726): Super flumina Babylonis S. 13
 
@@ -399,6 +468,11 @@ Provedení se účastnili klimentští Anglikáni.
 - **nahrávka** (špatná): [část 1](https://www.youtube.com/watch?v=wFKv5Xbp9IE&ab_channel=AlexandraStacey), [část 2](https://www.youtube.com/watch?v=UgWtVIiJxbo), [partitura na IMSLP](https://imslp.org/wiki/Christ_ist_erstanden%2C_TWV_1:136_(Telemann%2C_Georg_Philipp))
 
 ## Provedené skladby
+
+### Bach, Johann Sebastian (1685-1750): Gottes Zeit ist die allerbeste Zeit (Actus Tragicus), BWV 106
+
+- 20:00, 2fl, 2viol, bc, SATB
+- [nahrávka](https://www.youtube.com/watch?v=XVxBFtvNlmg), [partitura a party na IMSLP](https://imslp.org/wiki/Gottes_Zeit_ist_die_allerbeste_Zeit%2C_BWV_106_(Bach%2C_Johann_Sebastian))
 
 ### Bach, Johann Sebastian (1685-1750): Nach dir, Herr, verlanget mich, BWV 150 (20.11.2022)
 
@@ -2764,6 +2838,17 @@ který jsi Duchem Otce i Syna.
 i jednorozenému, který vstal z mrtvých,
 i Duchu Svatému
 na věky věků.
+```
+
+### Venite ad me omnes
+
+```
+Venite ad me omnes qui laboratis
+omnes qui onerati estis.
+Venite ad me, et ego reficiam vos.
+Tollite jugum meum super vos,
+et discite a me, quia mitis sum et humilis corde,
+et invenietis requiem animabus vestris,
 ```
 
 ### Warhlich, wahrlich ich sage euch (J 5,24)
