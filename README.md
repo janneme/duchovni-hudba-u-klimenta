@@ -378,6 +378,11 @@ Provedení se účastnili klimentští Anglikáni.
 - 5:20, 2vn, bc, SAT
 - [rukopis](https://imslp.org/wiki/Venite_ad_me_(Capricornus%2C_Samuel)), [text](#venite-ad-me-omnes)
 
+### Danielis, Daniel (1635-1696): Attollite portas
+
+- 5:30, 2vn, gamba, bc, SSB
+- [nahrávka (výběr)](https://www.youtube.com/watch?v=xJ7K5dnogQg), partitura a party na [IMSLP](https://imslp.org/wiki/Attolite_portas_(Danielis%2C_Daniel)), [text](#attollite-portas)
+
 ### Delalande, Michel-Richard (1657-1726): Super flumina Babylonis S. 13
 
 - 16:30, 4viol, fl, bc, SATTB
@@ -587,6 +592,28 @@ Chor
 Alles, was ihr tut mit Worten oder mit Werken,
 das tut alles im Namen Jesu,
 und danket Gott und dem Vater durch ihn.
+```
+
+### Attollite portas
+
+```
+Attollite portas principes vestras,
+et elevamini portae aeternales:
+et introibit Rex gloriæ.
+
+Quis est iste Rex gloriae?
+Dominus fortis et potens,
+Dominus potens in praelio.
+
+Attolite portas principes vestras,
+et introibit portæ æternales:
+et introibit Rex glo-riae?
+
+Quis enim est iste Rex gloriae?
+Dominus virtutum,
+ipse est Rex gloriae.
+
+Alleluia.
 ```
 
 ### Auf Zion und laß in geheiligten Hallen
