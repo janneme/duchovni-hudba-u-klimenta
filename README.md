@@ -398,10 +398,10 @@ Provedení se účastnili klimentští Anglikáni.
 - 16:30, 4viol, fl, bc, SATTB
 - [nahrávka](https://www.youtube.com/watch?v=9mllRRWrlfI), [sborové noty na CPDL](https://www.cpdl.org/wiki/index.php/Super_flumina_Babilonis,_S.13_(Michel-Richard_de_Lalande)), [rukopis partitury na IMSLP](https://imslp.org/wiki/Super_flumina_Babylonis%2C_S.13_(Lalande%2C_Michel_Richard_de)) (ten druhý)
 
-### Gletle, Johann Melchior (1626-1683): O Domine Dominator
+### Gletle, Johann Melchior (1626-1683): O Domine, Dominator coeli et terrae
 
 - 7:00, 2vn, bc, SSATB + B solo (těžké, nízko)
-- partitura a party na [CPDL](https://cpdl.org/wiki/index.php/O_Domine_Dominator_(Johann_Melchior_Gletle)), [text](#o-domine-dominator)
+- partitura a party na [CPDL](https://cpdl.org/wiki/index.php/O_Domine_Dominator_(Johann_Melchior_Gletle)), [text](#o-domine-dominator-coeli-et-terra)
 
 ### Graupner, Christoph (1683-1760): Auf Zion auf nimm Schmuck für Asche, GWV 1101/41
 
