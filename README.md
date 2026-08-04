@@ -383,10 +383,25 @@ Provedení se účastnili klimentští Anglikáni.
 - 5:30, 2vn, gamba, bc, SSB
 - [nahrávka (výběr)](https://www.youtube.com/watch?v=xJ7K5dnogQg), partitura a party na [IMSLP](https://imslp.org/wiki/Attolite_portas_(Danielis%2C_Daniel)), [text](#attollite-portas)
 
+### Danielis, Daniel (1635-1696): Fulgete serta syderum
+
+- 7:00, 2vn, bc, STB
+- [nahrávka (výběr)](https://www.youtube.com/watch?v=wXFR9tkmQNg), partitura a party na [IMSLP](https://imslp.org/wiki/Fulgete_serta_syderum_(Danielis%2C_Daniel)), [text](#fulgete-serta-syderum)
+
+### Danielis, Daniel (1635-1696): Paratum cor meum
+
+- 7:00, 2vn, bc, SATB
+- partitura a party na [IMSLP](https://imslp.org/wiki/Paratum_cor_meum_(Danielis%2C_Daniel)), [text](#paratum-cor-meum)
+
 ### Delalande, Michel-Richard (1657-1726): Super flumina Babylonis S. 13
 
 - 16:30, 4viol, fl, bc, SATTB
 - [nahrávka](https://www.youtube.com/watch?v=9mllRRWrlfI), [sborové noty na CPDL](https://www.cpdl.org/wiki/index.php/Super_flumina_Babilonis,_S.13_(Michel-Richard_de_Lalande)), [rukopis partitury na IMSLP](https://imslp.org/wiki/Super_flumina_Babylonis%2C_S.13_(Lalande%2C_Michel_Richard_de)) (ten druhý)
+
+### Gletle, Johann Melchior (1626-1683): O Domine Dominator
+
+- 7:00, 2vn, bc, SSATB + B solo (těžké, nízko)
+- partitura a party na [CPDL](https://cpdl.org/wiki/index.php/O_Domine_Dominator_(Johann_Melchior_Gletle)), [text](#o-domine-dominator)
 
 ### Graupner, Christoph (1683-1760): Auf Zion auf nimm Schmuck für Asche, GWV 1101/41
 
@@ -599,14 +614,14 @@ und danket Gott und dem Vater durch ihn.
 ```
 Attollite portas principes vestras,
 et elevamini portae aeternales:
-et introibit Rex gloriæ.
+et introibit Rex gloriae.
 
 Quis est iste Rex gloriae?
 Dominus fortis et potens,
 Dominus potens in praelio.
 
 Attolite portas principes vestras,
-et introibit portæ æternales:
+et introibit portae aeternales:
 et introibit Rex glo-riae?
 
 Quis enim est iste Rex gloriae?
@@ -1413,6 +1428,20 @@ Der Herr segne euch je mehr und mehr, euch und eure Kinder.
 Chorus
 
 Ihr seid die Gesegneten des Herrn, der Himmel und Erde gemacht hat. Amen.
+```
+
+### Fulgete serta syderum
+
+```
+Fulgete serta syderum, Jesus nostrum jubar est.
+Agite, dicite laudes Jesu nostro, jubilate omnes.
+O gloriose Rex caelorum, trahe nos post te :
+curremus in odorem unguentorum tuorum.
+Voca nos, suscipe nos, et serviemus tibi.
+Ecce cor meum in amore Domini mei languet.
+Fulcite me floribus, stipate me malis :
+in amore Domini mei totum languet cor meum.
+O Rex caelorum, Rex amorum, veni.
 ```
 
 ### Bach: Nun komm, der Heiden Heiland, BWV 62
@@ -2461,7 +2490,7 @@ Deposuit potentes de sede et exaltavit humiles.
 
 Esurientes implevit bonis et divites dimisit inanes.
 
-Suscepit Israel puerum suum recordatus misericordiae suæ.
+Suscepit Israel puerum suum recordatus misericordiae suae.
 
 Sicut locutus est ad patres nostros, Abraham et semini eius in saecula.
 
@@ -2723,6 +2752,56 @@ Amen, Amen,
 Přijď už vzácný hosti, koruno radosti,
 neotálej!
 Čekáme tě s dychtivostí!
+```
+
+### O Domine, Dominator coeli et terrae
+
+```
+O Domine, Dominator coeli et terrae,
+memento servorum tuorum, quos possedisti ab initio.
+Electi mei, ecce ego vobiscum sum usque
+ad consummationem saeculi.
+Sed, o Domine, persequitur mundus servos tuos.
+Habete fiduciam, ego vici mundum.
+Sed, o Domine, linguam dolosam loquantur
+adversus servos tuos, et sermonibus odii impugnant nos.
+Beati eritis, cum male dixerint vobis homines,
+et persecuti vos fuerint et dixerint omne malum
+ad verbum vos mentientes propter me.
+Sed, o Domine, vim faciunt nobis qui quaerunt animas nostras.
+Regnum coelorum vim patitur et violenti rapiunt illud.
+Sed, o Domine, paratiunt ignes et cruces,
+sagittae et gladii in mortem servorum tuorum.
+Nolite timere eos qui corpes occidunt animam autem non possunt occidere.
+Sed, o Domine, si hoc omnia sustinuerimus, quid erit nobis?
+Mercedem laborum ego reddam vobis.
+Quis ergo nos separabit a charitate tua, Domine?
+An tribulatio? Non tribulatio, non,
+an angustia? non, non, non angustia.
+an fames, an nudita, an periculum?
+non fames, non nuditas, non pericullum,
+an gladius, an persecutio? non persecutio, non gladius.
+Quis ergo, quis ergo?
+Quis ergo nos separabit a charitate tua, Domine?
+An mors, an vita? Negque mors, neque vita.
+An angeli? neque angeli, an principatus?
+nec principatus, an virtutes? neque virtutes,
+an infantia? nec infantia, an futura? neque futura,
+an fortitudo? nec fortitudo,
+an altitudo, an profundum? nec altitudo, nec profundum.
+Scimus enim, quod passiones hujus saeculi
+non sunt condignae ad futuram gloriam.
+```
+
+### Paratum cor meum
+
+```
+Paratum cor meum, Deus, paratum cor meum:
+cantabo et psalmum dicam Domino.
+Exurge gloria mea, exurge psalterium et cythara.
+Exurgam diluculo, et confitebor tibi in populis Domine,
+quia magna est super cælos misericordia tua.
+Exaltare super cælos Deus, et super omnen terram gloria tua.
 ```
 
 ### Saget den Gästen
