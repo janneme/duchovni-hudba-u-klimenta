@@ -30,7 +30,7 @@
 #### Gletle, Johann Melchior (1626-1683): O Domine, Dominator coeli et terrae
 
 - 7:00, 2vn, bc, SSATB + B solo (těžké, nízko)
-- partitura a party na [CPDL](https://cpdl.org/wiki/index.php/O_Domine_Dominator_(Johann_Melchior_Gletle)), [text](#o-domine-dominator-coeli-et-terra)
+- partitura a party na [CPDL](https://cpdl.org/wiki/index.php/O_Domine_Dominator_(Johann_Melchior_Gletle)), [text](#o-domine-dominator-coeli-et-terrae)
 
 ## Seznam vystoupení
 
