@@ -10,13 +10,27 @@
 
 ## Návrhy
 
-### Bernardino, Azzolino della Ciaja (1671-1755): Lauda Jerusalem Dominum
+### 4.10.2026
+
+#### Bernardino, Azzolino della Ciaja (1671-1755): Lauda Jerusalem Dominum
 
 - 10:30 (2:00 + 2:00 + 2:00 + 2:30 + 2:00), 2vn, vla, bc, SSATB
 - [rukopis na IMSLP](https://imslp.org/wiki/Lauda_Jerusalem_Dominum_(Della_Ciaja%2C_Azzolino_Bernardino)) (spartováno), [text](#user-content-lauda-jerusalem-dominum)
 
-### 4.10.2026
+#### Danielis, Daniel (1635-1696): Fulgete serta syderum
 
+- 7:00, 2vn, bc, STB
+- [nahrávka (výběr)](https://www.youtube.com/watch?v=wXFR9tkmQNg), partitura a party na [IMSLP](https://imslp.org/wiki/Fulgete_serta_syderum_(Danielis%2C_Daniel)), [text](#fulgete-serta-syderum)
+
+#### Danielis, Daniel (1635-1696): Paratum cor meum
+
+- 7:00, 2vn, bc, SATB
+- partitura a party na [IMSLP](https://imslp.org/wiki/Paratum_cor_meum_(Danielis%2C_Daniel)), [text](#paratum-cor-meum)
+
+#### Gletle, Johann Melchior (1626-1683): O Domine, Dominator coeli et terrae
+
+- 7:00, 2vn, bc, SSATB + B solo (těžké, nízko)
+- partitura a party na [CPDL](https://cpdl.org/wiki/index.php/O_Domine_Dominator_(Johann_Melchior_Gletle)), [text](#o-domine-dominator-coeli-et-terra)
 
 ## Seznam vystoupení
 
