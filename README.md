@@ -32,6 +32,16 @@
 - 7:00, 2vn, bc, SSATB + B solo (těžké, nízko)
 - partitura a party na [CPDL](https://cpdl.org/wiki/index.php/O_Domine_Dominator_(Johann_Melchior_Gletle)), [text](#o-domine-dominator-coeli-et-terrae)
 
+#### Bütner, Crato (1616-1679): Nun dancket alle Gott
+
+- 5:00, 2vn, bn, bc, SSB
+- partitura na [IMSLP](https://imslp.org/wiki/Nun_dancket_alle_Gott_(B%C3%BCtner%2C_Crato)), [text](#butner-nun-dancket-alle-gott)
+
+#### Bütner, Crato (1616-1679): Wo der Herr nicht bey uns were
+
+- 7:00, 2vn, vla, bc, SSB
+- partitura na [IMSLP](https://imslp.org/wiki/Nun_dancket_alle_Gott_(B%C3%BCtner%2C_Crato)), [text](#butner-nun-dancket-alle-gott)
+
 ## Seznam vystoupení
 
 ### 2025 – 2026
@@ -367,6 +377,16 @@ Provedení se účastnili klimentští Anglikáni.
 - 10:30 (2:00 + 2:00 + 2:00 + 2:30 + 2:00), 2vn, vla, bc, SSATB
 - [rukopis na IMSLP](https://imslp.org/wiki/Lauda_Jerusalem_Dominum_(Della_Ciaja%2C_Azzolino_Bernardino)) (spartováno), [text](#user-content-lauda-jerusalem-dominum)
 
+### Bütner, Crato (1616-1679): Nun dancket alle Gott
+
+- 5:00, 2vn, bn, bc, SSB
+- partitura na [IMSLP](https://imslp.org/wiki/Nun_dancket_alle_Gott_(B%C3%BCtner%2C_Crato)), [text](#butner-nun-dancket-alle-gott)
+
+### Bütner, Crato (1616-1679): Wo der Herr nicht bey uns were
+
+- 7:00, 2vn, vla, bc, SSB
+- partitura na [IMSLP](https://imslp.org/wiki/Nun_dancket_alle_Gott_(B%C3%BCtner%2C_Crato)), [text](#butner-nun-dancket-alle-gott)
+
 ### Buxtehude, Dietrich (1637-1707) - Gott hilf mir, BuxWV 34
 
 - 14:30, 2vn, vla, vlne, bc, SATB
@@ -420,8 +440,6 @@ Provedení se účastnili klimentští Anglikáni.
 ### Graupner, Christoph (1683-1760): Auf Zion auf nimm Schmuck für Asche, GWV 1101/41
 
 - 20:30 (4:30 + 7:00 + 1:40 + 6:00 + 1:30), 2ob, 2vn, vla, bc, SATB (krácení: basová árie v DC konec před nástupem basu -2:00, soprán: DC až od taktu 63 -2:00)
-
-
 - [partitura a party na IMSLP](https://imslp.org/wiki/Auf_Zion_auf_nimm_Schmuck_f%C3%BCr_Asche%2C_GWV_1101%2F41_(Graupner%2C_Christoph)), [text](#graupner-auf-zion-auf-nimm-schmuck-für-asche)
 
 ### Graupner, Christoph (1683-1760): Erbarm dich mein o Herre Gott, GWV 1163/24
@@ -2687,6 +2705,20 @@ auf dass wir ewig bei dir sein.
 Amen.
 ```
 
+### Bütner: Nun dancket alle Gott
+
+```
+Nun dancket alle Gott,
+der grosse Dinge thut an allen Enden,
+der uns von Mutterleibe an lebendig erhält
+und thut uns alles Guts.
+Ergebe uns ein fröhliches Hertz
+und verleine immerdar Friede
+zu unser Zeit in Israel,
+und dass deine Gnade stäts bei uns bleibe,
+und erlöse uns, so lange wir leben.
+```
+ 
 ### Nun komm, der Heiden Heiland
 
 ```
@@ -3028,6 +3060,24 @@ O Lord, have mercy upon us; O Lord,
 let Thy mercy lighten upon us, as our trust is in Thee.
 
 O Lord, in Thee have I trusted, let me never be confounded.
+```
+
+### Bütner: Wo der Herr nicht bey uns wäre
+
+```
+Wo der Herr nicht bey uns wäre, so sage Israel,
+Wenn die Menschen sich wieder uns setzen.
+So verschlüngen sie uns lebendig,
+wenn ihr Zorn über uns ergrimmet.
+So er seufte uns Wasser, Ströme gingen über unser Seele,
+Es giengen Wasser alzuhoch über unser Seele.
+Gelobet sei in der Herr, das er uns nicht gibt,
+zum Raub in ihre Zähne.
+Unsre Seele ist entrunnen,
+wie ein Vogel dem stricke des Voglers,
+der Strick der ist zerrissen, und wir sind los.
+Unser Hülffe stehet im Nahmen des Herren
+der Himmel und Erden gemacht hat.
 ```
 
 ### Wo soll ich fliehen hin?
