@@ -42,6 +42,26 @@
 - 7:00, 2vn, vla, bc, SSB
 - partitura na [IMSLP](https://imslp.org/wiki/Nun_dancket_alle_Gott_(B%C3%BCtner%2C_Crato)), [text](#butner-nun-dancket-alle-gott)
 
+#### Leonarda, Isabella (1620-1704): Beatus vir
+
+- 7:30, 2vn, bc, SATB
+- [nahrávka](https://www.youtube.com/watch?v=8nYMlW69UvY), partitura na [IMSLP](https://imslp.org/wiki/Salmi_Concertati_a_4_voci_con_Strumenti%2C_Op.19_(Leonarda%2C_Isabella)) (str. 68), [text](#beatus-vir-z-112)
+
+#### Leonarda, Isabella (1620-1704): Dixit Dominus
+
+- 8:30, 2vn, bc, SATB
+- [nahrávka](https://www.youtube.com/watch?v=-heh5SRoYbc), partitura na [CPDL](https://cpdl.org/wiki/index.php/Dixit_Dominus_(Isabella_Leonarda), [text](#dixit-dominus-z-110)
+
+#### Leonarda, Isabella (1620-1704): Laudate Dominum omnes gentes
+
+- 6:00, 2vn, bc, SATB
+- partitura na [IMSLP](https://imslp.org/wiki/Salmi_Concertati_a_4_voci_con_Strumenti%2C_Op.19_(Leonarda%2C_Isabella)) (str. 109), [text](#laudate-dominum-omnes-gentes-z-117)
+
+#### Leonarda, Isabella (1620-1704): Nisi Dominus
+
+- 7:30, 2vn, bc, SATB
+- partitura na [IMSLP](https://imslp.org/wiki/Salmi_Concertati_a_4_voci_con_Strumenti%2C_Op.19_(Leonarda%2C_Isabella)) (str. 142), [text](#nisi-dominus-z-127)
+
 ## Seznam vystoupení
 
 ### 2025 – 2026
@@ -467,6 +487,26 @@ Provedení se účastnili klimentští Anglikáni.
 - 14:30, 2vn, 2fl, 2vla, vc, SSAT(T)BB
 - [nahrávka](https://www.youtube.com/watch?v=iL8ZlVUU5ZQ), [partitura na CPDL](https://www.cpdl.org/wiki/index.php/De_Profundis_H_189_(Marc-Antoine_Charpentier))
 - skladba je součástí pohřební hudby pro ženu Ludvíka XIV, proto má na konci Requiem, které u Klimenta dávat nebudeme
+
+### Leonarda, Isabella (1620-1704): Beatus vir
+
+- 7:30, 2vn, bc, SATB
+- [nahrávka](https://www.youtube.com/watch?v=8nYMlW69UvY), partitura na [IMSLP](https://imslp.org/wiki/Salmi_Concertati_a_4_voci_con_Strumenti%2C_Op.19_(Leonarda%2C_Isabella)) (str. 68), [text](#beatus-vir-z-112)
+
+### Leonarda, Isabella (1620-1704): Dixit Dominus
+
+- 8:30, 2vn, bc, SATB
+- [nahrávka](https://www.youtube.com/watch?v=-heh5SRoYbc), partitura na [CPDL](https://cpdl.org/wiki/index.php/Dixit_Dominus_(Isabella_Leonarda), [text](#dixit-dominus-z-110)
+
+### Leonarda, Isabella (1620-1704): Laudate Dominum omnes gentes
+
+- 6:00, 2vn, bc, SATB
+- partitura na [IMSLP](https://imslp.org/wiki/Salmi_Concertati_a_4_voci_con_Strumenti%2C_Op.19_(Leonarda%2C_Isabella)) (str. 109), [text](#laudate-dominum-omnes-gentes-z-117)
+
+### Leonarda, Isabella (1620-1704): Nisi Dominus
+
+- 7:30, 2vn, bc, SATB
+- partitura na [IMSLP](https://imslp.org/wiki/Salmi_Concertati_a_4_voci_con_Strumenti%2C_Op.19_(Leonarda%2C_Isabella)) (str. 142), [text](#nisi-dominus-z-127)
 
 ### de Mondonville, Jean-Joseph (1711-1772): In exitu Israel
 
@@ -1123,6 +1163,30 @@ von Ewigkeit zu Ewigkeit
 gelobt seist du.
 ```
 
+### Beatus vir (Ž 112)
+
+```
+Beatus vir qui timet Dominum: in mandatis ejus volet nimis.
+
+Potens in terra erit semen ejus; generatio rectorum benedicetur.
+
+Gloria et divitiae in domo ejus: et justitia ejus manet in saeculum saeculi.
+
+Exortum est in tenebris lumen rectis: misericors, et miserator, et justus.
+
+Jucundus homo qui miseretur et commodat; disponet sermones suos in judicio:
+
+quia in aeternum non commovebitur.
+
+In memoria aeterna erit justus; ab auditione mala non timebit. Paratum cor ejus sperare in Domino,
+
+confirmatum est cor ejus; non commovebitur donec despiciat inimicos suos.
+
+Dispersit, dedit pauperibus; justitia ejus manet in saeculum saeculi: cornu ejus exaltabitur in gloria.
+
+Peccator videbit, et irascetur; dentibus suis fremet et tabescet: desiderium peccatorum peribit.
+```
+
 ### Cain, ovvero il primo omicidio (výběr)
 
 ```
@@ -1462,6 +1526,24 @@ Chorus
 Ihr seid die Gesegneten des Herrn, der Himmel und Erde gemacht hat. Amen.
 ```
 
+### Dixit Dominus (Ž 110)
+
+```
+Dixit Dominus Domino meo: sede a dextris meis, donec ponam inimicos tuos scabellum pedum tuorum.
+
+Virgam virtutis tuae emittet Dominus ex Sion: dominare in medio inimicorum tuorum.
+
+Tecum principium in die virtutis tuae in splendoribus sanctorum ex utero, ante luciferum, genui te.
+
+Juravit Dominus et non poenitebit eum: tu es sacerdos in aeternum secundum ordinem Melchisedech.
+
+Dominus a dextris tuis: confregit in die irae suae reges.
+
+Judicabit in nationibus, implebit ruinas: conquassabit capita in terra multorum.
+
+De torrente in via bibet: propterea exaltabit caput.
+```
+
 ### Fulgete serta syderum
 
 ```
@@ -1474,6 +1556,20 @@ Ecce cor meum in amore Domini mei languet.
 Fulcite me floribus, stipate me malis :
 in amore Domini mei totum languet cor meum.
 O Rex caelorum, Rex amorum, veni.
+```
+
+### Nisi Dominus (Ž 127)
+
+```
+Nisi Dominus aedificaverit domum, in vanum laboraverunt qui aedificant eam. Nisi Dominus custodierit civitatem, frustra vigilat qui custodit eam.
+
+Vanum est vobis ante lucem surgere: surgite postquam sederitis, qui manducatis panem doloris. Cum dederit dilectis suis somnum,
+
+ecce haereditas Domini, filii; merces, fructus ventris.
+
+Sicut sagittae in manu potentis, ita filii excussorum.
+
+Beatus vir qui implevit desiderium suum ex ipsis: non confundetur cum loquetur inimicis suis in porta.
 ```
 
 ### Bach: Nun komm, der Heiden Heiland, BWV 62
@@ -2455,6 +2551,15 @@ Bůh zůstává mým pokladem,
 nedbám nic na trápení.
 Kristus, který nám stojí po boku,
 mi každý den pomáhá vítězně zápasit. 
+```
+
+### Laudate Dominum omnes gentes (Ž 117)
+
+
+```
+Laudate Dominum, omnes gentes; laudate eum, omnes populi.
+
+Quoniam confirmata est super nos misericordia ejus, et veritas Domini manet in aeternum.
 ```
 
 ### Laudate pueri Dominum (Ž 113)
