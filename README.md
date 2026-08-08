@@ -40,7 +40,7 @@
 #### Bütner, Crato (1616-1679): Wo der Herr nicht bey uns were
 
 - 7:00, 2vn, vla, bc, SSB
-- partitura na [IMSLP](https://imslp.org/wiki/Nun_dancket_alle_Gott_(B%C3%BCtner%2C_Crato)), [text](#bütner-wo-der-herr-nicht-bey-uns-were)
+- partitura na [IMSLP](https://imslp.org/wiki/Nun_dancket_alle_Gott_(B%C3%BCtner%2C_Crato)), [text](#bütner-wo-der-herr-nicht-bey-uns-wäre)
 
 #### Leonarda, Isabella (1620-1704): Beatus vir
 
@@ -400,12 +400,12 @@ Provedení se účastnili klimentští Anglikáni.
 ### Bütner, Crato (1616-1679): Nun dancket alle Gott
 
 - 5:00, 2vn, bn, bc, SSB
-- partitura na [IMSLP](https://imslp.org/wiki/Nun_dancket_alle_Gott_(B%C3%BCtner%2C_Crato)), [text](#butner-nun-dancket-alle-gott)
+- partitura na [IMSLP](https://imslp.org/wiki/Nun_dancket_alle_Gott_(B%C3%BCtner%2C_Crato)), [text](#bütner-nun-dancket-alle-gott)
 
 ### Bütner, Crato (1616-1679): Wo der Herr nicht bey uns were
 
 - 7:00, 2vn, vla, bc, SSB
-- partitura na [IMSLP](https://imslp.org/wiki/Nun_dancket_alle_Gott_(B%C3%BCtner%2C_Crato)), [text](#butner-nun-dancket-alle-gott)
+- partitura na [IMSLP](https://imslp.org/wiki/Nun_dancket_alle_Gott_(B%C3%BCtner%2C_Crato)), [text](#bütner-wo-der-herr-nicht-bey-uns-wäre)
 
 ### Buxtehude, Dietrich (1637-1707) - Gott hilf mir, BuxWV 34
 
