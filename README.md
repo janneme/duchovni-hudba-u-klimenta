@@ -45,22 +45,22 @@
 #### Leonarda, Isabella (1620-1704): Beatus vir
 
 - 7:30, 2vn, bc, SATB
-- [nahrávka](https://www.youtube.com/watch?v=8nYMlW69UvY), partitura na [IMSLP](https://imslp.org/wiki/Salmi_Concertati_a_4_voci_con_Strumenti%2C_Op.19_(Leonarda%2C_Isabella)) (str. 68), [text](#beatus-vir-z-112)
+- [nahrávka](https://www.youtube.com/watch?v=8nYMlW69UvY), partitura na [IMSLP](https://imslp.org/wiki/Salmi_Concertati_a_4_voci_con_Strumenti%2C_Op.19_(Leonarda%2C_Isabella)) (str. 68), [text](#beatus-vir-ž-112)
 
 #### Leonarda, Isabella (1620-1704): Dixit Dominus
 
 - 8:30, 2vn, bc, SATB
-- [nahrávka](https://www.youtube.com/watch?v=-heh5SRoYbc), partitura na [CPDL](https://cpdl.org/wiki/index.php/Dixit_Dominus_(Isabella_Leonarda), [text](#dixit-dominus-z-110)
+- [nahrávka](https://www.youtube.com/watch?v=-heh5SRoYbc), partitura na [CPDL](https://cpdl.org/wiki/index.php/Dixit_Dominus_(Isabella_Leonarda), [text](#dixit-dominus-ž-110)
 
 #### Leonarda, Isabella (1620-1704): Laudate Dominum omnes gentes
 
 - 6:00, 2vn, bc, SATB
-- partitura na [IMSLP](https://imslp.org/wiki/Salmi_Concertati_a_4_voci_con_Strumenti%2C_Op.19_(Leonarda%2C_Isabella)) (str. 109), [text](#laudate-dominum-omnes-gentes-z-117)
+- partitura na [IMSLP](https://imslp.org/wiki/Salmi_Concertati_a_4_voci_con_Strumenti%2C_Op.19_(Leonarda%2C_Isabella)) (str. 109), [text](#laudate-dominum-omnes-gentes-ž-117)
 
 #### Leonarda, Isabella (1620-1704): Nisi Dominus
 
 - 7:30, 2vn, bc, SATB
-- partitura na [IMSLP](https://imslp.org/wiki/Salmi_Concertati_a_4_voci_con_Strumenti%2C_Op.19_(Leonarda%2C_Isabella)) (str. 142), [text](#nisi-dominus-z-127)
+- partitura na [IMSLP](https://imslp.org/wiki/Salmi_Concertati_a_4_voci_con_Strumenti%2C_Op.19_(Leonarda%2C_Isabella)) (str. 142), [text](#nisi-dominus-ž-127)
 
 ## Seznam vystoupení
 
@@ -491,22 +491,22 @@ Provedení se účastnili klimentští Anglikáni.
 ### Leonarda, Isabella (1620-1704): Beatus vir
 
 - 7:30, 2vn, bc, SATB
-- [nahrávka](https://www.youtube.com/watch?v=8nYMlW69UvY), partitura na [IMSLP](https://imslp.org/wiki/Salmi_Concertati_a_4_voci_con_Strumenti%2C_Op.19_(Leonarda%2C_Isabella)) (str. 68), [text](#beatus-vir-z-112)
+- [nahrávka](https://www.youtube.com/watch?v=8nYMlW69UvY), partitura na [IMSLP](https://imslp.org/wiki/Salmi_Concertati_a_4_voci_con_Strumenti%2C_Op.19_(Leonarda%2C_Isabella)) (str. 68), [text](#beatus-vir-ž-112)
 
 ### Leonarda, Isabella (1620-1704): Dixit Dominus
 
 - 8:30, 2vn, bc, SATB
-- [nahrávka](https://www.youtube.com/watch?v=-heh5SRoYbc), partitura na [CPDL](https://cpdl.org/wiki/index.php/Dixit_Dominus_(Isabella_Leonarda), [text](#dixit-dominus-z-110)
+- [nahrávka](https://www.youtube.com/watch?v=-heh5SRoYbc), partitura na [CPDL](https://cpdl.org/wiki/index.php/Dixit_Dominus_(Isabella_Leonarda), [text](#dixit-dominus-ž-110)
 
 ### Leonarda, Isabella (1620-1704): Laudate Dominum omnes gentes
 
 - 6:00, 2vn, bc, SATB
-- partitura na [IMSLP](https://imslp.org/wiki/Salmi_Concertati_a_4_voci_con_Strumenti%2C_Op.19_(Leonarda%2C_Isabella)) (str. 109), [text](#laudate-dominum-omnes-gentes-z-117)
+- partitura na [IMSLP](https://imslp.org/wiki/Salmi_Concertati_a_4_voci_con_Strumenti%2C_Op.19_(Leonarda%2C_Isabella)) (str. 109), [text](#laudate-dominum-omnes-gentes-ž-117)
 
 ### Leonarda, Isabella (1620-1704): Nisi Dominus
 
 - 7:30, 2vn, bc, SATB
-- partitura na [IMSLP](https://imslp.org/wiki/Salmi_Concertati_a_4_voci_con_Strumenti%2C_Op.19_(Leonarda%2C_Isabella)) (str. 142), [text](#nisi-dominus-z-127)
+- partitura na [IMSLP](https://imslp.org/wiki/Salmi_Concertati_a_4_voci_con_Strumenti%2C_Op.19_(Leonarda%2C_Isabella)) (str. 142), [text](#nisi-dominus-ž-127)
 
 ### de Mondonville, Jean-Joseph (1711-1772): In exitu Israel
 
