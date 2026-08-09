@@ -50,7 +50,7 @@
 #### Leonarda, Isabella (1620-1704): Dixit Dominus
 
 - 8:30, 2vn, bc, SATB
-- [nahrávka](https://www.youtube.com/watch?v=-heh5SRoYbc), partitura na [CPDL](https://cpdl.org/wiki/index.php/Dixit_Dominus_(Isabella_Leonarda), [text](#dixit-dominus-ž-110)
+- [nahrávka](https://www.youtube.com/watch?v=-heh5SRoYbc), partitura na [CPDL](https://cpdl.org/wiki/index.php/Dixit_Dominus_(Isabella_Leonarda)), [text](#dixit-dominus-ž-110)
 
 #### Leonarda, Isabella (1620-1704): Laudate Dominum omnes gentes
 
