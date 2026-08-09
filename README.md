@@ -2947,25 +2947,56 @@ Sed, o Domine, vim faciunt nobis qui quaerunt animas nostras.
 Regnum coelorum vim patitur et violenti rapiunt illud.
 Sed, o Domine, paratiunt ignes et cruces,
 sagittae et gladii in mortem servorum tuorum.
-Nolite timere eos qui corpes occidunt animam autem non possunt occidere.
+Nolite timere eos qui corpora occidunt animam autem non possunt occidere.
 Sed, o Domine, si hoc omnia sustinuerimus, quid erit nobis?
 Mercedem laborum ego reddam vobis.
 Quis ergo nos separabit a charitate tua, Domine?
 An tribulatio? Non tribulatio, non,
 an angustia? non, non, non angustia.
-an fames, an nudita, an periculum?
-non fames, non nuditas, non pericullum,
+an fames, an nuditas, an periculum?
+non fames, non nuditas, non periculum,
 an gladius, an persecutio? non persecutio, non gladius.
 Quis ergo, quis ergo?
 Quis ergo nos separabit a charitate tua, Domine?
-An mors, an vita? Negque mors, neque vita.
-An angeli? neque angeli, an principatus?
+An mors, an vita? Neque mors, neque vita.
+An angeli? Neque angeli, an principatus?
 nec principatus, an virtutes? neque virtutes,
-an infantia? nec infantia, an futura? neque futura,
-an fortitudo? nec fortitudo,
+an instantia? Nec instantia, an futura? neque futura,
+an fortitudo? Nec fortitudo,
 an altitudo, an profundum? nec altitudo, nec profundum.
 Scimus enim, quod passiones hujus saeculi
 non sunt condignae ad futuram gloriam.
+```
+
+```
+Ó Pane, panovníku nebe a země, pamatuj na své služebníky, jejichž pánem jsi od počátku.
+Moji vyvolení, hle, jsem s vámi až do dokonání věků.
+Ale, ó Pane, svět pronásleduje tvé služebníky.
+Mějte důvěru, já jsem přemohl svět.
+Ale, ó Pane, mluví lživě proti tvým služebníkům a napadají nás slovy nenávisti.
+Budete blahoslavení, když vám budou lidé zlořečit a pronásledovat vás a budou o vás lžívě říkat všechny zlé věci kvůli mě.
+Ale, ó Pane, činí na nás násilí ti, kteří usilují o naše životy.
+Království nebeské trpí násilí a násilníci se ho zmocňují.
+Ale, ó Pane, připravují ohně a kříže, šípy a meče, aby zabili tvé služebníky.
+Nebojte se těch, kteří zabíjejí těla, ale duši zabít nemohou.
+Ale, ó Pane, jestli tohle všechno vydržíme, co s námi bude?
+Já vás odměním za vaši práci.
+Kdo nás tedy odloučí od tvé lásky, Pane?
+Bude to soužení? Ne, soužení ne.
+Bude to tíseň? Ne, tíseň ne.
+Bude to hlad, nahota nebo nebo nebezpečí? Ani hlad, ani nahota, ani nebezpečí.
+Bude to meč a pronásledování? Ani pronásledování, ani meč.
+Kdo tedy? Kdo tedy?
+Kdo nás tedy odloučí od tvé lásky, Pane?
+Bude to smrt nebo život? Ani smrt, ani život.
+Budou to andělé? Ani andělé.
+Budou to vládcové? Ani vládcové.
+Budou to mocnosti? Ani mocnosti.
+Bude to přítomnost? Ani přítomnost.
+Bude to budoucnost? Ani budoucnost.
+Bude to síla? Ani síla.
+Budou to výšiny? Budou to hlubiny? Ani výšiny, ani hlubiny.
+Víme totiž, že strasti tohoto věku se nedají srovnat s budoucí slávou.
 ```
 
 ### Paratum cor meum
