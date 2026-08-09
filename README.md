@@ -1549,13 +1549,25 @@ De torrente in via bibet: propterea exaltabit caput.
 ```
 Fulgete serta syderum, Jesus nostrum jubar est.
 Agite, dicite laudes Jesu nostro, jubilate omnes.
-O gloriose Rex caelorum, trahe nos post te :
+O gloriose Rex caelorum, trahe nos post te:
 curremus in odorem unguentorum tuorum.
 Voca nos, suscipe nos, et serviemus tibi.
 Ecce cor meum in amore Domini mei languet.
-Fulcite me floribus, stipate me malis :
+Fulcite me floribus, stipate me malis:
 in amore Domini mei totum languet cor meum.
 O Rex caelorum, Rex amorum, veni.
+```
+
+```
+Rozzářete se, věnce z hvězd, Ježíš je naše světlo.
+Nuže, vzdávejte chválu našemu Ježíši, všichni se radujte.
+Ó slavný Králi nebes, přitahuj nás k sobě:
+poběžíme za vůní tvých mastí.
+Zavolej nás, přijmi nás a budeme ti sloužit.
+Hle, mé srdce prahne po lásce mého Pána.
+Posilněte mě květinami, zahrňte mě jablky:
+celé mé srdce prahne po lásce mého Pána.
+Ó králi nebes, králi lásky, přijď.
 ```
 
 ### Nisi Dominus (Ž 127)
@@ -1563,13 +1575,25 @@ O Rex caelorum, Rex amorum, veni.
 ```
 Nisi Dominus aedificaverit domum, in vanum laboraverunt qui aedificant eam. Nisi Dominus custodierit civitatem, frustra vigilat qui custodit eam.
 
-Vanum est vobis ante lucem surgere: surgite postquam sederitis, qui manducatis panem doloris. Cum dederit dilectis suis somnum,
+Vanum est vobis ante lucem surgere: surgite postquam sederitis, qui manducatis panem doloris. Cum dederit dilectis suis somnum.
 
 ecce haereditas Domini, filii; merces, fructus ventris.
 
 Sicut sagittae in manu potentis, ita filii excussorum.
 
 Beatus vir qui implevit desiderium suum ex ipsis: non confundetur cum loquetur inimicis suis in porta.
+```
+
+```
+Jestliže dům nebude stavět Hospodin, marně se namáhat ti, kdo ho stavějí. Jestli město nebude střežit Hospodin, nadarmo bdí ten, kdo ho hlídá.
+
+Je marné, abyste vstávali před svítáním: vstávejte, až si odpočinete, vy, kteří jíte chléb bolesti. Vždyť svým milovaným dává spánek.
+
+Hle, synové jsou dědictvím od Hospodina, odměna, plod lůna.
+
+Jako šípy v ruce silného bojovníka, tak jsou synové těch, kteří byli vyvedeni.
+
+Blahoslavený muž, který v nich naplnil své přání: nebude zahanben, až bude mluvit se svými nepřáteli u brány.
 ```
 
 ### Bach: Nun komm, der Heiden Heiland, BWV 62
@@ -2947,12 +2971,30 @@ non sunt condignae ad futuram gloriam.
 ### Paratum cor meum
 
 ```
-Paratum cor meum, Deus, paratum cor meum:
-cantabo et psalmum dicam Domino.
+Paratum cor meum, Deus, paratum cor meum: cantabo et psalmum dicam Domino.
+
 Exurge gloria mea, exurge psalterium et cythara.
+
 Exurgam diluculo, et confitebor tibi in populis Domine,
-quia magna est super cælos misericordia tua.
-Exaltare super cælos Deus, et super omnen terram gloria tua.
+
+quia magna est super caelos misericordia tua.
+
+Exaltare super caelos Deus, et super omnem terram gloria tua.
+```
+
+```
+Mé srdce je připravené, Bože, mé srdce je připravené:
+budu zpívat Hospodinu a chválit ho žalmy.
+
+Probuď se, má slávo, probuď se, psaltérium a citaro.
+
+Probudím se za svítání a budu tě vyznávat mezi národy, Hospodine,
+
+neboť tvé milosrdentsví je větší než nebesa.
+
+Povznes se nad nebesa, Bože, a pozvnes svoji slávu nad celou zemí.
+
+(Ž 57, 8-12)
 ```
 
 ### Saget den Gästen
