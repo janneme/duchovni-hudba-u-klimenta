@@ -64,6 +64,10 @@
 
 ## Seznam vystoupení
 
+### 2026 – 2027
+
+- **[4.10.2026](#4102026)**: **Gletle** (1626-1683), **Leonarda** (1620-1704)
+
 ### 2025 – 2026
 
 - **[19.10.2025](#19102025)**: **Rosenműller, Johann** (1619-1684): **Confitebor tibi Domine**
@@ -375,6 +379,19 @@ Provedení se účastnili klimentští Anglikáni.
 **Jommelli, Nicolò** (1714-1774): **Confirma hoc Deus**
 **Brixi, Šimon** (1693-1735): **Aria duplex de passione Domini nostri Jesu Christi**
 
+### 4.10.2026
+
+#### Hudba před bohoslužbami
+
+- **Leonarda, Isabella** (1620-1704): **Sonata sesta** (3:45)
+- **Leonarda, Isabella** (1620-1704): **Sonata decima** (5:00)
+- **Gletle, Johann Melchior** (1626-1683): **Minentur turbines** (7:00)
+
+#### Hudba při bohoslužbách
+
+- **Gletle, Johann Melchior** (1626-1683): **O Domine, Dominator coeli et terrae** (7:00)
+- **Leonarda, Isabella** (1620-1704): **Nisi Dominus** (7:30)
+
 ## Plánované skladby
 
 ### Bach, Johann Sebastian (1685-1750): Christ lag in Todesbanden, BWV 4
@@ -451,6 +468,11 @@ Provedení se účastnili klimentští Anglikáni.
 
 - 16:30, 4viol, fl, bc, SATTB
 - [nahrávka](https://www.youtube.com/watch?v=9mllRRWrlfI), [sborové noty na CPDL](https://www.cpdl.org/wiki/index.php/Super_flumina_Babilonis,_S.13_(Michel-Richard_de_Lalande)), [rukopis partitury na IMSLP](https://imslp.org/wiki/Super_flumina_Babylonis%2C_S.13_(Lalande%2C_Michel_Richard_de)) (ten druhý)
+
+### Gletle, Johann Melchior (1626-1683): Minentur turbines
+
+- 7:00, SSATB, bc
+- partitura na [CPDL](https://cpdl.org/wiki/index.php/Minentur_turbines_(Johann_Melchior_Gletle)
 
 ### Gletle, Johann Melchior (1626-1683): O Domine, Dominator coeli et terrae
 
@@ -2929,7 +2951,47 @@ neotálej!
 Čekáme tě s dychtivostí!
 ```
 
-### O Domine, Dominator coeli et terrae
+### Gletle: Minentur turbines
+
+```
+Minentur turbines,
+conspiren fulmina,
+et mugiant procellae,
+nos tutti habitabimus in domo Domini in aeternum.
+
+Si maria turbata tumescant contra vos:
+Si flumina retrogressa fuerint contra vos:
+Non timebit cor nostrum.
+Si montes incitati infurgant contra vos:
+Si ignis de cœlo cadens praelietur contra vos:
+Non praevalebunt adversum nos.
+Si consistant castra adversum vos:
+Si exurgat praelium ad versus vos:
+Non timebimus milia populi circumdantis nos.
+Si aciem infernus educat contra vos:
+Si tota orbis machina ruat, ruat super vos:
+Ridebimus nos.
+
+Si maria: non inundabunt nos.
+Si flumina: non submergent nos.
+Si montes: non obuent nos.
+Si ignis: non tangent nos.
+Si castra: non terrebunt nos.
+Si praelium: non expugnabit nos.
+Si infernus: non suprimet nos.
+Si orbis ruina: non feriet nos.
+Haec est enim domus Domini,
+firmiter aedificata benefundata,
+fundata est supra firmam petram.
+Turres incircuitu ejus,
+et propugnacula in lateribus ejus,
+et mille fortes in custodiis ejus.
+Haec ergo requies nostra in saeculum saeculi.
+Hinc habitabimus, quoniam elegimus eam,
+ut laudes in ea canamus Deo nostro in aeternum.
+```
+
+### Gletle: O Domine, Dominator coeli et terrae
 
 ```
 O Domine, Dominator coeli et terrae,
