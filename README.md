@@ -10,13 +10,57 @@
 
 ## Návrhy
 
-### Bernardino, Azzolino della Ciaja (1671-1755): Lauda Jerusalem Dominum
+### 4.10.2026
+
+#### Bernardino, Azzolino della Ciaja (1671-1755): Lauda Jerusalem Dominum
 
 - 10:30 (2:00 + 2:00 + 2:00 + 2:30 + 2:00), 2vn, vla, bc, SSATB
 - [rukopis na IMSLP](https://imslp.org/wiki/Lauda_Jerusalem_Dominum_(Della_Ciaja%2C_Azzolino_Bernardino)) (spartováno), [text](#user-content-lauda-jerusalem-dominum)
 
-### 4.10.2026
+#### Danielis, Daniel (1635-1696): Fulgete serta syderum
 
+- 7:00, 2vn, bc, STB
+- [nahrávka (výběr)](https://www.youtube.com/watch?v=wXFR9tkmQNg), partitura a party na [IMSLP](https://imslp.org/wiki/Fulgete_serta_syderum_(Danielis%2C_Daniel)), [text](#fulgete-serta-syderum)
+
+#### Danielis, Daniel (1635-1696): Paratum cor meum
+
+- 7:00, 2vn, bc, SATB
+- partitura a party na [IMSLP](https://imslp.org/wiki/Paratum_cor_meum_(Danielis%2C_Daniel)), [text](#paratum-cor-meum)
+
+#### Gletle, Johann Melchior (1626-1683): O Domine, Dominator coeli et terrae
+
+- 7:00, 2vn, bc, SSATB + B solo (těžké, nízko)
+- partitura a party na [CPDL](https://cpdl.org/wiki/index.php/O_Domine_Dominator_(Johann_Melchior_Gletle)), [text](#o-domine-dominator-coeli-et-terrae)
+
+#### Bütner, Crato (1616-1679): Nun dancket alle Gott
+
+- 5:00, 2vn, bn, bc, SSB
+- partitura na [IMSLP](https://imslp.org/wiki/Nun_dancket_alle_Gott_(B%C3%BCtner%2C_Crato)), [text](#bütner-nun-dancket-alle-gott)
+
+#### Bütner, Crato (1616-1679): Wo der Herr nicht bey uns were
+
+- 7:00, 2vn, vla, bc, SSB
+- partitura na [IMSLP](https://imslp.org/wiki/Nun_dancket_alle_Gott_(B%C3%BCtner%2C_Crato)), [text](#bütner-wo-der-herr-nicht-bey-uns-wäre)
+
+#### Leonarda, Isabella (1620-1704): Beatus vir
+
+- 7:30, 2vn, bc, SATB
+- [nahrávka](https://www.youtube.com/watch?v=8nYMlW69UvY), partitura na [IMSLP](https://imslp.org/wiki/Salmi_Concertati_a_4_voci_con_Strumenti%2C_Op.19_(Leonarda%2C_Isabella)) (str. 68), [text](#beatus-vir-ž-112)
+
+#### Leonarda, Isabella (1620-1704): Dixit Dominus
+
+- 8:30, 2vn, bc, SATB
+- [nahrávka](https://www.youtube.com/watch?v=-heh5SRoYbc), partitura na [CPDL](https://cpdl.org/wiki/index.php/Dixit_Dominus_(Isabella_Leonarda)), [text](#dixit-dominus-ž-110)
+
+#### Leonarda, Isabella (1620-1704): Laudate Dominum omnes gentes
+
+- 6:00, 2vn, bc, SATB
+- partitura na [IMSLP](https://imslp.org/wiki/Salmi_Concertati_a_4_voci_con_Strumenti%2C_Op.19_(Leonarda%2C_Isabella)) (str. 109), [text](#laudate-dominum-omnes-gentes-ž-117)
+
+#### Leonarda, Isabella (1620-1704): Nisi Dominus
+
+- 7:30, 2vn, bc, SATB
+- partitura na [IMSLP](https://imslp.org/wiki/Salmi_Concertati_a_4_voci_con_Strumenti%2C_Op.19_(Leonarda%2C_Isabella)) (str. 142), [text](#nisi-dominus-ž-127)
 
 ## Seznam vystoupení
 
@@ -353,6 +397,16 @@ Provedení se účastnili klimentští Anglikáni.
 - 10:30 (2:00 + 2:00 + 2:00 + 2:30 + 2:00), 2vn, vla, bc, SSATB
 - [rukopis na IMSLP](https://imslp.org/wiki/Lauda_Jerusalem_Dominum_(Della_Ciaja%2C_Azzolino_Bernardino)) (spartováno), [text](#user-content-lauda-jerusalem-dominum)
 
+### Bütner, Crato (1616-1679): Nun dancket alle Gott
+
+- 5:00, 2vn, bn, bc, SSB
+- partitura na [IMSLP](https://imslp.org/wiki/Nun_dancket_alle_Gott_(B%C3%BCtner%2C_Crato)), [text](#bütner-nun-dancket-alle-gott)
+
+### Bütner, Crato (1616-1679): Wo der Herr nicht bey uns were
+
+- 7:00, 2vn, vla, bc, SSB
+- partitura na [IMSLP](https://imslp.org/wiki/Nun_dancket_alle_Gott_(B%C3%BCtner%2C_Crato)), [text](#bütner-wo-der-herr-nicht-bey-uns-wäre)
+
 ### Buxtehude, Dietrich (1637-1707) - Gott hilf mir, BuxWV 34
 
 - 14:30, 2vn, vla, vlne, bc, SATB
@@ -378,16 +432,34 @@ Provedení se účastnili klimentští Anglikáni.
 - 5:20, 2vn, bc, SAT
 - [rukopis](https://imslp.org/wiki/Venite_ad_me_(Capricornus%2C_Samuel)), [text](#venite-ad-me-omnes)
 
+### Danielis, Daniel (1635-1696): Attollite portas
+
+- 5:30, 2vn, gamba, bc, SSB
+- [nahrávka (výběr)](https://www.youtube.com/watch?v=xJ7K5dnogQg), partitura a party na [IMSLP](https://imslp.org/wiki/Attolite_portas_(Danielis%2C_Daniel)), [text](#attollite-portas)
+
+### Danielis, Daniel (1635-1696): Fulgete serta syderum
+
+- 7:00, 2vn, bc, STB
+- [nahrávka (výběr)](https://www.youtube.com/watch?v=wXFR9tkmQNg), partitura a party na [IMSLP](https://imslp.org/wiki/Fulgete_serta_syderum_(Danielis%2C_Daniel)), [text](#fulgete-serta-syderum)
+
+### Danielis, Daniel (1635-1696): Paratum cor meum
+
+- 7:00, 2vn, bc, SATB
+- partitura a party na [IMSLP](https://imslp.org/wiki/Paratum_cor_meum_(Danielis%2C_Daniel)), [text](#paratum-cor-meum)
+
 ### Delalande, Michel-Richard (1657-1726): Super flumina Babylonis S. 13
 
 - 16:30, 4viol, fl, bc, SATTB
 - [nahrávka](https://www.youtube.com/watch?v=9mllRRWrlfI), [sborové noty na CPDL](https://www.cpdl.org/wiki/index.php/Super_flumina_Babilonis,_S.13_(Michel-Richard_de_Lalande)), [rukopis partitury na IMSLP](https://imslp.org/wiki/Super_flumina_Babylonis%2C_S.13_(Lalande%2C_Michel_Richard_de)) (ten druhý)
 
+### Gletle, Johann Melchior (1626-1683): O Domine, Dominator coeli et terrae
+
+- 7:00, 2vn, bc, SSATB + B solo (těžké, nízko)
+- partitura a party na [CPDL](https://cpdl.org/wiki/index.php/O_Domine_Dominator_(Johann_Melchior_Gletle)), [text](#o-domine-dominator-coeli-et-terra)
+
 ### Graupner, Christoph (1683-1760): Auf Zion auf nimm Schmuck für Asche, GWV 1101/41
 
 - 20:30 (4:30 + 7:00 + 1:40 + 6:00 + 1:30), 2ob, 2vn, vla, bc, SATB (krácení: basová árie v DC konec před nástupem basu -2:00, soprán: DC až od taktu 63 -2:00)
-
-
 - [partitura a party na IMSLP](https://imslp.org/wiki/Auf_Zion_auf_nimm_Schmuck_f%C3%BCr_Asche%2C_GWV_1101%2F41_(Graupner%2C_Christoph)), [text](#graupner-auf-zion-auf-nimm-schmuck-für-asche)
 
 ### Graupner, Christoph (1683-1760): Erbarm dich mein o Herre Gott, GWV 1163/24
@@ -415,6 +487,26 @@ Provedení se účastnili klimentští Anglikáni.
 - 14:30, 2vn, 2fl, 2vla, vc, SSAT(T)BB
 - [nahrávka](https://www.youtube.com/watch?v=iL8ZlVUU5ZQ), [partitura na CPDL](https://www.cpdl.org/wiki/index.php/De_Profundis_H_189_(Marc-Antoine_Charpentier))
 - skladba je součástí pohřební hudby pro ženu Ludvíka XIV, proto má na konci Requiem, které u Klimenta dávat nebudeme
+
+### Leonarda, Isabella (1620-1704): Beatus vir
+
+- 7:30, 2vn, bc, SATB
+- [nahrávka](https://www.youtube.com/watch?v=8nYMlW69UvY), partitura na [IMSLP](https://imslp.org/wiki/Salmi_Concertati_a_4_voci_con_Strumenti%2C_Op.19_(Leonarda%2C_Isabella)) (str. 68), [text](#beatus-vir-ž-112)
+
+### Leonarda, Isabella (1620-1704): Dixit Dominus
+
+- 8:30, 2vn, bc, SATB
+- [nahrávka](https://www.youtube.com/watch?v=-heh5SRoYbc), partitura na [CPDL](https://cpdl.org/wiki/index.php/Dixit_Dominus_(Isabella_Leonarda), [text](#dixit-dominus-ž-110)
+
+### Leonarda, Isabella (1620-1704): Laudate Dominum omnes gentes
+
+- 6:00, 2vn, bc, SATB
+- partitura na [IMSLP](https://imslp.org/wiki/Salmi_Concertati_a_4_voci_con_Strumenti%2C_Op.19_(Leonarda%2C_Isabella)) (str. 109), [text](#laudate-dominum-omnes-gentes-ž-117)
+
+### Leonarda, Isabella (1620-1704): Nisi Dominus
+
+- 7:30, 2vn, bc, SATB
+- partitura na [IMSLP](https://imslp.org/wiki/Salmi_Concertati_a_4_voci_con_Strumenti%2C_Op.19_(Leonarda%2C_Isabella)) (str. 142), [text](#nisi-dominus-ž-127)
 
 ### de Mondonville, Jean-Joseph (1711-1772): In exitu Israel
 
@@ -587,6 +679,28 @@ Chor
 Alles, was ihr tut mit Worten oder mit Werken,
 das tut alles im Namen Jesu,
 und danket Gott und dem Vater durch ihn.
+```
+
+### Attollite portas
+
+```
+Attollite portas principes vestras,
+et elevamini portae aeternales:
+et introibit Rex gloriae.
+
+Quis est iste Rex gloriae?
+Dominus fortis et potens,
+Dominus potens in praelio.
+
+Attolite portas principes vestras,
+et introibit portae aeternales:
+et introibit Rex glo-riae?
+
+Quis enim est iste Rex gloriae?
+Dominus virtutum,
+ipse est Rex gloriae.
+
+Alleluia.
 ```
 
 ### Auf Zion und laß in geheiligten Hallen
@@ -1049,6 +1163,30 @@ von Ewigkeit zu Ewigkeit
 gelobt seist du.
 ```
 
+### Beatus vir (Ž 112)
+
+```
+Beatus vir qui timet Dominum: in mandatis ejus volet nimis.
+
+Potens in terra erit semen ejus; generatio rectorum benedicetur.
+
+Gloria et divitiae in domo ejus: et justitia ejus manet in saeculum saeculi.
+
+Exortum est in tenebris lumen rectis: misericors, et miserator, et justus.
+
+Jucundus homo qui miseretur et commodat; disponet sermones suos in judicio:
+
+quia in aeternum non commovebitur.
+
+In memoria aeterna erit justus; ab auditione mala non timebit. Paratum cor ejus sperare in Domino,
+
+confirmatum est cor ejus; non commovebitur donec despiciat inimicos suos.
+
+Dispersit, dedit pauperibus; justitia ejus manet in saeculum saeculi: cornu ejus exaltabitur in gloria.
+
+Peccator videbit, et irascetur; dentibus suis fremet et tabescet: desiderium peccatorum peribit.
+```
+
 ### Cain, ovvero il primo omicidio (výběr)
 
 ```
@@ -1386,6 +1524,76 @@ Der Herr segne euch je mehr und mehr, euch und eure Kinder.
 Chorus
 
 Ihr seid die Gesegneten des Herrn, der Himmel und Erde gemacht hat. Amen.
+```
+
+### Dixit Dominus (Ž 110)
+
+```
+Dixit Dominus Domino meo: sede a dextris meis, donec ponam inimicos tuos scabellum pedum tuorum.
+
+Virgam virtutis tuae emittet Dominus ex Sion: dominare in medio inimicorum tuorum.
+
+Tecum principium in die virtutis tuae in splendoribus sanctorum ex utero, ante luciferum, genui te.
+
+Juravit Dominus et non poenitebit eum: tu es sacerdos in aeternum secundum ordinem Melchisedech.
+
+Dominus a dextris tuis: confregit in die irae suae reges.
+
+Judicabit in nationibus, implebit ruinas: conquassabit capita in terra multorum.
+
+De torrente in via bibet: propterea exaltabit caput.
+```
+
+### Fulgete serta syderum
+
+```
+Fulgete serta syderum, Jesus nostrum jubar est.
+Agite, dicite laudes Jesu nostro, jubilate omnes.
+O gloriose Rex caelorum, trahe nos post te:
+curremus in odorem unguentorum tuorum.
+Voca nos, suscipe nos, et serviemus tibi.
+Ecce cor meum in amore Domini mei languet.
+Fulcite me floribus, stipate me malis:
+in amore Domini mei totum languet cor meum.
+O Rex caelorum, Rex amorum, veni.
+```
+
+```
+Rozzářete se, věnce z hvězd, Ježíš je naše světlo.
+Nuže, vzdávejte chválu našemu Ježíši, všichni se radujte.
+Ó slavný Králi nebes, přitahuj nás k sobě:
+poběžíme za vůní tvých mastí.
+Zavolej nás, přijmi nás a budeme ti sloužit.
+Hle, mé srdce prahne po lásce mého Pána.
+Posilněte mě květinami, zahrňte mě jablky:
+celé mé srdce prahne po lásce mého Pána.
+Ó králi nebes, králi lásky, přijď.
+```
+
+### Nisi Dominus (Ž 127)
+
+```
+Nisi Dominus aedificaverit domum, in vanum laboraverunt qui aedificant eam. Nisi Dominus custodierit civitatem, frustra vigilat qui custodit eam.
+
+Vanum est vobis ante lucem surgere: surgite postquam sederitis, qui manducatis panem doloris. Cum dederit dilectis suis somnum.
+
+ecce haereditas Domini, filii; merces, fructus ventris.
+
+Sicut sagittae in manu potentis, ita filii excussorum.
+
+Beatus vir qui implevit desiderium suum ex ipsis: non confundetur cum loquetur inimicis suis in porta.
+```
+
+```
+Jestliže dům nebude stavět Hospodin, marně se namáhat ti, kdo ho stavějí. Jestli město nebude střežit Hospodin, nadarmo bdí ten, kdo ho hlídá.
+
+Je marné, abyste vstávali před svítáním: vstávejte, až si odpočinete, vy, kteří jíte chléb bolesti. Vždyť svým milovaným dává spánek.
+
+Hle, synové jsou dědictvím od Hospodina, odměna, plod lůna.
+
+Jako šípy v ruce silného bojovníka, tak jsou synové těch, kteří byli vyvedeni.
+
+Blahoslavený muž, který v nich naplnil své přání: nebude zahanben, až bude mluvit se svými nepřáteli u brány.
 ```
 
 ### Bach: Nun komm, der Heiden Heiland, BWV 62
@@ -2369,6 +2577,15 @@ Kristus, který nám stojí po boku,
 mi každý den pomáhá vítězně zápasit. 
 ```
 
+### Laudate Dominum omnes gentes (Ž 117)
+
+
+```
+Laudate Dominum, omnes gentes; laudate eum, omnes populi.
+
+Quoniam confirmata est super nos misericordia ejus, et veritas Domini manet in aeternum.
+```
+
 ### Laudate pueri Dominum (Ž 113)
 
 ```
@@ -2434,7 +2651,7 @@ Deposuit potentes de sede et exaltavit humiles.
 
 Esurientes implevit bonis et divites dimisit inanes.
 
-Suscepit Israel puerum suum recordatus misericordiae suæ.
+Suscepit Israel puerum suum recordatus misericordiae suae.
 
 Sicut locutus est ad patres nostros, Abraham et semini eius in saecula.
 
@@ -2617,6 +2834,20 @@ auf dass wir ewig bei dir sein.
 Amen.
 ```
 
+### Bütner: Nun dancket alle Gott
+
+```
+Nun dancket alle Gott,
+der grosse Dinge thut an allen Enden,
+der uns von Mutterleibe an lebendig erhält
+und thut uns alles Guts.
+Ergebe uns ein fröhliches Hertz
+und verleine immerdar Friede
+zu unser Zeit in Israel,
+und dass deine Gnade stäts bei uns bleibe,
+und erlöse uns, so lange wir leben.
+```
+ 
 ### Nun komm, der Heiden Heiland
 
 ```
@@ -2696,6 +2927,105 @@ Amen, Amen,
 Přijď už vzácný hosti, koruno radosti,
 neotálej!
 Čekáme tě s dychtivostí!
+```
+
+### O Domine, Dominator coeli et terrae
+
+```
+O Domine, Dominator coeli et terrae,
+memento servorum tuorum, quos possedisti ab initio.
+Electi mei, ecce ego vobiscum sum usque
+ad consummationem saeculi.
+Sed, o Domine, persequitur mundus servos tuos.
+Habete fiduciam, ego vici mundum.
+Sed, o Domine, linguam dolosam loquantur
+adversus servos tuos, et sermonibus odii impugnant nos.
+Beati eritis, cum male dixerint vobis homines,
+et persecuti vos fuerint et dixerint omne malum
+ad verbum vos mentientes propter me.
+Sed, o Domine, vim faciunt nobis qui quaerunt animas nostras.
+Regnum coelorum vim patitur et violenti rapiunt illud.
+Sed, o Domine, paratiunt ignes et cruces,
+sagittae et gladii in mortem servorum tuorum.
+Nolite timere eos qui corpora occidunt animam autem non possunt occidere.
+Sed, o Domine, si hoc omnia sustinuerimus, quid erit nobis?
+Mercedem laborum ego reddam vobis.
+Quis ergo nos separabit a charitate tua, Domine?
+An tribulatio? Non tribulatio, non,
+an angustia? non, non, non angustia.
+an fames, an nuditas, an periculum?
+non fames, non nuditas, non periculum,
+an gladius, an persecutio? non persecutio, non gladius.
+Quis ergo, quis ergo?
+Quis ergo nos separabit a charitate tua, Domine?
+An mors, an vita? Neque mors, neque vita.
+An angeli? Neque angeli, an principatus?
+nec principatus, an virtutes? neque virtutes,
+an instantia? Nec instantia, an futura? neque futura,
+an fortitudo? Nec fortitudo,
+an altitudo, an profundum? nec altitudo, nec profundum.
+Scimus enim, quod passiones hujus saeculi
+non sunt condignae ad futuram gloriam.
+```
+
+```
+Ó Pane, panovníku nebe a země, pamatuj na své služebníky, jejichž pánem jsi od počátku.
+Moji vyvolení, hle, jsem s vámi až do dokonání věků.
+Ale, ó Pane, svět pronásleduje tvé služebníky.
+Mějte důvěru, já jsem přemohl svět.
+Ale, ó Pane, mluví lživě proti tvým služebníkům a napadají nás slovy nenávisti.
+Budete blahoslavení, když vám budou lidé zlořečit a pronásledovat vás a budou o vás lžívě říkat všechny zlé věci kvůli mě.
+Ale, ó Pane, činí na nás násilí ti, kteří usilují o naše životy.
+Království nebeské trpí násilí a násilníci se ho zmocňují.
+Ale, ó Pane, připravují ohně a kříže, šípy a meče, aby zabili tvé služebníky.
+Nebojte se těch, kteří zabíjejí těla, ale duši zabít nemohou.
+Ale, ó Pane, jestli tohle všechno vydržíme, co s námi bude?
+Já vás odměním za vaši práci.
+Kdo nás tedy odloučí od tvé lásky, Pane?
+Bude to soužení? Ne, soužení ne.
+Bude to tíseň? Ne, tíseň ne.
+Bude to hlad, nahota nebo nebo nebezpečí? Ani hlad, ani nahota, ani nebezpečí.
+Bude to meč a pronásledování? Ani pronásledování, ani meč.
+Kdo tedy? Kdo tedy?
+Kdo nás tedy odloučí od tvé lásky, Pane?
+Bude to smrt nebo život? Ani smrt, ani život.
+Budou to andělé? Ani andělé.
+Budou to vládcové? Ani vládcové.
+Budou to mocnosti? Ani mocnosti.
+Bude to přítomnost? Ani přítomnost.
+Bude to budoucnost? Ani budoucnost.
+Bude to síla? Ani síla.
+Budou to výšiny? Budou to hlubiny? Ani výšiny, ani hlubiny.
+Víme totiž, že strasti tohoto věku se nedají srovnat s budoucí slávou.
+```
+
+### Paratum cor meum
+
+```
+Paratum cor meum, Deus, paratum cor meum: cantabo et psalmum dicam Domino.
+
+Exurge gloria mea, exurge psalterium et cythara.
+
+Exurgam diluculo, et confitebor tibi in populis Domine,
+
+quia magna est super caelos misericordia tua.
+
+Exaltare super caelos Deus, et super omnem terram gloria tua.
+```
+
+```
+Mé srdce je připravené, Bože, mé srdce je připravené:
+budu zpívat Hospodinu a chválit ho žalmy.
+
+Probuď se, má slávo, probuď se, psaltérium a citaro.
+
+Probudím se za svítání a budu tě vyznávat mezi národy, Hospodine,
+
+neboť tvé milosrdentsví je větší než nebesa.
+
+Povznes se nad nebesa, Bože, a pozvnes svoji slávu nad celou zemí.
+
+(Ž 57, 8-12)
 ```
 
 ### Saget den Gästen
@@ -2909,6 +3239,24 @@ O Lord, have mercy upon us; O Lord,
 let Thy mercy lighten upon us, as our trust is in Thee.
 
 O Lord, in Thee have I trusted, let me never be confounded.
+```
+
+### Bütner: Wo der Herr nicht bey uns wäre
+
+```
+Wo der Herr nicht bey uns wäre, so sage Israel,
+Wenn die Menschen sich wieder uns setzen.
+So verschlüngen sie uns lebendig,
+wenn ihr Zorn über uns ergrimmet.
+So er seufte uns Wasser, Ströme gingen über unser Seele,
+Es giengen Wasser alzuhoch über unser Seele.
+Gelobet sei in der Herr, das er uns nicht gibt,
+zum Raub in ihre Zähne.
+Unsre Seele ist entrunnen,
+wie ein Vogel dem stricke des Voglers,
+der Strick der ist zerrissen, und wir sind los.
+Unser Hülffe stehet im Nahmen des Herren
+der Himmel und Erden gemacht hat.
 ```
 
 ### Wo soll ich fliehen hin?
