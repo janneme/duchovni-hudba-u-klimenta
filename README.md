@@ -2848,7 +2848,8 @@ omnes qui onerati estis.
 Venite ad me, et ego reficiam vos.
 Tollite jugum meum super vos,
 et discite a me, quia mitis sum et humilis corde,
-et invenietis requiem animabus vestris,
+et invenietis requiem animabus vestris.
+(Mt 11,28-29)
 ```
 
 ### Warhlich, wahrlich ich sage euch (J 5,24)
