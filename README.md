@@ -4751,3 +4751,128 @@ Wann ich gleich sterb’, so sterb’ ich dir,
 ein ew’ges Leben hast du mir
 mit deinem Tod erworben.
 ```
+
+### Isaco, figura del Redentore (Luca Antonio Predieri)
+
+1. Sinfonia 2:15
+
+2. Recitativo
+
+Abramo:
+Non più, Figlio, non più.
+Senza avvederti, ragionando fra noi,
+la maggior parte scorsa abbiam della notte.
+A questo segno, te il desio di saper
+me di vederti,
+render alle mie labbra a sedotto il piacer.
+Va, caro Isacoo, basta per or.
+Del si alle membra al fine
+il solito riposo. Un altra volta.
+Il resto ascolterai.
+
+Isaco:
+Quando a narrarmi ritorni, o Genitor,
+de' casi tuoi le serie portentosa,
+un tal circonda tutta l'anima mia dolce contento,
+che stanchezza non sento,
+che riposo non curo, che mi scordo di me.
+Tu mi rapisci negli aventiche narri,
+e teco a parte del serne giurare i,
+se fido a Dio lasci il terren natio,
+teco abbandono le Compagne Caldee:
+teco di Carra, teco di Palestina,
+i monti, le foreste. Abito Pellegrin,
+se cibo astretto lungi a cercarti,
+sento io l'accompagno in Guerra, in Egitto,
+e gelo à rischi materni,
+e tuoi Sei debellati Regi,
+incalzi vencitor, presso alle fonti,
+seguito del Giordano la tua vittoria an ch'io,
+ma, ma quando esponi le promesse di Dio,
+lo stabil patto fra te fermato,
+e Lui, cosi m'ingombri della presenza sua,
+ch'odo il tenore de detti eterni,
+e me ne trama il core.
+AH, di tua vita il corso,
+ah quale è mai scuola per me.
+Nel opre tue ritrovo la norman delle mie:
+Nelle vicende ch|odo narrar meravigliose,
+e strane veggo le strade arcane.
+De consigli di Dio:
+quant'egli è grande, veggo in tanti portenti:
+in tanti doni di cui largo è con te
+veggo a qual segno, Padre mio,
+gli sei caro:
+e mille intendo, e mille cose imparo.
+
+Abramo:
+Lo so, parlando a te, se me non spargo
+in ingrato terren, ma parti assai questa notte.
+
+Isaco:
+Ah Signor dopo il presagio del ospite stranier,
+di cui Ala Madre rider s'udi,
+dimmi ch'avvenne.
+Ah dimmi sol questo, a partirò.
+
+Abramo:
+L'evento in breve il presagio avverò.
+Grave s'intese, sara fra poco il sen Germe novello
+in sua stagion produsse.
+
+Isaco:
+Ed io son quello?
+
+Abramo:
+Si, Figlio. Il tuo natale costò un prodigio alla natura.
+A suoi ordini violò d'arida pianta tu sei, mirabil frutto.
+
+Isaco: E la promessa. E la promessa eterna in te si spiega,
+e compirassi in quelli che nascer andate.
+Questo terreno in cui stranier peregrinando
+or vai sia dal Nilo all'Eufrate Suddito
+à figli tuoi.
+
+Isaco:
+Dunque i miei figli.
+
+Abramo:
+Degli astri, e delle arene saran più numerosi:
+il suo diletto Popolo,
+Addio gli appellerà: Per loco meraviglie oprerà:
+Principi, e Regi ne avra la terra:
+e tutti gli abitatori suoi quanti verran fian benedetti
+in noi.
+
+Isacco:
+Oh gloria, oh sorte! Oh me felice!
+
+Abramo:
+Ah Figlio, non t'abbagliar fra tanta gloria,
+è colpa spesso il piacer:
+che fra'l piacer nascosta serpe talor,
+la via superbia in seno, e le grazie del Ciel cambia
+in veleno.
+
+Isacco:
+No, da tal peste io sento libera calma mia sento...
+ma pure ingannarmi potrei.
+Nessun se stesso conosce apieno. Ah non parlasti a caso, padre, cosi,
+tu fai tremarmi il core.
+
+Abramo:
+Oh fonte di virtù, santo timore|
+
+Isacco:
+Oimè, nulla rispondi.
+Ah padre amato, pietà di me.
+Se traviai, m'addita il perduto sentiero
+a piedi tuoi, ecco mi.
+
+Abramo:
+Ah sorgi, Isacco, vieni al mio sen.
+Ti rassicura il Padre t'avverte,
+non t'accusa.
+Anzi il prudente tuo dubitar m'intenerisce a segno
+che ne sento di gioia umido il ciglio va: quale or sei,
+Dio ti conservi, o Figlio.
