@@ -4754,9 +4754,20 @@ mit deinem Tod erworben.
 
 ### Isaco, figura del Redentore (Luca Antonio Predieri)
 
-1. Sinfonia 2:15
-
-2. Recitativo
+ 1.  2:15 Sinfonia
+ 2. 10:00 Recitativo (Abramo, Isacco)
+ 3.  7:00 Ah, se macchiar quest'anima (Isacco)
+ 4.  2:30 Recitativo (Abramo, angelo)
+ 5.  7:00 Quell'innocente figlio (angelo)
+ 6.  9:00 Recitativo (Abramo, Gammari, Sara)
+ 7.  6:00 Datti pace è più Serena (Abramo)
+ 8.  4:30 Recitativo (Sara, Isacco, Gammari)
+ 9.  6:00 Madre! Amico! Ah, non piangete (Isacco)
+ 10. 1:30 Recitativo (Gammari, Sara)
+ 11. 6:30 Si, né tormenti (Gammari)
+ 12. 1:20 Recitativo (Gammari)
+ 13.12:00 Siam passaggeri erranti
+ 13. 4:30 Oh, figlia d'umiltà (Coro)
 
 Abramo:
 Non più, Figlio, non più.
