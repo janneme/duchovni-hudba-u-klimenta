@@ -4766,8 +4766,21 @@ mit deinem Tod erworben.
  10. 1:30 Recitativo (Gammari, Sara)
  11. 6:30 Si, né tormenti (Gammari)
  12. 1:20 Recitativo (Gammari)
- 13.12:00 Siam passaggeri erranti
+ 13. 12:00 Siam passaggeri erranti (Gammari)
  13. 4:30 Oh, figlia d'umiltà (Coro)
+
+ 15. 3:00 Recitativo (Sara)
+ 16. 5:30 Deh parlate (Sara)
+ 17. 4:00 Recitativo (Gamari, Sara)
+ 18. 10:30 Dal gran peso (Gammari)
+ 19. 3:00 Recitativo (Sara, Gammari, Isacco, Abramo)
+ 20. 8:00 Entra l'uomo al lor che nasce (Abramo)
+ 21. 9:30 Recitativo (Gammari, Sara, Abramo, Isacco)
+ 22. 7:30 A me le sue ritorte (Isacco)
+ 23. 1:00 Recitativo (Gammari, Sara)
+ 24. 7:00 Siam are i nostri petto (Sara)
+ 25. 1:00 Recitativo (Abramo, Angelo)
+ 26. 7:00 Ne di felici quel germe (Angelo)
 
 Abramo:
 Non più, Figlio, non più.
