@@ -10,57 +10,32 @@
 
 ## Návrhy
 
-### 4.10.2026
+### 6.12.2026
 
-#### Bernardino, Azzolino della Ciaja (1671-1755): Lauda Jerusalem Dominum
+### Bach, Johann Sebastian (1685-1750): Nun komm, der Heiden Heiland, BWV 62
 
-- 10:30 (2:00 + 2:00 + 2:00 + 2:30 + 2:00), 2vn, vla, bc, SSATB
-- [rukopis na IMSLP](https://imslp.org/wiki/Lauda_Jerusalem_Dominum_(Della_Ciaja%2C_Azzolino_Bernardino)) (spartováno), [text](#user-content-lauda-jerusalem-dominum)
+- 23:00, 2ob, 2vn, vla, bc, SATB
+- [nahrávka](https://www.youtube.com/watch?v=3_RKlsydSwE), [partitura a party na IMSLP](https://imslp.org/wiki/Nun_komm,_der_Heiden_Heiland,_BWV_62_(Bach,_Johann_Sebastian)), [text](#bach-nun-komm-der-heiden-heiland-bwv-62)
 
-#### Danielis, Daniel (1635-1696): Fulgete serta syderum
+### Bach, Johann Sebastian (1685-1750): Schwingt freudig euch empor, BWV 36
 
-- 7:00, 2vn, bc, STB
-- [nahrávka (výběr)](https://www.youtube.com/watch?v=wXFR9tkmQNg), partitura a party na [IMSLP](https://imslp.org/wiki/Fulgete_serta_syderum_(Danielis%2C_Daniel)), [text](#fulgete-serta-syderum)
+- 32:00, 2ob, 2vn, vla, bc, SATB
+- [nahrávka](https://www.youtube.com/watch?v=nCwXlEcnXKI), [partitura a party na IMSLP](https://imslp.org/wiki/Schwingt_freudig_euch_empor,_BWV_36_(Bach,_Johann_Sebastian)), [text](https://webdocs.cs.ualberta.ca/~wfb/cantatas/36.html)
 
-#### Danielis, Daniel (1635-1696): Paratum cor meum
+### Bach, Johann Sebastian (1685-1750): Bereitet die Wege, bereitet die Bahn, BWV 132
 
-- 7:00, 2vn, bc, SATB
-- partitura a party na [IMSLP](https://imslp.org/wiki/Paratum_cor_meum_(Danielis%2C_Daniel)), [text](#paratum-cor-meum)
+- 19:00, ob, 2vn, vla, bc, SATB
+- [nahrávka](https://www.youtube.com/watch?v=TajUXdjqoAs), [partitura a party na IMSLP](https://imslp.org/wiki/Bereitet_die_Wege,_bereitet_die_Bahn,_BWV_132_(Bach,_Johann_Sebastian)), [text](https://webdocs.cs.ualberta.ca/~wfb/cantatas/132.html)
 
-#### Gletle, Johann Melchior (1626-1683): O Domine, Dominator coeli et terrae
+### Telemann, Georg Philipp (1681-1767): Das ist je gewisslich wahr, TWV 1:183
 
-- 7:00, 2vn, bc, SSATB + B solo (těžké, nízko)
-- partitura a party na [CPDL](https://cpdl.org/wiki/index.php/O_Domine_Dominator_(Johann_Melchior_Gletle)), [text](#o-domine-dominator-coeli-et-terrae)
+- 12:00, 2ob, 2vn, vla, bc, SATB
+- [nahrávka](https://www.youtube.com/watch?v=RGd9-L9gzL0), [partitura na IMSLP](https://imslp.org/wiki/Das_ist_je_gewisslich_wahr,_TWV_1:183_(Telemann,_Georg_Philipp)), [text](https://www.bach-cantatas.com/Texts/TVWV1-183-Ger5.htm)
 
-#### Bütner, Crato (1616-1679): Nun dancket alle Gott
+### Stölzel, Gottfried Heinrich (1690-1749): Saget der Tochter Zion
 
-- 5:00, 2vn, bn, bc, SSB
-- partitura na [IMSLP](https://imslp.org/wiki/Nun_dancket_alle_Gott_(B%C3%BCtner%2C_Crato)), [text](#bütner-nun-dancket-alle-gott)
-
-#### Bütner, Crato (1616-1679): Wo der Herr nicht bey uns were
-
-- 7:00, 2vn, vla, bc, SSB
-- partitura na [IMSLP](https://imslp.org/wiki/Nun_dancket_alle_Gott_(B%C3%BCtner%2C_Crato)), [text](#bütner-wo-der-herr-nicht-bey-uns-wäre)
-
-#### Leonarda, Isabella (1620-1704): Beatus vir
-
-- 7:30, 2vn, bc, SATB
-- [nahrávka](https://www.youtube.com/watch?v=8nYMlW69UvY), partitura na [IMSLP](https://imslp.org/wiki/Salmi_Concertati_a_4_voci_con_Strumenti%2C_Op.19_(Leonarda%2C_Isabella)) (str. 68), [text](#beatus-vir-ž-112)
-
-#### Leonarda, Isabella (1620-1704): Dixit Dominus
-
-- 8:30, 2vn, bc, SATB
-- [nahrávka](https://www.youtube.com/watch?v=-heh5SRoYbc), partitura na [CPDL](https://cpdl.org/wiki/index.php/Dixit_Dominus_(Isabella_Leonarda)), [text](#dixit-dominus-ž-110)
-
-#### Leonarda, Isabella (1620-1704): Laudate Dominum omnes gentes
-
-- 6:00, 2vn, bc, SATB
-- partitura na [IMSLP](https://imslp.org/wiki/Salmi_Concertati_a_4_voci_con_Strumenti%2C_Op.19_(Leonarda%2C_Isabella)) (str. 109), [text](#laudate-dominum-omnes-gentes-ž-117)
-
-#### Leonarda, Isabella (1620-1704): Nisi Dominus
-
-- 7:30, 2vn, bc, SATB
-- partitura na [IMSLP](https://imslp.org/wiki/Salmi_Concertati_a_4_voci_con_Strumenti%2C_Op.19_(Leonarda%2C_Isabella)) (str. 142), [text](#nisi-dominus-ž-127)
+- 8:30, ob, 2vn, vla, bc, SATB
+- [nahrávka](https://www.youtube.com/watch?v=IhWfXRVKAP0), [partitura na IMSLP](https://imslp.org/wiki/Saget%20der%20Tochter%20Zion%20siehe%20dein%20Heil%20kommt%20(St%C3%B6lzel,%20Gottfried%20Heinrich)), [text](#stölzel-saget-der-tochter-zion)
 
 ## Seznam vystoupení
 
@@ -394,6 +369,12 @@ Provedení se účastnili klimentští Anglikáni.
 
 ## Plánované skladby
 
+### Bach, Johann Sebastian (1685-1750): Bereitet die Wege, bereitet die Bahn, BWV 132
+
+- Advent
+- 19:00, ob, 2vn, vla, bc, SATB
+- [nahrávka](https://www.youtube.com/watch?v=TajUXdjqoAs), [partitura a party na IMSLP](https://imslp.org/wiki/Bereitet_die_Wege,_bereitet_die_Bahn,_BWV_132_(Bach,_Johann_Sebastian)), [text](https://webdocs.cs.ualberta.ca/~wfb/cantatas/132.html)
+
 ### Bach, Johann Sebastian (1685-1750): Christ lag in Todesbanden, BWV 4
 
 - 20:00, 2vn, 2vla, bc, SATB
@@ -406,8 +387,15 @@ Provedení se účastnili klimentští Anglikáni.
 
 ### Bach, Johann Sebastian (1685-1750): Nun komm, der Heiden Heiland, BWV 62
 
+- Advent
 - 23:00, 2ob, 2vn, vla, bc, SATB
 - [nahrávka](https://www.youtube.com/watch?v=3_RKlsydSwE), [partitura a party na IMSLP](https://imslp.org/wiki/Nun_komm,_der_Heiden_Heiland,_BWV_62_(Bach,_Johann_Sebastian)), [text](#bach-nun-komm-der-heiden-heiland-bwv-62)
+
+### Bach, Johann Sebastian (1685-1750): Schwingt freudig euch empor, BWV 36
+
+- Advent
+- 32:00, 2ob, 2vn, vla, bc, SATB
+- [nahrávka](https://www.youtube.com/watch?v=nCwXlEcnXKI), [partitura a party na IMSLP](https://imslp.org/wiki/Schwingt_freudig_euch_empor,_BWV_36_(Bach,_Johann_Sebastian)), [text](#https://webdocs.cs.ualberta.ca/~wfb/cantatas/36.html)
 
 ### Bernardino, Azzolino della Ciaja (1671-1755): Lauda Jerusalem Dominum
 
@@ -571,10 +559,22 @@ Provedení se účastnili klimentští Anglikáni.
 - 11:00, 2vl, bc, SSATB (v jedné části jsou místo houslí psané 2 zobcové flétny), 0:00 - 8:30 má jenom tenor a bas
 - [nahrávka](https://www.youtube.com/watch?v=pl8maeRsRN0), [partitura na CPDL](https://www.cpdl.org/wiki/index.php/Vater_Abraham,_erbarme_dich_mein,_SWV_477_(Heinrich_Sch%C3%BCtz))
 
+### Stölzel, Gottfried Heinrich (1690-1749): Saget der Tochter Zion
+
+- Advent
+- 8:30, ob, 2vn, vla, bc, SATB
+- [nahrávka](https://www.youtube.com/watch?v=IhWfXRVKAP0), [partitura na IMSLP](https://imslp.org/wiki/Saget%20der%20Tochter%20Zion%20siehe%20dein%20Heil%20kommt%20(St%C3%B6lzel,%20Gottfried%20Heinrich)), [text](#stölzel-saget-der-tochter-zion)
+
 ### Telemann, Georg Philipp (1681-1767): Auf Zion und laß in geheiligten Hallen, TWV 1:109
 
 - 16:00, 2tpt/2fl, timp, ob, 2vn, vla, vc, bc, SATB
 - [nahrávka](https://www.youtube.com/watch?v=YirHBDvHu_o), [rukopis](https://digital.staatsbibliothek-berlin.de/werkansicht?PPN=PPN88268504X&PHYSID=PHYS_0002&DMDID=DMDLOG_0001)
+
+### Telemann, Georg Philipp (1681-1767): Das ist je gewisslich wahr, TWV 1:183
+
+- Advent
+- 12:00, 2ob, 2vn, vla, bc, SATB
+- [nahrávka](https://www.youtube.com/watch?v=RGd9-L9gzL0), [partitura na IMSLP](https://imslp.org/wiki/Das_ist_je_gewisslich_wahr,_TWV_1:183_(Telemann,_Georg_Philipp)), [text](https://www.bach-cantatas.com/Texts/TVWV1-183-Ger5.htm)
 
 ### Telemann, Georg Philipp (1681-1767): Christ ist erstanden TWV 1:136
 
@@ -714,7 +714,7 @@ Quis est iste Rex gloriae?
 Dominus fortis et potens,
 Dominus potens in praelio.
 
-Attolite portas principes vestras,
+Attollite portas principes vestras,
 et introibit portae aeternales:
 et introibit Rex glo-riae?
 
@@ -3088,6 +3088,56 @@ neboť tvé milosrdentsví je větší než nebesa.
 Povznes se nad nebesa, Bože, a pozvnes svoji slávu nad celou zemí.
 
 (Ž 57, 8-12)
+```
+
+### Stölzel: Saget der Tochter Zion
+
+```
+Saget der Tochter Zion, siehe, Dein Heil kömmt.
+
+Auf Zion! Freudlich, dein Gnadenlicht strahlt schon von
+weiten. Dein Heil ist nah, und dein Erlöser meldet sich.
+Den Himmels Weg dir zu bereiten.
+Nun kommt der Heiden Heiland.
+Auch dein verheißner Trost, drum sei getrost.
+Dein Leid hat sich gewand,
+und dainer Väter Hoffen hat höchst beglückt
+und seelig zu getroffen.
+
+Gott Lob! Die Nacht ist nun vorbei,
+ihr Schatten muß verschwinden.
+Die Sonne der Gerechtigkeit
+läßt ihre Strahlen allbereit.
+Auf Zionshügeln finden,
+Und theilt die Finsterniß entzwen.
+
+So siehe dann dein Heil du Tochter Zion an,
+Jetzt zieht es bei dir ein,
+Sieh aber nicht auf dich
+noch auf die Welt zurücke,
+Weil alle diese Blicke von Baselisken sein,
+die dich mit böser Luft vergifften,
+und Seelenschaden stifften.
+
+Öffnet euch, ihr Glaubensaugen,
+denn nur eure Blicke taugen,
+Dieses Gnadenlicht zu sehn.
+Wer sein Heil will recht betrachten Muß,
+was irrdisch ist, verachten,
+und die Eitelkeit verschmähn.
+
+Mit dieses Lichtes Schein stellt sich das Heil
+vor arme Seelen ein; denn ihr Erlöser zeiget sich
+auf Zion freue dich!
+
+Das schreib dir in dein Herze,
+du hochbetrübtes Heer,
+bei Denen Gram und Schmerze
+sich mehrt jemehr und mehr,
+seid unverzagt, ihr habet,
+die Hülffe for der Tür,
+der eure Herzen labet,
+und tröstet, steht allhier.
 ```
 
 ### Saget den Gästen
